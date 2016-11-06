@@ -34,10 +34,12 @@
 * Mathew Charles - [Twitter](https://twitter.com/mathew_charles)
 * Adrian Hall - [Twitter](https://twitter.com/FizzyInTheHall) - [Blog](https://shellmonger.com/)
 * Matthew Henderson - [Twitter](https://twitter.com/mattchenderson)
+* Ling Toh - [Twitter](https://twitter.com/ling_toh)
 
 ## Useful information
 
 * [How Azure functions pricing works](https://buildazure.com/2016/10/11/how-azure-functions-pricing-works/)
+* Justin Yoo - [Azure Functions Deployment Strategies](https://blog.kloud.com.au/2016/09/04/azure-functions-deployment-strategies/)
 
 ## Videos
 
@@ -54,17 +56,19 @@
 * [Official Functions samples](https://github.com/azure/azure-webjobs-sdk-script-samples)
 * [Azure Functions and Azure Media Services](https://github.com/AzureMediaServicesSamples/Media-Services-Azure-Functions?platform=hootsuite)
 * [Deploy from ARM Template](https://github.com/davidebbo-test/FunctionsSamples)
-* [Varioys Azure Functions Samples](https://github.com/guitarrapc/AzureFunctionsIntroduction)
+* [Various Azure Functions Samples](https://github.com/guitarrapc/AzureFunctionsIntroduction)
 
 ## How-Tos
 
-* [Deploy Azure Functions with PowerShell](http://stackoverflow.com/questions/36730898/deploy-to-azure-functions-using-powershell/36731134#36731134)
-* [Trigger a function on a ServiceBus Topic Subscription](http://stackoverflow.com/a/36722329)
-* [Create and debug Azure Functions Locally](https://shellmonger.com/2016/10/31/creating-and-debugging-azure-functions-locally/)
-* [Controlling concurrent queue processors](http://stackoverflow.com/a/40096267)
-* [Use Sauve and F# with Azure Functions](http://blog.tamizhvendan.in/blog/2016/09/19/scale-up-azure-functions-in-f-number-using-suave/)
-* [Access a Classic Storage Account from an Azure Function](http://stackoverflow.com/a/37365811)
-* [Use a private NuGet repository](http://stackoverflow.com/a/39536289)
+* Chris Anderson - [Deploy Azure Functions with PowerShell](http://stackoverflow.com/questions/36730898/deploy-to-azure-functions-using-powershell/36731134#36731134)
+* Mathew Charles - [Trigger a function on a ServiceBus Topic Subscription](http://stackoverflow.com/a/36722329)
+* Adrian Hall - [Create and debug Azure Functions Locally](https://shellmonger.com/2016/10/31/creating-and-debugging-azure-functions-locally/)
+* Mathew Charles - [Controlling concurrent queue processors](http://stackoverflow.com/a/40096267)
+* Tamizhvendan S [Use Sauve and F# with Azure Functions](http://blog.tamizhvendan.in/blog/2016/09/19/scale-up-azure-functions-in-f-number-using-suave/)
+* David Ebbo - [Access a Classic Storage Account from an Azure Function](http://stackoverflow.com/a/37365811)
+* Fabio Cavalcante - [Use a private NuGet repository](http://stackoverflow.com/a/39536289)
+* Justin Yoo - [Unit Testing Locally with ScriptCS](https://blog.kloud.com.au/2016/09/05/testing-azure-functions-in-emulated-environment-with-scriptcs/) using [ScriptCS.AzureFunctions Nuget package](https://www.nuget.org/packages/ScriptCs.AzureFunctions)
+* Greg Shackles - [Get Started with Azure Functions and F#](http://gregshackles.com/getting-started-with-azure-functions-and-f/)
 
 ## Real World Use Cases
 
@@ -80,3 +84,4 @@
 * Mark Heath - [Handling Payment Webhooks with Azure Functions](http://markheath.net/post/payment-webhooks-azure-functions) (C#, webhooks, queues)
 * Mark Heath - [Sending Randomly Scheduled Tweets with Azure Functions](http://markheath.net/post/randomly-scheduled-tweets-azure-functions) (C#, timer)
 * Alexandre Verkinderen - [Retrieve Azure AAD user information with Azure Functions and publish it into PowerBI](http://www.mscloud.be/retrieve-azure-aad-user-information-with-azure-functions-and-publish-it-into-powerbi/) (Timer trigger, PowerShell)
+* John Lui - [Build your PnP Site Provisioning with PowerShell in Azure Functions and run it from Flow](http://johnliu.net/blog/2016/11/build-your-pnp-site-provisioning-with-powershell-in-azure-functions-and-run-it-from-flow) (PowerShell, SharePoint, Flow)
