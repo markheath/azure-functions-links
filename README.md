@@ -86,3 +86,4 @@
 * Mark Heath - [Sending Randomly Scheduled Tweets with Azure Functions](http://markheath.net/post/randomly-scheduled-tweets-azure-functions) (C#, timer)
 * Alexandre Verkinderen - [Retrieve Azure AAD user information with Azure Functions and publish it into PowerBI](http://www.mscloud.be/retrieve-azure-aad-user-information-with-azure-functions-and-publish-it-into-powerbi/) (Timer trigger, PowerShell)
 * John Lui - [Build your PnP Site Provisioning with PowerShell in Azure Functions and run it from Flow](http://johnliu.net/blog/2016/11/build-your-pnp-site-provisioning-with-powershell-in-azure-functions-and-run-it-from-flow) (PowerShell, SharePoint, Flow)
+* David O'Brien - [Hey Slack, where’s my flight?](https://blogs.msdn.microsoft.com/mvpawardprogram/2016/11/08/hey-slack-wheres-my-flight/) (PowerShell, Slack)
