@@ -87,3 +87,5 @@
 * Alexandre Verkinderen - [Retrieve Azure AAD user information with Azure Functions and publish it into PowerBI](http://www.mscloud.be/retrieve-azure-aad-user-information-with-azure-functions-and-publish-it-into-powerbi/) (Timer trigger, PowerShell)
 * John Lui - [Build your PnP Site Provisioning with PowerShell in Azure Functions and run it from Flow](http://johnliu.net/blog/2016/11/build-your-pnp-site-provisioning-with-powershell-in-azure-functions-and-run-it-from-flow) (PowerShell, SharePoint, Flow)
 * David O'Brien - [Hey Slack, where’s my flight?](https://blogs.msdn.microsoft.com/mvpawardprogram/2016/11/08/hey-slack-wheres-my-flight/) (PowerShell, Slack)
+* Armin Reiter - [Using PowerShell to read RSS feed and write to Table Storage](https://codehollow.com/2016/11/working-azure-functions-part-1-powershell/) (Powershell, timer trigger, Table Storage)
+* Armin Reiter - [Generating iCal files from meetup API](https://codehollow.com/2016/11/working-with-azure-functions-part-2-c) (HTTP Trigger, NuGet)
