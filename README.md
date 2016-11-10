@@ -70,6 +70,7 @@
 * Justin Yoo - [Unit Testing Locally with ScriptCS](https://blog.kloud.com.au/2016/09/05/testing-azure-functions-in-emulated-environment-with-scriptcs/) using [ScriptCS.AzureFunctions Nuget package](https://www.nuget.org/packages/ScriptCs.AzureFunctions)
 * Greg Shackles - [Get Started with Azure Functions and F#](http://gregshackles.com/getting-started-with-azure-functions-and-f/)
 * Jason Roberts - [Calling Azure Functions from Microsoft Flow](http://dontcodetired.com/blog/post/Serverless-Computing-and-Workflows-with-Azure-Functions-and-Microsoft-Flow)
+* Mathew Charles - [Customize Deployment Process](http://stackoverflow.com/a/40532400/7532)
 
 ## Real World Use Cases
 
