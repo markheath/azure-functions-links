@@ -71,6 +71,7 @@
 * Greg Shackles - [Get Started with Azure Functions and F#](http://gregshackles.com/getting-started-with-azure-functions-and-f/)
 * Jason Roberts - [Calling Azure Functions from Microsoft Flow](http://dontcodetired.com/blog/post/Serverless-Computing-and-Workflows-with-Azure-Functions-and-Microsoft-Flow)
 * Mathew Charles - [Customize Deployment Process](http://stackoverflow.com/a/40532400/7532)
+* Mark Heath - [View Azure Functions Error Logs](http://markheath.net/post/three-ways-view-error-logs-azure-functions)
 
 ## Real World Use Cases
 
