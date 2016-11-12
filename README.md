@@ -54,7 +54,7 @@
 ## Sample Code
 
 * [Official Functions samples](https://github.com/azure/azure-webjobs-sdk-script-samples)
-* [Azure Functions and Azure Media Services](https://github.com/AzureMediaServicesSamples/Media-Services-Azure-Functions?platform=hootsuite)
+* [Azure Functions and Azure Media Services](https://github.com/Azure-Samples/media-services-dotnet-functions-integration)
 * [Deploy from ARM Template](https://github.com/davidebbo-test/FunctionsSamples)
 * [Various Azure Functions Samples](https://github.com/guitarrapc/AzureFunctionsIntroduction)
 
