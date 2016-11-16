@@ -40,6 +40,7 @@
 
 * [How Azure functions pricing works](https://buildazure.com/2016/10/11/how-azure-functions-pricing-works/)
 * Justin Yoo - [Azure Functions Deployment Strategies](https://blog.kloud.com.au/2016/09/04/azure-functions-deployment-strategies/)
+* [Best Practices for Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-best-practices)
 
 ## Videos
 
