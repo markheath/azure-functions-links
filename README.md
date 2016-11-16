@@ -72,6 +72,7 @@
 * Jason Roberts - [Calling Azure Functions from Microsoft Flow](http://dontcodetired.com/blog/post/Serverless-Computing-and-Workflows-with-Azure-Functions-and-Microsoft-Flow)
 * Mathew Charles - [Customize Deployment Process](http://stackoverflow.com/a/40532400/7532)
 * Mark Heath - [View Azure Functions Error Logs](http://markheath.net/post/three-ways-view-error-logs-azure-functions)
+* James Chambers - [How to Organize Types in Your Scripts](http://jameschambers.com/2016/11/How-to-organize-types-in-your-scripts/)
 
 ## Real World Use Cases
 
@@ -91,3 +92,4 @@
 * David O'Brien - [Hey Slack, where’s my flight?](https://blogs.msdn.microsoft.com/mvpawardprogram/2016/11/08/hey-slack-wheres-my-flight/) (PowerShell, Slack)
 * Armin Reiter - [Using PowerShell to read RSS feed and write to Table Storage](https://codehollow.com/2016/11/working-azure-functions-part-1-powershell/) (Powershell, timer trigger, Table Storage)
 * Armin Reiter - [Generating iCal files from meetup API](https://codehollow.com/2016/11/working-with-azure-functions-part-2-c) (HTTP Trigger, NuGet)
+* James Chambers - [How to Resize Images Uploaded to Blob Storage with Azure Functions](http://jameschambers.com/2016/11/Resizing-Images-Using-Azure-Functions/) (C#, Blob Storage, Using NuGet)
