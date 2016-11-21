@@ -51,6 +51,7 @@
 * Chris Anderson on Azure Friday - [Azure Functions Integration](https://channel9.msdn.com/Shows/Azure-Friday/Azure-functions-integration?WT.mc_id=DX_MVP4025064)
 * Chris Anderson on Azure Friday - [Triggering with Azure Functions](https://channel9.msdn.com/Shows/Azure-Friday/Triggering-with-Azure-Functions?WT.mc_id=DX_MVP4025064)
 * Matthew Henderson at Build 2016 - [Azure Functions under the Hood](https://www.youtube.com/watch?v=uiqc0iWwAzw)
+* Monsters Weekly Nov 2016 - [Episode 78 - Azure Functions with Chris Anderson](http://aspnetmonsters.com/2016/11/monsters-weekly%5Cep78/)
 
 ## Sample Code
 
@@ -74,6 +75,8 @@
 * Mathew Charles - [Customize Deployment Process](http://stackoverflow.com/a/40532400/7532)
 * Mark Heath - [View Azure Functions Error Logs](http://markheath.net/post/three-ways-view-error-logs-azure-functions)
 * James Chambers - [How to Organize Types in Your Scripts](http://jameschambers.com/2016/11/How-to-organize-types-in-your-scripts/)
+* James Chambers - [How to Deploy Azure Functions from GitHub](http://jameschambers.com/2016/11/deploy-functions-from-github/)
+* Mark Heath - [Binding to Blobs in Azure Functions with F#](http://markheath.net/post/using-blobs-in-azure-functions-with-fsharp)
 
 ## Real World Use Cases
 
