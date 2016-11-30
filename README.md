@@ -79,6 +79,7 @@
 * Mark Heath - [Binding to Blobs in Azure Functions with F#](http://markheath.net/post/using-blobs-in-azure-functions-with-fsharp)
 * Krzysztof Cieslak - [Using Paket with Azure Functions](http://kcieslak.io/Using-Paket-with-Azure-Functions)
 * Jason Roberts - [HTTP Function Authorization with Function Keys](http://dontcodetired.com/blog/post/Azure-HTTP-Function-Authorization-with-Function-Keys)
+
 ## Real World Use Cases
 
 * Troy Hunt - [Azure Functions in Practice](https://www.troyhunt.com/azure-functions-in-practice/) - Calling cloudflare (Queue Trigger, C#)
