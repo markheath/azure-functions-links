@@ -24,6 +24,7 @@
 ## Tools
 
 * [Azure Functions CLI](https://www.npmjs.com/package/azure-functions-cli)
+* [Visual Studio Tooling](https://blogs.msdn.microsoft.com/webdev/2016/12/01/visual-studio-tools-for-azure-functions/)
 
 ## Azure Functions Team
 
@@ -79,6 +80,7 @@
 * Mark Heath - [Binding to Blobs in Azure Functions with F#](http://markheath.net/post/using-blobs-in-azure-functions-with-fsharp)
 * Krzysztof Cieslak - [Using Paket with Azure Functions](http://kcieslak.io/Using-Paket-with-Azure-Functions)
 * Jason Roberts - [HTTP Function Authorization with Function Keys](http://dontcodetired.com/blog/post/Azure-HTTP-Function-Authorization-with-Function-Keys)
+* Adrian Hall - [Deploying Azure Functions Programatically](https://shellmonger.com/2016/12/02/deploying-azure-functions-automatically/)
 
 ## Real World Use Cases
 
@@ -99,3 +101,4 @@
 * Armin Reiter - [Using PowerShell to read RSS feed and write to Table Storage](https://codehollow.com/2016/11/working-azure-functions-part-1-powershell/) (Powershell, timer trigger, Table Storage)
 * Armin Reiter - [Generating iCal files from meetup API](https://codehollow.com/2016/11/working-with-azure-functions-part-2-c) (HTTP Trigger, NuGet)
 * James Chambers - [How to Resize Images Uploaded to Blob Storage with Azure Functions](http://jameschambers.com/2016/11/Resizing-Images-Using-Azure-Functions/) (C#, Blob Storage, Using NuGet)
+* Jason Roberts - [Screen Scraping as a Service](http://dontcodetired.com/blog/post/Screen-Scraping-As-A-Service-with-Azure-Functions-in-5-Mins) (C#, HTTP trigger, NuGet)
