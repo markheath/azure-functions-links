@@ -61,9 +61,15 @@
 * [Deploy from ARM Template](https://github.com/davidebbo-test/FunctionsSamples)
 * [Various Azure Functions Samples](https://github.com/guitarrapc/AzureFunctionsIntroduction)
 
-## How-Tos
-
+## How-Tos - Deployment
 * Chris Anderson - [Deploy Azure Functions with PowerShell](http://stackoverflow.com/questions/36730898/deploy-to-azure-functions-using-powershell/36731134#36731134)
+* James Chambers - [How to Deploy Azure Functions from GitHub](http://jameschambers.com/2016/11/deploy-functions-from-github/)
+* Mathew Charles - [Customize Deployment Process](http://stackoverflow.com/a/40532400/7532)
+* Adrian Hall - [Deploying Azure Functions Programatically](https://shellmonger.com/2016/12/02/deploying-azure-functions-automatically/)
+* Christos Matskas - [DevOps with Azure Functions](https://cmatskas.com/devops-with-azure-functions-a-holistic-approach/)
+
+## How-Tos - Misc
+
 * Mathew Charles - [Trigger a function on a ServiceBus Topic Subscription](http://stackoverflow.com/a/36722329)
 * Adrian Hall - [Create and debug Azure Functions Locally](https://shellmonger.com/2016/10/31/creating-and-debugging-azure-functions-locally/)
 * Mathew Charles - [Controlling concurrent queue processors](http://stackoverflow.com/a/40096267)
@@ -73,14 +79,11 @@
 * Justin Yoo - [Unit Testing Locally with ScriptCS](https://blog.kloud.com.au/2016/09/05/testing-azure-functions-in-emulated-environment-with-scriptcs/) using [ScriptCS.AzureFunctions Nuget package](https://www.nuget.org/packages/ScriptCs.AzureFunctions)
 * Greg Shackles - [Get Started with Azure Functions and F#](http://gregshackles.com/getting-started-with-azure-functions-and-f/)
 * Jason Roberts - [Calling Azure Functions from Microsoft Flow](http://dontcodetired.com/blog/post/Serverless-Computing-and-Workflows-with-Azure-Functions-and-Microsoft-Flow)
-* Mathew Charles - [Customize Deployment Process](http://stackoverflow.com/a/40532400/7532)
 * Mark Heath - [View Azure Functions Error Logs](http://markheath.net/post/three-ways-view-error-logs-azure-functions)
 * James Chambers - [How to Organize Types in Your Scripts](http://jameschambers.com/2016/11/How-to-organize-types-in-your-scripts/)
-* James Chambers - [How to Deploy Azure Functions from GitHub](http://jameschambers.com/2016/11/deploy-functions-from-github/)
 * Mark Heath - [Binding to Blobs in Azure Functions with F#](http://markheath.net/post/using-blobs-in-azure-functions-with-fsharp)
 * Krzysztof Cieslak - [Using Paket with Azure Functions](http://kcieslak.io/Using-Paket-with-Azure-Functions)
 * Jason Roberts - [HTTP Function Authorization with Function Keys](http://dontcodetired.com/blog/post/Azure-HTTP-Function-Authorization-with-Function-Keys)
-* Adrian Hall - [Deploying Azure Functions Programatically](https://shellmonger.com/2016/12/02/deploying-azure-functions-automatically/)
 
 ## Real World Use Cases
 
