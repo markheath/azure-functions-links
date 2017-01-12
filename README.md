@@ -13,6 +13,7 @@
 * [Azure/azure-functions (Documentation)](https://github.com/Azure/azure-functions)
 * [Azure/azure-webjobs-sdk](https://github.com/azure/azure-webjobs-sdk)
 * [Azure/azure-webjobs-sdk-extensions](https://github.com/Azure/azure-webjobs-sdk-extensions)
+* [Azure/azure-functions-cli (Command Line Interface)](https://github.com/azure/azure-functions-cli)
 * [ProjectKudu/AzureFunctionsPortal](https://github.com/projectkudu/AzureFunctionsPortal)
 
 ## Asking Questions and Feature requests
@@ -84,6 +85,7 @@
 * Mark Heath - [Binding to Blobs in Azure Functions with F#](http://markheath.net/post/using-blobs-in-azure-functions-with-fsharp)
 * Krzysztof Cieslak - [Using Paket with Azure Functions](http://kcieslak.io/Using-Paket-with-Azure-Functions)
 * Jason Roberts - [HTTP Function Authorization with Function Keys](http://dontcodetired.com/blog/post/Azure-HTTP-Function-Authorization-with-Function-Keys)
+* Andreas Helland - [Precompiling your Azure Functions](https://contos.io/precompiling-your-azure-functions-2335bd1def1d#.b8tdfrjs4)
 
 ## Real World Use Cases
 
@@ -105,3 +107,4 @@
 * Armin Reiter - [Generating iCal files from meetup API](https://codehollow.com/2016/11/working-with-azure-functions-part-2-c) (HTTP Trigger, NuGet)
 * James Chambers - [How to Resize Images Uploaded to Blob Storage with Azure Functions](http://jameschambers.com/2016/11/Resizing-Images-Using-Azure-Functions/) (C#, Blob Storage, Using NuGet)
 * Jason Roberts - [Screen Scraping as a Service](http://dontcodetired.com/blog/post/Screen-Scraping-As-A-Service-with-Azure-Functions-in-5-Mins) (C#, HTTP trigger, NuGet)
+* Darren Robinson - [Simultaneously Start/Stop all Azure Resource Manager VMs in a Resource Group](https://blog.kloud.com.au/2017/01/06/how-to-create-an-azure-function-app-to-simultaneously-startstop-all-virtual-machines-in-a-resource-group/) (Powershell)
