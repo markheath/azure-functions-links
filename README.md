@@ -54,6 +54,7 @@
 * Chris Anderson on Azure Friday - [Triggering with Azure Functions](https://channel9.msdn.com/Shows/Azure-Friday/Triggering-with-Azure-Functions?WT.mc_id=DX_MVP4025064)
 * Matthew Henderson at Build 2016 - [Azure Functions under the Hood](https://www.youtube.com/watch?v=uiqc0iWwAzw)
 * Monsters Weekly Nov 2016 - [Episode 78 - Azure Functions with Chris Anderson](http://aspnetmonsters.com/2016/11/monsters-weekly%5Cep78/)
+* Jon Galloway and Jesse Liberty - [Yet Another Podcast Episode 165](http://jesseliberty.com/2017/01/11/yet-another-podcast-165-jon-galloway-on-azure-functions/)
 
 ## Sample Code
 
