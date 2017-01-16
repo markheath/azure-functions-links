@@ -87,6 +87,7 @@
 * Krzysztof Cieslak - [Using Paket with Azure Functions](http://kcieslak.io/Using-Paket-with-Azure-Functions)
 * Jason Roberts - [HTTP Function Authorization with Function Keys](http://dontcodetired.com/blog/post/Azure-HTTP-Function-Authorization-with-Function-Keys)
 * Andreas Helland - [Precompiling your Azure Functions](https://contos.io/precompiling-your-azure-functions-2335bd1def1d#.b8tdfrjs4)
+* Christos Matskas - [Custom Logging with AppInsights](https://cmatskas.com/azure-functions-custom-logging-with-appinsights/)
 
 ## Real World Use Cases
 
