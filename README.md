@@ -110,3 +110,4 @@
 * James Chambers - [How to Resize Images Uploaded to Blob Storage with Azure Functions](http://jameschambers.com/2016/11/Resizing-Images-Using-Azure-Functions/) (C#, Blob Storage, Using NuGet)
 * Jason Roberts - [Screen Scraping as a Service](http://dontcodetired.com/blog/post/Screen-Scraping-As-A-Service-with-Azure-Functions-in-5-Mins) (C#, HTTP trigger, NuGet)
 * Darren Robinson - [Simultaneously Start/Stop all Azure Resource Manager VMs in a Resource Group](https://blog.kloud.com.au/2017/01/06/how-to-create-an-azure-function-app-to-simultaneously-startstop-all-virtual-machines-in-a-resource-group/) (Powershell)
+* Brent Schooley - [Send Daily SMS Reminders Using C#, Azure Functions and Twilio](https://twilioinc.wpengine.com/2017/01/how-to-send-daily-sms-reminders-using-c-azure-functions-and-twilio.html)
