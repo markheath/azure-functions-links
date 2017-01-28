@@ -55,6 +55,8 @@
 * Matthew Henderson at Build 2016 - [Azure Functions under the Hood](https://www.youtube.com/watch?v=uiqc0iWwAzw)
 * Monsters Weekly Nov 2016 - [Episode 78 - Azure Functions with Chris Anderson](http://aspnetmonsters.com/2016/11/monsters-weekly%5Cep78/)
 * Jon Galloway and Jesse Liberty - [Yet Another Podcast Episode 165](http://jesseliberty.com/2017/01/11/yet-another-podcast-165-jon-galloway-on-azure-functions/)
+* Corey Fowler - [How to Function](https://www.youtube.com/playlist?list=PLJv91fiNGrCAiVrzJIk9aUu4Lsd3QFrKe)
+* Mark Heath - [Azure Functions Fundamentals Pluralsight Course](https://app.pluralsight.com/library/courses/azure-functions-fundamentals/table-of-contents)
 
 ## Sample Code
 
