@@ -37,7 +37,7 @@
 * Adrian Hall - [Twitter](https://twitter.com/FizzyInTheHall) - [Blog](https://shellmonger.com/)
 * Matthew Henderson - [Twitter](https://twitter.com/mattchenderson)
 * Ling Toh - [Twitter](https://twitter.com/ling_toh)
-* Cory Fowler - [Twitter](https://twitter.com/cfowlerMSFT), [GitHub](https://github.com/syntaxc4)
+* Cory Fowler - [Twitter](https://twitter.com/cfowlerMSFT) - [GitHub](https://github.com/syntaxc4)
 
 ## Useful information
 
