@@ -117,3 +117,4 @@
 * Jason Roberts - [Screen Scraping as a Service](http://dontcodetired.com/blog/post/Screen-Scraping-As-A-Service-with-Azure-Functions-in-5-Mins) (C#, HTTP trigger, NuGet)
 * Darren Robinson - [Simultaneously Start/Stop all Azure Resource Manager VMs in a Resource Group](https://blog.kloud.com.au/2017/01/06/how-to-create-an-azure-function-app-to-simultaneously-startstop-all-virtual-machines-in-a-resource-group/) (Powershell)
 * Brent Schooley - [Send Daily SMS Reminders Using C#, Azure Functions and Twilio](https://twilioinc.wpengine.com/2017/01/how-to-send-daily-sms-reminders-using-c-azure-functions-and-twilio.html)
+* Mattias Karlsson - [Automate GitHub Pull Requests Validation](https://hackernoon.com/github-statuses-made-easy-with-faas-fd9236a41925#.s1b5cova1)
