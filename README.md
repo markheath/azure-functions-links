@@ -80,6 +80,12 @@
 * Tamizhvendan S [Use Sauve and F# with Azure Functions](http://blog.tamizhvendan.in/blog/2016/09/19/scale-up-azure-functions-in-f-number-using-suave/)
 * Krzysztof Cieslak - [Using Paket with Azure Functions](http://kcieslak.io/Using-Paket-with-Azure-Functions)
 
+## How-Tos - Logging
+* Mark Heath - [View Azure Functions Error Logs](http://markheath.net/post/three-ways-view-error-logs-azure-functions)
+* Christos Matskas - [Custom Logging with AppInsights](https://cmatskas.com/azure-functions-custom-logging-with-appinsights/)
+* Tim Murphy - [Logging in Azure Functions](http://geekswithblogs.net/tmurphy/archive/2017/02/13/implementing-logging-in-azure-functions.aspx)
+* Tim Murphy - [Logging to Application Insights in Azure Functions](http://geekswithblogs.net/tmurphy/archive/2017/02/16/logging-to-application-insights-in-azure-functions.aspx)
+
 ## How-Tos - Misc
 
 * Mathew Charles - [Trigger a function on a ServiceBus Topic Subscription](http://stackoverflow.com/a/36722329)
@@ -89,11 +95,10 @@
 * Fabio Cavalcante - [Use a private NuGet repository](http://stackoverflow.com/a/39536289)
 * Justin Yoo - [Unit Testing Locally with ScriptCS](https://blog.kloud.com.au/2016/09/05/testing-azure-functions-in-emulated-environment-with-scriptcs/) using [ScriptCS.AzureFunctions Nuget package](https://www.nuget.org/packages/ScriptCs.AzureFunctions)
 * Jason Roberts - [Calling Azure Functions from Microsoft Flow](http://dontcodetired.com/blog/post/Serverless-Computing-and-Workflows-with-Azure-Functions-and-Microsoft-Flow)
-* Mark Heath - [View Azure Functions Error Logs](http://markheath.net/post/three-ways-view-error-logs-azure-functions)
 * James Chambers - [How to Organize Types in Your Scripts](http://jameschambers.com/2016/11/How-to-organize-types-in-your-scripts/)
 * Jason Roberts - [HTTP Function Authorization with Function Keys](http://dontcodetired.com/blog/post/Azure-HTTP-Function-Authorization-with-Function-Keys)
 * Andreas Helland - [Precompiling your Azure Functions](https://contos.io/precompiling-your-azure-functions-2335bd1def1d#.b8tdfrjs4)
-* Christos Matskas - [Custom Logging with AppInsights](https://cmatskas.com/azure-functions-custom-logging-with-appinsights/)
+* Anthony Chu - [Updating and Deleting Table Storage Entities with Azure Functions (C# and JavaScript)](http://anthonychu.ca/post/azure-functions-update-delete-table-storage/)
 
 ## Real World Use Cases
 
@@ -118,3 +123,4 @@
 * Darren Robinson - [Simultaneously Start/Stop all Azure Resource Manager VMs in a Resource Group](https://blog.kloud.com.au/2017/01/06/how-to-create-an-azure-function-app-to-simultaneously-startstop-all-virtual-machines-in-a-resource-group/) (Powershell)
 * Brent Schooley - [Send Daily SMS Reminders Using C#, Azure Functions and Twilio](https://twilioinc.wpengine.com/2017/01/how-to-send-daily-sms-reminders-using-c-azure-functions-and-twilio.html)
 * Mattias Karlsson - [Automate GitHub Pull Requests Validation](https://hackernoon.com/github-statuses-made-easy-with-faas-fd9236a41925#.s1b5cova1)
+
