@@ -66,13 +66,13 @@
 * [Various Azure Functions Samples](https://github.com/guitarrapc/AzureFunctionsIntroduction)
 
 ## How-Tos - Deployment
-* Chris Anderson - [Deploy Azure Functions with PowerShell](http://stackoverflow.com/questions/36730898/deploy-to-azure-functions-using-powershell/36731134#36731134)
 * James Chambers - [How to Deploy Azure Functions from GitHub](http://jameschambers.com/2016/11/deploy-functions-from-github/)
 * Mathew Charles - [Customize Deployment Process](http://stackoverflow.com/a/40532400/7532)
 * Adrian Hall - [Deploying Azure Functions Programatically](https://shellmonger.com/2016/12/02/deploying-azure-functions-automatically/)
 * Christos Matskas - [DevOps with Azure Functions](https://cmatskas.com/devops-with-azure-functions-a-holistic-approach/)
 * Ian Alderman - [Deploying Azure Functions via ARM Template](http://mythoughtlab.azurewebsites.net/azure/deploying-your-azure-function-via-arm-template/)
 * Justin Yoo - [Azure Functions Deployment Strategies](https://blog.kloud.com.au/2016/09/04/azure-functions-deployment-strategies/)
+* Mark Heath - [Deploy Azure Functions with Kudu and PowerShell](http://markheath.net/post/deploy-azure-functions-kudu-powershell)
 
 ## How-Tos - F# 
 * Greg Shackles - [Get Started with Azure Functions and F#](http://gregshackles.com/getting-started-with-azure-functions-and-f/)
