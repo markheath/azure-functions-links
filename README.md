@@ -73,6 +73,7 @@
 * Ian Alderman - [Deploying Azure Functions via ARM Template](http://mythoughtlab.azurewebsites.net/azure/deploying-your-azure-function-via-arm-template/)
 * Justin Yoo - [Azure Functions Deployment Strategies](https://blog.kloud.com.au/2016/09/04/azure-functions-deployment-strategies/)
 * Mark Heath - [Deploy Azure Functions with Kudu and PowerShell](http://markheath.net/post/deploy-azure-functions-kudu-powershell)
+* Peter Toonen - [Continuous Delivery of Azure Functions with TFS](https://toonen.io/2017/02/24/continuous-delivery-of-azure-functions-with-tfs/)
 
 ## How-Tos - F# 
 * Greg Shackles - [Get Started with Azure Functions and F#](http://gregshackles.com/getting-started-with-azure-functions-and-f/)
@@ -99,6 +100,9 @@
 * Jason Roberts - [HTTP Function Authorization with Function Keys](http://dontcodetired.com/blog/post/Azure-HTTP-Function-Authorization-with-Function-Keys)
 * Andreas Helland - [Precompiling your Azure Functions](https://contos.io/precompiling-your-azure-functions-2335bd1def1d#.b8tdfrjs4)
 * Anthony Chu - [Updating and Deleting Table Storage Entities with Azure Functions (C# and JavaScript)](http://anthonychu.ca/post/azure-functions-update-delete-table-storage/)
+* Jason Roberts - [Azure Functions Proxies Preview](http://dontcodetired.com/blog/post/Azure-Functions-Proxies-Preview)
+* Jason Roberts - [Cross Function App Proxies and Proxy Request Parameters in Azure Functions](http://dontcodetired.com/blog/post/Cross-Function-App-Proxies-and-Proxy-Request-Parameters-in-Azure-Functions)
+* Austen Collins - [Azure Functions Serverless Framework Plugin](https://serverless.com/blog/azure-functions-and-possibility/)
 
 ## Real World Use Cases
 
@@ -123,4 +127,6 @@
 * Darren Robinson - [Simultaneously Start/Stop all Azure Resource Manager VMs in a Resource Group](https://blog.kloud.com.au/2017/01/06/how-to-create-an-azure-function-app-to-simultaneously-startstop-all-virtual-machines-in-a-resource-group/) (Powershell)
 * Brent Schooley - [Send Daily SMS Reminders Using C#, Azure Functions and Twilio](https://twilioinc.wpengine.com/2017/01/how-to-send-daily-sms-reminders-using-c-azure-functions-and-twilio.html)
 * Mattias Karlsson - [Automate GitHub Pull Requests Validation](https://hackernoon.com/github-statuses-made-easy-with-faas-fd9236a41925#.s1b5cova1)
+* Loic Sterckx - [Backup your OneDrive at rocket speed!](https://loicsterckx.wordpress.com/2017/02/17/azure-functions-backup-your-onedrive-at-rocket-speed/)
+* Mark Heath - [Rapid API Development with Azure Functions](http://markheath.net/post/rapid-api-development-with-azure-functions)
 
