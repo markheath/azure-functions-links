@@ -103,6 +103,7 @@
 * Jason Roberts - [Azure Functions Proxies Preview](http://dontcodetired.com/blog/post/Azure-Functions-Proxies-Preview)
 * Jason Roberts - [Cross Function App Proxies and Proxy Request Parameters in Azure Functions](http://dontcodetired.com/blog/post/Cross-Function-App-Proxies-and-Proxy-Request-Parameters-in-Azure-Functions)
 * Austen Collins - [Azure Functions Serverless Framework Plugin](https://serverless.com/blog/azure-functions-and-possibility/)
+* Geert van der Cruijsen -[Building, testing and deploying precompiled Azure Functions](https://mobilefirstcloudfirst.net/2017/01/building-testing-deploying-precompiled-azure-functions/)
 
 ## Real World Use Cases
 
