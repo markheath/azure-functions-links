@@ -110,6 +110,12 @@
 * Jason Roberts - [Sending a Regular SMS with Azure Functions and Twilio](http://dontcodetired.com/blog/post/Sending-a-Regular-SMS-with-Azure-Functions-and-Twilio)
 * Brent Schooley - [Send Daily SMS Reminders Using C#, Azure Functions and Twilio](https://twilioinc.wpengine.com/2017/01/how-to-send-daily-sms-reminders-using-c-azure-functions-and-twilio.html)
 
+## How-Tos - Proxies
+
+* Jason Roberts - [Azure Functions Proxies Preview](http://dontcodetired.com/blog/post/Azure-Functions-Proxies-Preview)
+* Jason Roberts - [Cross Function App Proxies and Proxy Request Parameters in Azure Functions](http://dontcodetired.com/blog/post/Cross-Function-App-Proxies-and-Proxy-Request-Parameters-in-Azure-Functions)
+* Jason Roberts - [Creating Versioned APIs with Azure Functions Proxies](http://dontcodetired.com/blog/post/Creating-Versioned-APIs-with-Azure-Functions-an-Proxies)
+
 ## How-Tos - Misc
 
 * Mathew Charles - [Trigger a function on a ServiceBus Topic Subscription](http://stackoverflow.com/a/36722329)
@@ -123,8 +129,6 @@
 * Jason Roberts - [HTTP Function Authorization with Function Keys](http://dontcodetired.com/blog/post/Azure-HTTP-Function-Authorization-with-Function-Keys)
 * Andreas Helland - [Precompiling your Azure Functions](https://contos.io/precompiling-your-azure-functions-2335bd1def1d#.b8tdfrjs4)
 * Anthony Chu - [Updating and Deleting Table Storage Entities with Azure Functions (C# and JavaScript)](http://anthonychu.ca/post/azure-functions-update-delete-table-storage/)
-* Jason Roberts - [Azure Functions Proxies Preview](http://dontcodetired.com/blog/post/Azure-Functions-Proxies-Preview)
-* Jason Roberts - [Cross Function App Proxies and Proxy Request Parameters in Azure Functions](http://dontcodetired.com/blog/post/Cross-Function-App-Proxies-and-Proxy-Request-Parameters-in-Azure-Functions)
 * Austen Collins - [Azure Functions Serverless Framework Plugin](https://serverless.com/blog/azure-functions-and-possibility/)
 * Geert van der Cruijsen -[Building, testing and deploying precompiled Azure Functions](https://mobilefirstcloudfirst.net/2017/01/building-testing-deploying-precompiled-azure-functions/)
 
