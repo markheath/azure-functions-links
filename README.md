@@ -83,6 +83,7 @@
 * Tamizhvendan S [Use Sauve and F# with Azure Functions](http://blog.tamizhvendan.in/blog/2016/09/19/scale-up-azure-functions-in-f-number-using-suave/)
 * Krzysztof Cieslak - [Using Paket with Azure Functions](http://kcieslak.io/Using-Paket-with-Azure-Functions)
 * Greg Shackles - [Creating Slack Slash Commands with Azure Functions](https://gregshackles.com/creating-slack-slash-commands-with-azure-functions/)
+* Mathias Brandewinder - Creating an Azure Function in F# from the ground up  [Part 1](http://brandewinder.com/2017/02/11/fsharp-azure-function-from-the-ground-up-part-1/) [Part 2](http://brandewinder.com/2017/03/06/fsharp-azure-function-from-the-ground-up-part-2/)
 
 ## How-Tos - PowerShell
 
@@ -148,4 +149,4 @@
 * Mattias Karlsson - [Automate GitHub Pull Requests Validation](https://hackernoon.com/github-statuses-made-easy-with-faas-fd9236a41925#.s1b5cova1)
 * Loic Sterckx - [Backup your OneDrive at rocket speed!](https://loicsterckx.wordpress.com/2017/02/17/azure-functions-backup-your-onedrive-at-rocket-speed/)
 * Mark Heath - [Rapid API Development with Azure Functions](http://markheath.net/post/rapid-api-development-with-azure-functions)
-
+* Michael Washington - [Convert PDF Images to PNG Files using Azure Functions](http://lightswitchhelpwebsite.com/Blog/tabid/61/EntryId/3303/Convert-PDF-files-to-PNG-Images-using-Azure-Functions.aspx)
