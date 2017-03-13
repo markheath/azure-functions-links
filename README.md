@@ -54,9 +54,14 @@
 * Chris Anderson on Azure Friday - [Triggering with Azure Functions](https://channel9.msdn.com/Shows/Azure-Friday/Triggering-with-Azure-Functions?WT.mc_id=DX_MVP4025064)
 * Matthew Henderson at Build 2016 - [Azure Functions under the Hood](https://www.youtube.com/watch?v=uiqc0iWwAzw)
 * Monsters Weekly Nov 2016 - [Episode 78 - Azure Functions with Chris Anderson](http://aspnetmonsters.com/2016/11/monsters-weekly%5Cep78/)
-* Jon Galloway and Jesse Liberty - [Yet Another Podcast Episode 165](http://jesseliberty.com/2017/01/11/yet-another-podcast-165-jon-galloway-on-azure-functions/)
 * Cory Fowler - [How to Function](https://www.youtube.com/playlist?list=PLJv91fiNGrCAiVrzJIk9aUu4Lsd3QFrKe)
 * Mark Heath - [Azure Functions Fundamentals Pluralsight Course](https://app.pluralsight.com/library/courses/azure-functions-fundamentals/table-of-contents)
+* Jason Roberts - [Azure Function Triggers Quickstart Pluralsight Course](https://www.pluralsight.com/courses/azure-function-triggers-quick-start)
+
+## Podcast Episodes
+
+* Jon Galloway and Jesse Liberty - [Yet Another Podcast Episode 165](http://jesseliberty.com/2017/01/11/yet-another-podcast-165-jon-galloway-on-azure-functions/)
+* Greg Shackles and Jesse Liberty - [Yet Another Podcast Episode 168](http://jesseliberty.com/2017/02/25/yet-another-podcast-168-greg-shackles/)
 
 ## Sample Code
 
@@ -75,6 +80,7 @@
 * Justin Yoo - [Azure Functions Deployment Strategies](https://blog.kloud.com.au/2016/09/04/azure-functions-deployment-strategies/)
 * Mark Heath - [Deploy Azure Functions with Kudu and PowerShell](http://markheath.net/post/deploy-azure-functions-kudu-powershell)
 * Peter Toonen - [Continuous Delivery of Azure Functions with TFS](https://toonen.io/2017/02/24/continuous-delivery-of-azure-functions-with-tfs/)
+* Mattias Karlson - [Delivering Functions with Cake](https://hackernoon.com/delivering-functions-with-cake-4b269c50f817#.129qqqwmj)
 
 ## How-Tos - F# 
 
@@ -132,6 +138,7 @@
 * Anthony Chu - [Updating and Deleting Table Storage Entities with Azure Functions (C# and JavaScript)](http://anthonychu.ca/post/azure-functions-update-delete-table-storage/)
 * Austen Collins - [Azure Functions Serverless Framework Plugin](https://serverless.com/blog/azure-functions-and-possibility/)
 * Geert van der Cruijsen -[Building, testing and deploying precompiled Azure Functions](https://mobilefirstcloudfirst.net/2017/01/building-testing-deploying-precompiled-azure-functions/)
+* Donna Malayeri - [Combining .funproj with Web App Project](https://github.com/lindydonna/FunctionsClassLibrary)
 
 ## Real World Use Cases
 
