@@ -137,8 +137,9 @@
 * Andreas Helland - [Precompiling your Azure Functions](https://contos.io/precompiling-your-azure-functions-2335bd1def1d#.b8tdfrjs4)
 * Anthony Chu - [Updating and Deleting Table Storage Entities with Azure Functions (C# and JavaScript)](http://anthonychu.ca/post/azure-functions-update-delete-table-storage/)
 * Austen Collins - [Azure Functions Serverless Framework Plugin](https://serverless.com/blog/azure-functions-and-possibility/)
-* Geert van der Cruijsen -[Building, testing and deploying precompiled Azure Functions](https://mobilefirstcloudfirst.net/2017/01/building-testing-deploying-precompiled-azure-functions/)
+* Geert van der Cruijsen - [Building, testing and deploying precompiled Azure Functions](https://mobilefirstcloudfirst.net/2017/01/building-testing-deploying-precompiled-azure-functions/)
 * Donna Malayeri - [Combining .funproj with Web App Project](https://github.com/lindydonna/FunctionsClassLibrary)
+* Ales Daneu - [Enabling CORS for local testing](http://stackoverflow.com/a/42750529/7532)
 
 ## Real World Use Cases
 
