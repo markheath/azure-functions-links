@@ -140,6 +140,7 @@
 * Geert van der Cruijsen - [Building, testing and deploying precompiled Azure Functions](https://mobilefirstcloudfirst.net/2017/01/building-testing-deploying-precompiled-azure-functions/)
 * Donna Malayeri - [Combining .funproj with Web App Project](https://github.com/lindydonna/FunctionsClassLibrary)
 * Ales Daneu - [Enabling CORS for local testing](http://stackoverflow.com/a/42750529/7532)
+* Steve Lee - [Using Serverless Azure Functions with Auth0 and Google APIs](https://auth0.com/blog/using-serverless-azure-functions-with-auth0-and-google-apis/)
 
 ## Real World Use Cases
 
