@@ -26,6 +26,7 @@
 
 * [Azure Functions CLI](https://www.npmjs.com/package/azure-functions-cli)
 * [Visual Studio Tooling](https://blogs.msdn.microsoft.com/webdev/2016/12/01/visual-studio-tools-for-azure-functions/)
+* [Azure Functions Pack Utility for Node.js Functions](https://www.npmjs.com/package/azure-functions-pack)
 
 ## Azure Functions Team
 
@@ -69,6 +70,7 @@
 * [Azure Functions and Azure Media Services](https://github.com/Azure-Samples/media-services-dotnet-functions-integration)
 * [Deploy from ARM Template](https://github.com/davidebbo-test/FunctionsSamples)
 * [Various Azure Functions Samples](https://github.com/guitarrapc/AzureFunctionsIntroduction)
+* [Common Use Cases for Azure Functions](http://functionlibrary.azurewebsites.net/)
 
 ## How-Tos - Deployment
 
@@ -123,24 +125,35 @@
 * Jason Roberts - [Cross Function App Proxies and Proxy Request Parameters in Azure Functions](http://dontcodetired.com/blog/post/Cross-Function-App-Proxies-and-Proxy-Request-Parameters-in-Azure-Functions)
 * Jason Roberts - [Creating Versioned APIs with Azure Functions Proxies](http://dontcodetired.com/blog/post/Creating-Versioned-APIs-with-Azure-Functions-an-Proxies)
 
+## How-Tos - Precompiled Functions
+
+* Andreas Helland - [Precompiling your Azure Functions](https://contos.io/precompiling-your-azure-functions-2335bd1def1d#.b8tdfrjs4)
+* Geert van der Cruijsen - [Building, testing and deploying precompiled Azure Functions](https://mobilefirstcloudfirst.net/2017/01/building-testing-deploying-precompiled-azure-functions/)
+* Donna Malayeri [Publishing a .NET class library as a Function App](https://blogs.msdn.microsoft.com/appserviceteam/2017/03/16/publishing-a-net-class-library-as-a-function-app/)
+
+## How-Tos - Auth
+
+* Steve Lee - [Using Serverless Azure Functions with Auth0 and Google APIs](https://auth0.com/blog/using-serverless-azure-functions-with-auth0-and-google-apis/)
+* Jason Roberts - [HTTP Function Authorization with Function Keys](http://dontcodetired.com/blog/post/Azure-HTTP-Function-Authorization-with-Function-Keys)
+
+## How-Tos - Local Testing
+
+* Adrian Hall - [Create and debug Azure Functions Locally](https://shellmonger.com/2016/10/31/creating-and-debugging-azure-functions-locally/)
+* Justin Yoo - [Unit Testing Locally with ScriptCS](https://blog.kloud.com.au/2016/09/05/testing-azure-functions-in-emulated-environment-with-scriptcs/) using [ScriptCS.AzureFunctions Nuget package](https://www.nuget.org/packages/ScriptCs.AzureFunctions)
+* Mark Heath - [Enabling CORS for local testing](http://markheath.net/post/enable-cors-local-test-azure-functions)
+
 ## How-Tos - Misc
 
 * Mathew Charles - [Trigger a function on a ServiceBus Topic Subscription](http://stackoverflow.com/a/36722329)
-* Adrian Hall - [Create and debug Azure Functions Locally](https://shellmonger.com/2016/10/31/creating-and-debugging-azure-functions-locally/)
 * Mathew Charles - [Controlling concurrent queue processors](http://stackoverflow.com/a/40096267)
 * David Ebbo - [Access a Classic Storage Account from an Azure Function](http://stackoverflow.com/a/37365811)
 * Fabio Cavalcante - [Use a private NuGet repository](http://stackoverflow.com/a/39536289)
-* Justin Yoo - [Unit Testing Locally with ScriptCS](https://blog.kloud.com.au/2016/09/05/testing-azure-functions-in-emulated-environment-with-scriptcs/) using [ScriptCS.AzureFunctions Nuget package](https://www.nuget.org/packages/ScriptCs.AzureFunctions)
 * Jason Roberts - [Calling Azure Functions from Microsoft Flow](http://dontcodetired.com/blog/post/Serverless-Computing-and-Workflows-with-Azure-Functions-and-Microsoft-Flow)
 * James Chambers - [How to Organize Types in Your Scripts](http://jameschambers.com/2016/11/How-to-organize-types-in-your-scripts/)
-* Jason Roberts - [HTTP Function Authorization with Function Keys](http://dontcodetired.com/blog/post/Azure-HTTP-Function-Authorization-with-Function-Keys)
-* Andreas Helland - [Precompiling your Azure Functions](https://contos.io/precompiling-your-azure-functions-2335bd1def1d#.b8tdfrjs4)
 * Anthony Chu - [Updating and Deleting Table Storage Entities with Azure Functions (C# and JavaScript)](http://anthonychu.ca/post/azure-functions-update-delete-table-storage/)
 * Austen Collins - [Azure Functions Serverless Framework Plugin](https://serverless.com/blog/azure-functions-and-possibility/)
-* Geert van der Cruijsen - [Building, testing and deploying precompiled Azure Functions](https://mobilefirstcloudfirst.net/2017/01/building-testing-deploying-precompiled-azure-functions/)
 * Donna Malayeri - [Combining .funproj with Web App Project](https://github.com/lindydonna/FunctionsClassLibrary)
-* Ales Daneu - [Enabling CORS for local testing](http://stackoverflow.com/a/42750529/7532)
-* Steve Lee - [Using Serverless Azure Functions with Auth0 and Google APIs](https://auth0.com/blog/using-serverless-azure-functions-with-auth0-and-google-apis/)
+
 
 ## Real World Use Cases
 
@@ -159,3 +172,5 @@
 * Loic Sterckx - [Backup your OneDrive at rocket speed!](https://loicsterckx.wordpress.com/2017/02/17/azure-functions-backup-your-onedrive-at-rocket-speed/)
 * Mark Heath - [Rapid API Development with Azure Functions](http://markheath.net/post/rapid-api-development-with-azure-functions)
 * Michael Washington - [Convert PDF Images to PNG Files using Azure Functions](http://lightswitchhelpwebsite.com/Blog/tabid/61/EntryId/3303/Convert-PDF-files-to-PNG-Images-using-Azure-Functions.aspx)
+* Mikhail Shilkov - [Azure Functions as a Facade for Azure Monitoring](http://mikhail.io/2017/03/azure-functions-as-facade-for-azure-monitoring/)
+* Ryan Miller - Alexa On Azure [Part 1](http://intranoggin.com/Blog/February-2017/Alexa-on-Azure-Part-1-Creating-the-Function.aspx), [Part 2](http://intranoggin.com/Blog/February-2017/Alexa-on-Azure-Part-2%E2%80%93Registering-Your-Function.aspx), [Part 3](http://intranoggin.com/Blog/February-2017/Alexa-on-Azure-Part-3-Adding-Slots.aspx), [Part 4](http://intranoggin.com/Blog/March-2017/Alexa-on-Azure-Part-4-%E2%80%93-New-Utterances.aspx), [Part 5](http://intranoggin.com/Blog/March-2017/Alexa-on-Azure-Part-5-Staging-Environment.aspx), [Part 6](http://intranoggin.com/Blog/March-2017/Alexa-on-Azure-Part-6-Functions-Release-Managem.aspx), [Part 7](http://intranoggin.com/Blog/March-2017/Alexa-on-Azure-Part-7%E2%80%93Keep-it-Alive.aspx)
