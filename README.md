@@ -154,7 +154,7 @@
 * Anthony Chu - [Updating and Deleting Table Storage Entities with Azure Functions (C# and JavaScript)](http://anthonychu.ca/post/azure-functions-update-delete-table-storage/)
 * Austen Collins - [Azure Functions Serverless Framework Plugin](https://serverless.com/blog/azure-functions-and-possibility/)
 * Donna Malayeri - [Combining .funproj with Web App Project](https://github.com/lindydonna/FunctionsClassLibrary)
-
+* John Papa - [Configuring Azure Functions Intellisense via JSON Schemas](https://johnpapa.net/configuring-azure-functions-intellisense-via-json-schemas/)
 
 ## Real World Use Cases
 
