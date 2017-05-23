@@ -25,8 +25,12 @@
 ## Tools
 
 * [Azure Functions CLI](https://www.npmjs.com/package/azure-functions-cli)
-* [Visual Studio Tooling](https://blogs.msdn.microsoft.com/webdev/2016/12/01/visual-studio-tools-for-azure-functions/)
+* [Visual Studio 2015 Tooling](https://blogs.msdn.microsoft.com/webdev/2016/12/01/visual-studio-tools-for-azure-functions/)
+* [Visual Studio 2017 Tooling](https://blogs.msdn.microsoft.com/webdev/2017/05/10/azure-function-tools-for-visual-studio-2017/)
 * [Azure Functions Pack Utility for Node.js Functions](https://www.npmjs.com/package/azure-functions-pack)
+* [Azure Functions Runtime Preview](https://azure.microsoft.com/en-gb/blog/introducing-azure-functions-runtime-preview/)
+* [Azure Function Graphic Visualiser](https://github.com/jakkaj/funcgraph)
+* [VS Code Extension with Azure Function Intellisense](https://johnpapa.net/vs-code-extension-with-azure-function-intellisense/)
 
 ## Azure Functions Team
 
@@ -47,6 +51,7 @@
 
 ## Videos
 
+* Chris Anderson at Build 2017 - [Azure Functions](https://channel9.msdn.com/Events/Build/2017/C9L05)
 * Chris Anderson at Ignite 2016 -  [Go Serverless for the enterprise with Azure Functions](https://www.youtube.com/watch?v=8x5sBBUP6pM)
 * Chris Anderson at ServerlessConf London 2016 - [The Making of Azure Functions](https://www.youtube.com/watch?v=yJ9KnTw1kyc)
 * Yochay Kiriaty at ServerlessConf London 2016 - [Real World Serverless Applications with Azure Functions](https://www.youtube.com/watch?v=Uu5bDYWhVtM)
@@ -61,6 +66,7 @@
 
 ## Podcast Episodes
 
+* Yochay Kiriaty - [.NET Rocks Episode 1443](http://www.dotnetrocks.com/default.aspx?ShowNum=1443)
 * Jon Galloway and Jesse Liberty - [Yet Another Podcast Episode 165](http://jesseliberty.com/2017/01/11/yet-another-podcast-165-jon-galloway-on-azure-functions/)
 * Greg Shackles and Jesse Liberty - [Yet Another Podcast Episode 168](http://jesseliberty.com/2017/02/25/yet-another-podcast-168-greg-shackles/)
 
@@ -83,6 +89,7 @@
 * Mark Heath - [Deploy Azure Functions with Kudu and PowerShell](http://markheath.net/post/deploy-azure-functions-kudu-powershell)
 * Peter Toonen - [Continuous Delivery of Azure Functions with TFS](https://toonen.io/2017/02/24/continuous-delivery-of-azure-functions-with-tfs/)
 * Mattias Karlson - [Delivering Functions with Cake](https://hackernoon.com/delivering-functions-with-cake-4b269c50f817#.129qqqwmj)
+* Christos Matskas - [Introduction to Azure Functions Deployment Slots](https://cmatskas.com/introduction-azure-functions-deployment-slots/)
 
 ## How-Tos - F# 
 
@@ -131,6 +138,7 @@
 * Andreas Helland - [Precompiling your Azure Functions](https://contos.io/precompiling-your-azure-functions-2335bd1def1d#.b8tdfrjs4)
 * Geert van der Cruijsen - [Building, testing and deploying precompiled Azure Functions](https://mobilefirstcloudfirst.net/2017/01/building-testing-deploying-precompiled-azure-functions/)
 * Donna Malayeri [Publishing a .NET class library as a Function App](https://blogs.msdn.microsoft.com/appserviceteam/2017/03/16/publishing-a-net-class-library-as-a-function-app/)
+* Justin Yoo [Precompiled Azure Functions Revisited](https://blog.kloud.com.au/2017/05/03/precompiled-azure-functions-revisited/)
 
 ## How-Tos - Auth
 
@@ -142,6 +150,7 @@
 * Adrian Hall - [Create and debug Azure Functions Locally](https://shellmonger.com/2016/10/31/creating-and-debugging-azure-functions-locally/)
 * Justin Yoo - [Unit Testing Locally with ScriptCS](https://blog.kloud.com.au/2016/09/05/testing-azure-functions-in-emulated-environment-with-scriptcs/) using [ScriptCS.AzureFunctions Nuget package](https://www.nuget.org/packages/ScriptCs.AzureFunctions)
 * Mark Heath - [Enabling CORS for local testing](http://markheath.net/post/enable-cors-local-test-azure-functions)
+* Shayne Boyer - [Testing Azure Functions with Postman and Swagger](https://tattoocoder.com/testing-azure-functions-with-postman-and-swagger/)
 
 ## How-Tos - Misc
 
@@ -155,6 +164,7 @@
 * Austen Collins - [Azure Functions Serverless Framework Plugin](https://serverless.com/blog/azure-functions-and-possibility/)
 * Donna Malayeri - [Combining .funproj with Web App Project](https://github.com/lindydonna/FunctionsClassLibrary)
 * John Papa - [Configuring Azure Functions Intellisense via JSON Schemas](https://johnpapa.net/configuring-azure-functions-intellisense-via-json-schemas/)
+* Rahul Nath - [Azure Key Vault From Azure Functions](http://www.rahulpnath.com/blog/azure-key-vault-from-azure-functions/)
 
 ## Real World Use Cases
 
@@ -175,3 +185,6 @@
 * Michael Washington - [Convert PDF Images to PNG Files using Azure Functions](http://lightswitchhelpwebsite.com/Blog/tabid/61/EntryId/3303/Convert-PDF-files-to-PNG-Images-using-Azure-Functions.aspx)
 * Mikhail Shilkov - [Azure Functions as a Facade for Azure Monitoring](http://mikhail.io/2017/03/azure-functions-as-facade-for-azure-monitoring/)
 * Ryan Miller - Alexa On Azure [Part 1](http://intranoggin.com/Blog/February-2017/Alexa-on-Azure-Part-1-Creating-the-Function.aspx), [Part 2](http://intranoggin.com/Blog/February-2017/Alexa-on-Azure-Part-2%E2%80%93Registering-Your-Function.aspx), [Part 3](http://intranoggin.com/Blog/February-2017/Alexa-on-Azure-Part-3-Adding-Slots.aspx), [Part 4](http://intranoggin.com/Blog/March-2017/Alexa-on-Azure-Part-4-%E2%80%93-New-Utterances.aspx), [Part 5](http://intranoggin.com/Blog/March-2017/Alexa-on-Azure-Part-5-Staging-Environment.aspx), [Part 6](http://intranoggin.com/Blog/March-2017/Alexa-on-Azure-Part-6-Functions-Release-Managem.aspx), [Part 7](http://intranoggin.com/Blog/March-2017/Alexa-on-Azure-Part-7%E2%80%93Keep-it-Alive.aspx)
+* Doug Finke - [Use PowerShell in Azure Functions to perform a scheduled clean-up task](https://dfinke.github.io/2017/Use-PowerShell-in-Azure-Functions-to-perform-a-scheduled-clean-up-task/)
+* [Azure Functions Use Case Library](http://functionlibrary.azurewebsites.net/)
+* Christos Matskas - [Monitor Azure Web Application backups with Azure Functions](https://cmatskas.com/monitor-azure-web-application-backups-with-azure-functions/)
