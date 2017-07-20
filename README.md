@@ -66,6 +66,7 @@
 
 ## Podcast Episodes
 
+* [Function Junction](https://www.youtube.com/channel/UCd6gCsSCtvU6qafadAZU_cQ) (Azure Functions Podcast) - Eric Fleming & Simon Timms
 * Yochay Kiriaty - [.NET Rocks Episode 1443](http://www.dotnetrocks.com/default.aspx?ShowNum=1443)
 * Jon Galloway and Jesse Liberty - [Yet Another Podcast Episode 165](http://jesseliberty.com/2017/01/11/yet-another-podcast-165-jon-galloway-on-azure-functions/)
 * Greg Shackles and Jesse Liberty - [Yet Another Podcast Episode 168](http://jesseliberty.com/2017/02/25/yet-another-podcast-168-greg-shackles/)
