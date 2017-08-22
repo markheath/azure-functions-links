@@ -26,7 +26,7 @@
 
 * [Azure Functions CLI](https://www.npmjs.com/package/azure-functions-cli)
 * [Visual Studio 2015 Tooling](https://blogs.msdn.microsoft.com/webdev/2016/12/01/visual-studio-tools-for-azure-functions/)
-* [Visual Studio 2017 Tooling](https://blogs.msdn.microsoft.com/webdev/2017/05/10/azure-function-tools-for-visual-studio-2017/)
+* [Visual Studio 2017 Tooling](https://docs.microsoft.com/en-us/azure/azure-functions/functions-develop-vs) ([announcement](https://blogs.msdn.microsoft.com/appserviceteam/2017/08/14/azure-functions-tools-released-for-visual-studio-2017-update-3/))
 * [Azure Functions Pack Utility for Node.js Functions](https://www.npmjs.com/package/azure-functions-pack)
 * [Azure Functions Runtime Preview](https://azure.microsoft.com/en-gb/blog/introducing-azure-functions-runtime-preview/)
 * [Azure Function Graphic Visualiser](https://github.com/jakkaj/funcgraph)
@@ -62,6 +62,7 @@
 * Monsters Weekly Nov 2016 - [Episode 78 - Azure Functions with Chris Anderson](http://aspnetmonsters.com/2016/11/monsters-weekly%5Cep78/)
 * Cory Fowler - [How to Function](https://www.youtube.com/playlist?list=PLJv91fiNGrCAiVrzJIk9aUu4Lsd3QFrKe)
 * Mark Heath - [Azure Functions Fundamentals Pluralsight Course](https://app.pluralsight.com/library/courses/azure-functions-fundamentals/table-of-contents)
+* Mark Heath - [Building Serverless Applications in Azure Pluralsight Course](https://www.pluralsight.com/courses/azure-serverless-applications)
 * Jason Roberts - [Azure Function Triggers Quickstart Pluralsight Course](https://www.pluralsight.com/courses/azure-function-triggers-quick-start)
 
 ## Podcast Episodes
@@ -78,6 +79,8 @@
 * [Deploy from ARM Template](https://github.com/davidebbo-test/FunctionsSamples)
 * [Various Azure Functions Samples](https://github.com/guitarrapc/AzureFunctionsIntroduction)
 * [Common Use Cases for Azure Functions](http://functionlibrary.azurewebsites.net/)
+* [Samples and Demos for Presentations](https://github.com/Azure/Azure-Functions/wiki/Samples-and-content)
+* [Injectable, Composable, Testable TypeScript Azure Functions](https://github.com/jakkaj/EnterpriseAzureFunctions)
 
 ## How-Tos - Deployment
 
@@ -133,13 +136,22 @@
 * Jason Roberts - [Cross Function App Proxies and Proxy Request Parameters in Azure Functions](http://dontcodetired.com/blog/post/Cross-Function-App-Proxies-and-Proxy-Request-Parameters-in-Azure-Functions)
 * Jason Roberts - [Creating Versioned APIs with Azure Functions Proxies](http://dontcodetired.com/blog/post/Creating-Versioned-APIs-with-Azure-Functions-an-Proxies)
 * Andreas Helland - [Using Azure Functions as a lightweight API Gateway](https://blogs.msdn.microsoft.com/azuredev/2017/03/14/using-azure-functions-as-a-lightweight-api-gateway/)
+* Matthew Henderson - [Create a serverless API using Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-serverless-api)
 
 ## How-Tos - Precompiled Functions
 
+* Jason Roberts - [Creating Precompiled Azure Functions with Visual Studio 2017] - (http://dontcodetired.com/blog/post/Creating-Precompiled-Azure-Functions-with-Visual-Studio-2017)
 * Andreas Helland - [Precompiling your Azure Functions](https://contos.io/precompiling-your-azure-functions-2335bd1def1d#.b8tdfrjs4)
 * Geert van der Cruijsen - [Building, testing and deploying precompiled Azure Functions](https://mobilefirstcloudfirst.net/2017/01/building-testing-deploying-precompiled-azure-functions/)
 * Donna Malayeri [Publishing a .NET class library as a Function App](https://blogs.msdn.microsoft.com/appserviceteam/2017/03/16/publishing-a-net-class-library-as-a-function-app/)
 * Justin Yoo [Precompiled Azure Functions Revisited](https://blog.kloud.com.au/2017/05/03/precompiled-azure-functions-revisited/)
+
+## How-Tos - Durable Functions
+
+* Chris Pietschmann - [Scaling Azure Functions with Durable Functions](https://buildazure.com/2017/08/15/scaling-azure-functions-with-durable-functions/)
+* Kamil Mrzygłód - [Durable Functions - basic concepts and justification](http://blog.codenova.pl/post/durable-functions-durable-task-framework-basics)
+* Kamil Mrzygłód - [Durable Functions - Durable Task Framework basics](http://blog.codenova.pl/post/durable-functions-durable-task-framework-basics1)
+* Mikhail Shilkov - [Custom Autoscaling with Durable Functions](https://mikhail.io/2017/07/custom-autoscaling-with-durable-functions/)
 
 ## How-Tos - Auth
 
@@ -152,6 +164,7 @@
 * Justin Yoo - [Unit Testing Locally with ScriptCS](https://blog.kloud.com.au/2016/09/05/testing-azure-functions-in-emulated-environment-with-scriptcs/) using [ScriptCS.AzureFunctions Nuget package](https://www.nuget.org/packages/ScriptCs.AzureFunctions)
 * Mark Heath - [Enabling CORS for local testing](http://markheath.net/post/enable-cors-local-test-azure-functions)
 * Shayne Boyer - [Testing Azure Functions with Postman and Swagger](https://tattoocoder.com/testing-azure-functions-with-postman-and-swagger/)
+* Ben Morris - [Writing unit tests for Azure Functions using C#](http://www.ben-morris.com/writing-unit-tests-for-azure-functions-using-c/)
 
 ## How-Tos - Misc
 
@@ -166,6 +179,8 @@
 * Donna Malayeri - [Combining .funproj with Web App Project](https://github.com/lindydonna/FunctionsClassLibrary)
 * John Papa - [Configuring Azure Functions Intellisense via JSON Schemas](https://johnpapa.net/configuring-azure-functions-intellisense-via-json-schemas/)
 * Rahul Nath - [Azure Key Vault From Azure Functions](http://www.rahulpnath.com/blog/azure-key-vault-from-azure-functions/)
+* Chris Pietschmann - [Extend Execution Timeout Past 5 Minutes](https://buildazure.com/2017/08/17/azure-functions-extend-execution-timeout-past-5-minutes/)
+* Raphael Londner [Using Azure Functions with MongoDB](https://www.mongodb.com/blog/post/microsoft-azure-functions-tutorial)
 
 ## Real World Use Cases
 
@@ -189,3 +204,4 @@
 * Doug Finke - [Use PowerShell in Azure Functions to perform a scheduled clean-up task](https://dfinke.github.io/2017/Use-PowerShell-in-Azure-Functions-to-perform-a-scheduled-clean-up-task/)
 * [Azure Functions Use Case Library](http://functionlibrary.azurewebsites.net/)
 * Christos Matskas - [Monitor Azure Web Application backups with Azure Functions](https://cmatskas.com/monitor-azure-web-application-backups-with-azure-functions/)
+* Srikantan Sankaran - [Using Azure Functions, Cosmos DB and Powerapps to build, deploy and consume Serverless Apps](https://blogs.msdn.microsoft.com/srikantan/2017/07/22/using-azure-functions-cosmos-db-and-powerapps-to-build-deploy-and-consume-serverless-apps/)
