@@ -148,6 +148,7 @@
 
 ## How-Tos - Durable Functions
 
+* Tamir Dresher - [Creating distributed workflows with Azure Durable Functions](https://blogs.msdn.microsoft.com/mvpawardprogram/2017/08/29/azure-durable-functions/)
 * Chris Pietschmann - [Scaling Azure Functions with Durable Functions](https://buildazure.com/2017/08/15/scaling-azure-functions-with-durable-functions/)
 * Kamil Mrzygłód - [Durable Functions - basic concepts and justification](http://blog.codenova.pl/post/durable-functions-durable-task-framework-basics)
 * Kamil Mrzygłód - [Durable Functions - Durable Task Framework basics](http://blog.codenova.pl/post/durable-functions-durable-task-framework-basics1)
