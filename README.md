@@ -43,6 +43,7 @@
 * Matthew Henderson - [Twitter](https://twitter.com/mattchenderson)
 * Ling Toh - [Twitter](https://twitter.com/ling_toh)
 * Cory Fowler - [Twitter](https://twitter.com/cfowlerMSFT) - [GitHub](https://github.com/syntaxc4)
+* Colby Tresness - [Twitter](https://twitter.com/ColbyTresness)
 
 ## Useful information
 
@@ -51,6 +52,7 @@
 
 ## Videos
 
+* [Azure Functions YouTube Channel](https://www.youtube.com/channel/UCtUYj6As_XFkOooUFnsJbYg)
 * Chris Anderson at Build 2017 - [Azure Functions](https://channel9.msdn.com/Events/Build/2017/C9L05)
 * Chris Anderson at Ignite 2016 -  [Go Serverless for the enterprise with Azure Functions](https://www.youtube.com/watch?v=8x5sBBUP6pM)
 * Chris Anderson at ServerlessConf London 2016 - [The Making of Azure Functions](https://www.youtube.com/watch?v=yJ9KnTw1kyc)
@@ -64,6 +66,7 @@
 * Mark Heath - [Azure Functions Fundamentals Pluralsight Course](https://app.pluralsight.com/library/courses/azure-functions-fundamentals/table-of-contents)
 * Mark Heath - [Building Serverless Applications in Azure Pluralsight Course](https://www.pluralsight.com/courses/azure-serverless-applications)
 * Jason Roberts - [Azure Function Triggers Quickstart Pluralsight Course](https://www.pluralsight.com/courses/azure-function-triggers-quick-start)
+* Cecil Phillip .NET Conf 2017 - [Go Serverless with Azure Functions and C#](https://channel9.msdn.com/Events/dotnetConf/2017/T223)
 
 ## Podcast Episodes
 
@@ -137,6 +140,7 @@
 * Jason Roberts - [Creating Versioned APIs with Azure Functions Proxies](http://dontcodetired.com/blog/post/Creating-Versioned-APIs-with-Azure-Functions-an-Proxies)
 * Andreas Helland - [Using Azure Functions as a lightweight API Gateway](https://blogs.msdn.microsoft.com/azuredev/2017/03/14/using-azure-functions-as-a-lightweight-api-gateway/)
 * Matthew Henderson - [Create a serverless API using Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-serverless-api)
+* Alex Karcher - [Function Proxies adds Mock APIs to the Portal](https://blogs.msdn.microsoft.com/appserviceteam/2017/09/14/function-proxies-adds-mock-apis-to-the-portal/)
 
 ## How-Tos - Precompiled Functions
 
@@ -158,6 +162,7 @@
 
 * Steve Lee - [Using Serverless Azure Functions with Auth0 and Google APIs](https://auth0.com/blog/using-serverless-azure-functions-with-auth0-and-google-apis/)
 * Jason Roberts - [HTTP Function Authorization with Function Keys](http://dontcodetired.com/blog/post/Azure-HTTP-Function-Authorization-with-Function-Keys)
+* Stephen Cleary - [Azure Functions + Auth0](https://github.com/StephenClearyExamples/FunctionsAuth0)
 
 ## How-Tos - Local Testing
 
@@ -166,6 +171,7 @@
 * Mark Heath - [Enabling CORS for local testing](http://markheath.net/post/enable-cors-local-test-azure-functions)
 * Shayne Boyer - [Testing Azure Functions with Postman and Swagger](https://tattoocoder.com/testing-azure-functions-with-postman-and-swagger/)
 * Ben Morris - [Writing unit tests for Azure Functions using C#](http://www.ben-morris.com/writing-unit-tests-for-azure-functions-using-c/)
+* [How to use Azure Managed Service Identity (public preview) in App Service and Azure Functions](https://docs.microsoft.com/en-gb/azure/app-service/app-service-managed-service-identity)
 
 ## How-Tos - Data Access
 
@@ -187,9 +193,13 @@
 * John Papa - [Configuring Azure Functions Intellisense via JSON Schemas](https://johnpapa.net/configuring-azure-functions-intellisense-via-json-schemas/)
 * Rahul Nath - [Azure Key Vault From Azure Functions](http://www.rahulpnath.com/blog/azure-key-vault-from-azure-functions/)
 * Chris Pietschmann - [Extend Execution Timeout Past 5 Minutes](https://buildazure.com/2017/08/17/azure-functions-extend-execution-timeout-past-5-minutes/)
+* Maxime Rouiller - [Decoupling with Azure Functions bindings and Storage Queues triggers](https://blog.decayingcode.com/post/decoupling-with-azure-functions-bindings-and-storage-queues-triggers/?utm_content=buffere896f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+* Daniel Hindrikes - [Azure functions for single page websites](http://danielhindrikes.se/cloud/azure/azure-functions-for-single-page-websites/)
+* Paul Batum - [Processing 100,000 Events Per Second on Azure Functions](https://blogs.msdn.microsoft.com/appserviceteam/2017/09/19/processing-100000-events-per-second-on-azure-functions/)
 
 ## Real World Use Cases
 
+* Jeremy Likness - [Build a Serverless Link Shortener with Analytics](https://blog.jeremylikness.com/build-a-serverless-link-shortener-with-analytics-faster-than-finishing-your-latte-8c094bb1df2c)
 * Troy Hunt - [Azure Functions in Practice](https://www.troyhunt.com/azure-functions-in-practice/) - Calling cloudflare (Queue Trigger, C#)
 * François Boucher - [How I use Azure Logic App, API App and Function App](http://www.frankysnotes.com/2016/10/how-i-use-azure-app-api-app-and.html) (OneDrive, Blobs, LogicApp, C# Webhook)
 * Sean Feldman - [Azure Functions to make audit queue and auditors happy](https://weblogs.asp.net/sfeldman/azure-functions-to-make-audit-queue-and-auditors-happy) (C#, Queue Trigger, Blob Output)
@@ -211,3 +221,4 @@
 * [Azure Functions Use Case Library](http://functionlibrary.azurewebsites.net/)
 * Christos Matskas - [Monitor Azure Web Application backups with Azure Functions](https://cmatskas.com/monitor-azure-web-application-backups-with-azure-functions/)
 * Srikantan Sankaran - [Using Azure Functions, Cosmos DB and Powerapps to build, deploy and consume Serverless Apps](https://blogs.msdn.microsoft.com/srikantan/2017/07/22/using-azure-functions-cosmos-db-and-powerapps-to-build-deploy-and-consume-serverless-apps/)
+* Boris Wilhelms - [Build a photo gallery with Azure Functions](https://blog.wille-zone.de/post/build-a-photo-gallery-with-azure-functions/?utm_content=buffer415e5&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
