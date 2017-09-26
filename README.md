@@ -24,7 +24,7 @@
 
 ## Tools
 
-* [Azure Functions CLI](https://www.npmjs.com/package/azure-functions-cli)
+* [Azure Functions CLI](https://www.npmjs.com/package/azure-functions-core-tools)
 * [Visual Studio 2015 Tooling](https://blogs.msdn.microsoft.com/webdev/2016/12/01/visual-studio-tools-for-azure-functions/)
 * [Visual Studio 2017 Tooling](https://docs.microsoft.com/en-us/azure/azure-functions/functions-develop-vs) ([announcement](https://blogs.msdn.microsoft.com/appserviceteam/2017/08/14/azure-functions-tools-released-for-visual-studio-2017-update-3/))
 * [Azure Functions Pack Utility for Node.js Functions](https://www.npmjs.com/package/azure-functions-pack)
@@ -54,19 +54,19 @@
 
 * [Azure Functions YouTube Channel](https://www.youtube.com/channel/UCtUYj6As_XFkOooUFnsJbYg)
 * Chris Anderson at Build 2017 - [Azure Functions](https://channel9.msdn.com/Events/Build/2017/C9L05)
-* Chris Anderson at Ignite 2016 -  [Go Serverless for the enterprise with Azure Functions](https://www.youtube.com/watch?v=8x5sBBUP6pM)
+* Cecil Philip at .NET Conf 2017 - [Go Serverless with Azure Functions and C#](https://channel9.msdn.com/Events/dotnetConf/2017/T223)
+* Chris Anderson at Ignite 2016 - [Go Serverless for the enterprise with Azure Functions](https://www.youtube.com/watch?v=8x5sBBUP6pM)
 * Chris Anderson at ServerlessConf London 2016 - [The Making of Azure Functions](https://www.youtube.com/watch?v=yJ9KnTw1kyc)
 * Yochay Kiriaty at ServerlessConf London 2016 - [Real World Serverless Applications with Azure Functions](https://www.youtube.com/watch?v=Uu5bDYWhVtM)
 * Yochay Kiriaty and Chris Anderson at ServerlessConf London 2016 - [Devops for Serverless Applications](https://www.youtube.com/watch?v=TlHXzZ16Z3Q)
-* Chris Anderson on Azure Friday - [Azure Functions Integration](https://channel9.msdn.com/Shows/Azure-Friday/Azure-functions-integration?WT.mc_id=DX_MVP4025064)
-* Chris Anderson on Azure Friday - [Triggering with Azure Functions](https://channel9.msdn.com/Shows/Azure-Friday/Triggering-with-Azure-Functions?WT.mc_id=DX_MVP4025064)
+* Chris Anderson on Azure Friday Oct 2016 - [Azure Functions Integration](https://channel9.msdn.com/Shows/Azure-Friday/Azure-functions-integration?WT.mc_id=DX_MVP4025064)
+* Chris Anderson on Azure Friday Oct 2016 - [Triggering with Azure Functions](https://channel9.msdn.com/Shows/Azure-Friday/Triggering-with-Azure-Functions?WT.mc_id=DX_MVP4025064)
 * Matthew Henderson at Build 2016 - [Azure Functions under the Hood](https://www.youtube.com/watch?v=uiqc0iWwAzw)
 * Monsters Weekly Nov 2016 - [Episode 78 - Azure Functions with Chris Anderson](http://aspnetmonsters.com/2016/11/monsters-weekly%5Cep78/)
 * Cory Fowler - [How to Function](https://www.youtube.com/playlist?list=PLJv91fiNGrCAiVrzJIk9aUu4Lsd3QFrKe)
 * Mark Heath - [Azure Functions Fundamentals Pluralsight Course](https://app.pluralsight.com/library/courses/azure-functions-fundamentals/table-of-contents)
 * Mark Heath - [Building Serverless Applications in Azure Pluralsight Course](https://www.pluralsight.com/courses/azure-serverless-applications)
 * Jason Roberts - [Azure Function Triggers Quickstart Pluralsight Course](https://www.pluralsight.com/courses/azure-function-triggers-quick-start)
-* Cecil Phillip .NET Conf 2017 - [Go Serverless with Azure Functions and C#](https://channel9.msdn.com/Events/dotnetConf/2017/T223)
 
 ## Podcast Episodes
 
@@ -116,12 +116,10 @@
 * Darren Robinson - [Simultaneously Start/Stop all Azure Resource Manager VMs in a Resource Group](https://blog.kloud.com.au/2017/01/06/how-to-create-an-azure-function-app-to-simultaneously-startstop-all-virtual-machines-in-a-resource-group/) (PowerShell)
 * Stefan Stranger - [Using PowerShell Modules in Azure Functions](https://blogs.msdn.microsoft.com/powershell/2017/02/24/using-powershell-modules-in-azure-functions/)
 
-## How-Tos - Logging
+## How-Tos - Logging and Monitoring
 
+* [Monitor Azure Functions with Application Insights](https://docs.microsoft.com/en-us/azure/azure-functions/functions-monitoring)
 * Mark Heath - [View Azure Functions Error Logs](http://markheath.net/post/three-ways-view-error-logs-azure-functions)
-* Christos Matskas - [Custom Logging with AppInsights](https://cmatskas.com/azure-functions-custom-logging-with-appinsights/)
-* Tim Murphy - [Logging in Azure Functions](http://geekswithblogs.net/tmurphy/archive/2017/02/13/implementing-logging-in-azure-functions.aspx)
-* Tim Murphy - [Logging to Application Insights in Azure Functions](http://geekswithblogs.net/tmurphy/archive/2017/02/16/logging-to-application-insights-in-azure-functions.aspx)
 
 ## How-Tos - SendGrid
 
@@ -178,6 +176,7 @@
 * Anthony Chu - [Updating and Deleting Table Storage Entities with Azure Functions (C# and JavaScript)](http://anthonychu.ca/post/azure-functions-update-delete-table-storage/)
 * Raphael Londner [Using Azure Functions with MongoDB](https://www.mongodb.com/blog/post/microsoft-azure-functions-tutorial)
 * Brady Gaster [Querying Azure Cosmos DB's Graph API using an Azure Function](http://www.bradygaster.com/posts/azure-cosmosdb-with-functions)
+* Rimma Nehme - [CosmosDB bindings for Azure Functions](https://azure.microsoft.com/en-us/blog/azure-cosmosdb-database-for-serverless-era/)
 
 
 ## How-Tos - Misc
@@ -196,6 +195,9 @@
 * Maxime Rouiller - [Decoupling with Azure Functions bindings and Storage Queues triggers](https://blog.decayingcode.com/post/decoupling-with-azure-functions-bindings-and-storage-queues-triggers/?utm_content=buffere896f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 * Daniel Hindrikes - [Azure functions for single page websites](http://danielhindrikes.se/cloud/azure/azure-functions-for-single-page-websites/)
 * Paul Batum - [Processing 100,000 Events Per Second on Azure Functions](https://blogs.msdn.microsoft.com/appserviceteam/2017/09/19/processing-100000-events-per-second-on-azure-functions/)
+* Glenna - [Microsoft Graph Bindings for Azure Functions](https://blogs.msdn.microsoft.com/appserviceteam/2017/09/25/my-intern-project-microsoft-graph-bindings-for-azure-functions/)
+* Donna Malayeri - [Develop Azure Functions on Any Platform](https://blogs.msdn.microsoft.com/appserviceteam/2017/09/25/develop-azure-functions-on-any-platform/)
+
 
 ## Real World Use Cases
 
