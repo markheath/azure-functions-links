@@ -71,6 +71,7 @@
 ## Podcast Episodes
 
 * [Function Junction](https://www.youtube.com/channel/UCd6gCsSCtvU6qafadAZU_cQ) (Azure Functions Podcast) - Eric Fleming & Simon Timms
+* Microsoft Cloud Show Oct 2017 [Ignite 2017: Azure Functions with Donna Malayeri](http://www.microsoftcloudshow.com/podcast/Episodes/217-ignite-2017-azure-functions-with-donna-malayeri)
 * Yochay Kiriaty - [.NET Rocks Episode 1443](http://www.dotnetrocks.com/default.aspx?ShowNum=1443)
 * Jon Galloway and Jesse Liberty - [Yet Another Podcast Episode 165](http://jesseliberty.com/2017/01/11/yet-another-podcast-165-jon-galloway-on-azure-functions/)
 * Greg Shackles and Jesse Liberty - [Yet Another Podcast Episode 168](http://jesseliberty.com/2017/02/25/yet-another-podcast-168-greg-shackles/)
@@ -139,6 +140,7 @@
 * Andreas Helland - [Using Azure Functions as a lightweight API Gateway](https://blogs.msdn.microsoft.com/azuredev/2017/03/14/using-azure-functions-as-a-lightweight-api-gateway/)
 * Matthew Henderson - [Create a serverless API using Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-serverless-api)
 * Alex Karcher - [Function Proxies adds Mock APIs to the Portal](https://blogs.msdn.microsoft.com/appserviceteam/2017/09/14/function-proxies-adds-mock-apis-to-the-portal/)
+* Toon Vanhoutte - [Azure Function Proxies - Part 1: Represent heterogenous service operations into a single API](https://www.codit.eu/blog/2017/09/27/azure-function-proxies-part-1-represent-heterogenous-service-operations-into-a-single-api/)
 
 ## How-Tos - Precompiled Functions
 
@@ -197,6 +199,7 @@
 * Paul Batum - [Processing 100,000 Events Per Second on Azure Functions](https://blogs.msdn.microsoft.com/appserviceteam/2017/09/19/processing-100000-events-per-second-on-azure-functions/)
 * Glenna - [Microsoft Graph Bindings for Azure Functions](https://blogs.msdn.microsoft.com/appserviceteam/2017/09/25/my-intern-project-microsoft-graph-bindings-for-azure-functions/)
 * Donna Malayeri - [Develop Azure Functions on Any Platform](https://blogs.msdn.microsoft.com/appserviceteam/2017/09/25/develop-azure-functions-on-any-platform/)
+* Frank Boucher - [How to know when an Azure Function is running in a Staging slot](http://www.frankysnotes.com/2017/09/how-to-know-when-azure-function-is.html)
 
 
 ## Real World Use Cases
