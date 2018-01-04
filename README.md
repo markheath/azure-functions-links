@@ -27,10 +27,11 @@
 
 * [Azure Functions CLI](https://www.npmjs.com/package/azure-functions-core-tools)
 * [Visual Studio 2015 Tooling](https://blogs.msdn.microsoft.com/webdev/2016/12/01/visual-studio-tools-for-azure-functions/)
-* [Visual Studio 2017 Tooling](https://docs.microsoft.com/en-us/azure/azure-functions/functions-develop-vs) ([announcement](https://blogs.msdn.microsoft.com/appserviceteam/2017/08/14/azure-functions-tools-released-for-visual-studio-2017-update-3/))
+* [Visual Studio 2017 Tooling](https://docs.microsoft.com/en-us/azure/azure-functions/functions-develop-vs) ([announcement Aug 2017](https://blogs.msdn.microsoft.com/appserviceteam/2017/08/14/azure-functions-tools-released-for-visual-studio-2017-update-3/)) ([improvements Nov 2017](https://blogs.msdn.microsoft.com/webdev/2017/11/15/improvements-to-azure-functions-in-visual-studio/))
 * [Azure Functions Pack Utility for Node.js Functions](https://www.npmjs.com/package/azure-functions-pack)
 * [Azure Functions Runtime Preview](https://azure.microsoft.com/en-gb/blog/introducing-azure-functions-runtime-preview/)
 * [Azure Function Graphic Visualiser](https://github.com/jakkaj/funcgraph)
+* [Azure Functions VS Code Extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions)
 * [VS Code Extension with Azure Function Intellisense](https://johnpapa.net/vs-code-extension-with-azure-function-intellisense/)
 
 ## Azure Functions Team
@@ -48,7 +49,11 @@
 
 ### 2017
 * Jeremy Likness at Connect 2017 - [Azure: Bring your app to the cloud with serverless Azure Functions](https://channel9.msdn.com/Events/Connect/2017/E102)
-* Chris Anderson at Serverlessconfg 2017 - [Advanced design patterns in action](https://acloud.guru/series/serverlessconf/view/advanced-design-patterns-in-action)
+* Jeremy Likness on Visual Studio Toolbox - [Azure Functions: Less-Server and More Code](https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Azure-Functions-Less-Server-and-More-Code)
+* Daria Grigoriu at Connect 2017 - [Azure Functions on Linux](https://channel9.msdn.com/Events/Connect/2017/T112)
+* Eduardo Laureano at Connect 2017 - [What's new in Azure Functions](https://channel9.msdn.com/Events/Connect/2017/T113)
+* Alex Karcher at Connect 2017 - [Azure Functions Proxies: What's new](https://channel9.msdn.com/Events/Connect/2017/T114)
+* Chris Anderson at Serverlessconf 2017 - [Advanced design patterns in action](https://acloud.guru/series/serverlessconf/view/advanced-design-patterns-in-action)
 * Chris Anderson at Build 2017 - [Azure Functions](https://channel9.msdn.com/Events/Build/2017/C9L05)
 * Cecil Philip at .NET Conf 2017 - [Go Serverless with Azure Functions and C#](https://channel9.msdn.com/Events/dotnetConf/2017/T223)
 * Cory Fowler - [How to Function](https://www.youtube.com/playlist?list=PLJv91fiNGrCAiVrzJIk9aUu4Lsd3QFrKe)
@@ -69,6 +74,7 @@
 * Mark Heath - [Azure Functions Fundamentals Pluralsight Course](https://app.pluralsight.com/library/courses/azure-functions-fundamentals/table-of-contents)
 * Mark Heath - [Building Serverless Applications in Azure Pluralsight Course](https://www.pluralsight.com/courses/azure-serverless-applications)
 * Jason Roberts - [Azure Function Triggers Quickstart Pluralsight Course](https://www.pluralsight.com/courses/azure-function-triggers-quick-start)
+* Jason Roberts - [Writing and Testing Precompiled Azure Functions in Visual Studio 2017](https://www.pluralsight.com/courses/azure-functions-visual-studio)
 
 ## Podcast Episodes
 
@@ -123,6 +129,7 @@
 
 ## How-Tos - Logging and Monitoring
 
+* Mikael Krief - [Azure Functions – Integrating monitoring with Application Insights](https://blogs.msdn.microsoft.com/visualstudioalmrangers/2017/10/10/azure-function-integrating-monitoring-with-application-insights/)
 * [Monitor Azure Functions with Application Insights](https://docs.microsoft.com/en-us/azure/azure-functions/functions-monitoring)
 * Mark Heath - [View Azure Functions Error Logs](http://markheath.net/post/three-ways-view-error-logs-azure-functions)
 
@@ -138,6 +145,7 @@
 
 ## How-Tos - Proxies
 
+* Alex Karcher - [GA Announcement Nov 2017](https://blogs.msdn.microsoft.com/appserviceteam/2017/11/15/azure-functions-proxies-is-now-generally-available/)
 * Jason Roberts - [Azure Functions Proxies Preview](http://dontcodetired.com/blog/post/Azure-Functions-Proxies-Preview)
 * Jason Roberts - [Cross Function App Proxies and Proxy Request Parameters in Azure Functions](http://dontcodetired.com/blog/post/Cross-Function-App-Proxies-and-Proxy-Request-Parameters-in-Azure-Functions)
 * Jason Roberts - [Creating Versioned APIs with Azure Functions Proxies](http://dontcodetired.com/blog/post/Creating-Versioned-APIs-with-Azure-Functions-an-Proxies)
@@ -163,6 +171,12 @@
 * Kamil Mrzygłód - [Durable Functions - basic concepts and justification](http://blog.codenova.pl/post/durable-functions-durable-task-framework-basics)
 * Kamil Mrzygłód - [Durable Functions - Durable Task Framework basics](http://blog.codenova.pl/post/durable-functions-durable-task-framework-basics1)
 * Mikhail Shilkov - [Custom Autoscaling with Durable Functions](https://mikhail.io/2017/07/custom-autoscaling-with-durable-functions/)
+* Kamil Mrzygłód - [Accessing an orchestration history in Durable Functions](http://blog.codenova.pl/post/accessing-an-orchestration-history-in-durable-functions)
+* Simon Bisson - [What’s new in Azure Functions: durable states](https://www.infoworld.com/article/3237105/application-development/whats-new-in-azure-functions-durable-states.html)
+* Kanio - [Running Azure Durable Functions in VS Code](https://azurekan.wordpress.com/2017/11/13/running-azure-durable-functions-in-vs-code/)
+* Kanio - [Azure Durable Functions](https://azurekan.wordpress.com/2017/11/13/azure-durable-functions/)
+* Marc Duiker - [Azure Durable Functions - Stateful function orchestrations Part 1](https://blog.marcduiker.nl/2017/11/05/durable-azure-functions-stateful-orchestrations), [Part 2](https://blog.marcduiker.nl/2017/11/07/durable-azure-functions-stateful-orchestrations-part2.html)
+* Kamil Mrzygłód - [Starting fun with Durable Functions](http://blog.codenova.pl/post/starting-fun-with-durable-functions)
 
 ## How-Tos - Auth
 
@@ -190,6 +204,10 @@
 * Raphael Londner [Using Azure Functions with MongoDB](https://www.mongodb.com/blog/post/microsoft-azure-functions-tutorial)
 * Rimma Nehme - [CosmosDB bindings for Azure Functions](https://azure.microsoft.com/en-us/blog/azure-cosmosdb-database-for-serverless-era/)
 
+## How-Tos - Key Vault
+
+* Jeff Hollan - [Getting Key Vault Secrets in Azure Functions](https://medium.com/statuscode/getting-key-vault-secrets-in-azure-functions-37620fd20a0b)
+* Rahul Nath - [Azure Key Vault From Azure Functions](http://www.rahulpnath.com/blog/azure-key-vault-from-azure-functions/)
 
 ## How-Tos - Misc
 
@@ -202,19 +220,23 @@
 * Austen Collins - [Azure Functions Serverless Framework Plugin](https://serverless.com/blog/azure-functions-and-possibility/)
 * Donna Malayeri - [Combining .funproj with Web App Project](https://github.com/lindydonna/FunctionsClassLibrary)
 * John Papa - [Configuring Azure Functions Intellisense via JSON Schemas](https://johnpapa.net/configuring-azure-functions-intellisense-via-json-schemas/)
-* Rahul Nath - [Azure Key Vault From Azure Functions](http://www.rahulpnath.com/blog/azure-key-vault-from-azure-functions/)
 * Chris Pietschmann - [Extend Execution Timeout Past 5 Minutes](https://buildazure.com/2017/08/17/azure-functions-extend-execution-timeout-past-5-minutes/)
-* Maxime Rouiller - [Decoupling with Azure Functions bindings and Storage Queues triggers](https://blog.decayingcode.com/post/decoupling-with-azure-functions-bindings-and-storage-queues-triggers/?utm_content=buffere896f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+* Maxime Rouiller - [Decoupling with Azure Functions bindings and Storage Queues triggers](https://blog.decayingcode.com/post/decoupling-with-azure-functions-bindings-and-storage-queues-triggers/)
 * Daniel Hindrikes - [Azure functions for single page websites](http://danielhindrikes.se/cloud/azure/azure-functions-for-single-page-websites/)
 * Paul Batum - [Processing 100,000 Events Per Second on Azure Functions](https://blogs.msdn.microsoft.com/appserviceteam/2017/09/19/processing-100000-events-per-second-on-azure-functions/)
 * Glenna - [Microsoft Graph Bindings for Azure Functions](https://blogs.msdn.microsoft.com/appserviceteam/2017/09/25/my-intern-project-microsoft-graph-bindings-for-azure-functions/)
 * Donna Malayeri - [Develop Azure Functions on Any Platform](https://blogs.msdn.microsoft.com/appserviceteam/2017/09/25/develop-azure-functions-on-any-platform/)
 * Frank Boucher - [How to know when an Azure Function is running in a Staging slot](http://www.frankysnotes.com/2017/09/how-to-know-when-azure-function-is.html)
+* Mattias Lögdberg - [Azure Functions npm install via VSTS](http://mlogdberg.com/azurefunctions/vsts-npm-install)
 
-## Howtos - Docker
+## How-Tos - Docker
 
 * Juan P. Dantur - [Azure Functions on a Docker Container](https://medium.com/@juanpdantur/azure-functions-on-a-docker-container-7e76872c40cf)
 * Shayne Boyer - [Running the Azure Functions runtime in containers on Kubernetes and more](https://tattoocoder.com/functions-runtime-kubernetes/)
+
+## How-Tos - Functions on Linux
+
+* Daria Grigoriu - [Anouncing Functions on Linux preview](https://blogs.msdn.microsoft.com/appserviceteam/2017/11/15/functions-on-linux-preview/)
 
 ## Real World Use Cases
 
