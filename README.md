@@ -115,11 +115,12 @@
 
 ## How-Tos - F# 
 
-* Greg Shackles - [Get Started with Azure Functions and F#](http://gregshackles.com/getting-started-with-azure-functions-and-f/)
+* Greg Shackles
+    * [Get Started with Azure Functions and F#](http://gregshackles.com/getting-started-with-azure-functions-and-f/)
+    * [Creating Slack Slash Commands with Azure Functions](https://gregshackles.com/creating-slack-slash-commands-with-azure-functions/)
 * Mark Heath - [Binding to Blobs in Azure Functions with F#](http://markheath.net/post/using-blobs-in-azure-functions-with-fsharp)
 * Tamizhvendan S [Use Sauve and F# with Azure Functions](http://blog.tamizhvendan.in/blog/2016/09/19/scale-up-azure-functions-in-f-number-using-suave/)
 * Krzysztof Cieslak - [Using Paket with Azure Functions](http://kcieslak.io/Using-Paket-with-Azure-Functions)
-* Greg Shackles - [Creating Slack Slash Commands with Azure Functions](https://gregshackles.com/creating-slack-slash-commands-with-azure-functions/)
 * Mathias Brandewinder - Creating an Azure Function in F# from the ground up  [Part 1](http://brandewinder.com/2017/02/11/fsharp-azure-function-from-the-ground-up-part-1/) [Part 2](http://brandewinder.com/2017/03/06/fsharp-azure-function-from-the-ground-up-part-2/)
 * Mikhail Shilkov - [Precompiled Azure Functions in F#](https://mikhail.io/2017/12/precompiled-azure-functions-in-fsharp/)
 
@@ -150,19 +151,22 @@
 
 ## How-Tos - Proxies
 
-* Alex Karcher - [GA Announcement Nov 2017](https://blogs.msdn.microsoft.com/appserviceteam/2017/11/15/azure-functions-proxies-is-now-generally-available/)
-* Jason Roberts - [Azure Functions Proxies Preview](http://dontcodetired.com/blog/post/Azure-Functions-Proxies-Preview)
-* Jason Roberts - [Cross Function App Proxies and Proxy Request Parameters in Azure Functions](http://dontcodetired.com/blog/post/Cross-Function-App-Proxies-and-Proxy-Request-Parameters-in-Azure-Functions)
-* Jason Roberts - [Creating Versioned APIs with Azure Functions Proxies](http://dontcodetired.com/blog/post/Creating-Versioned-APIs-with-Azure-Functions-an-Proxies)
+* Alex Karcher
+    * [GA Announcement Nov 2017](https://blogs.msdn.microsoft.com/appserviceteam/2017/11/15/azure-functions-proxies-is-now-generally-available/)
+    * [Function Proxies adds Mock APIs to the Portal](https://blogs.msdn.microsoft.com/appserviceteam/2017/09/14/function-proxies-adds-mock-apis-to-the-portal/)
+* Jason Roberts 
+    * [Azure Functions Proxies Preview](http://dontcodetired.com/blog/post/Azure-Functions-Proxies-Preview)
+    * [Cross Function App Proxies and Proxy Request Parameters in Azure Functions](http://dontcodetired.com/blog/post/Cross-Function-App-Proxies-and-Proxy-Request-Parameters-in-Azure-Functions)
+    * [Creating Versioned APIs with Azure Functions Proxies](http://dontcodetired.com/blog/post/Creating-Versioned-APIs-with-Azure-Functions-an-Proxies)
 * Andreas Helland - [Using Azure Functions as a lightweight API Gateway](https://blogs.msdn.microsoft.com/azuredev/2017/03/14/using-azure-functions-as-a-lightweight-api-gateway/)
 * Matthew Henderson - [Create a serverless API using Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-serverless-api)
-* Alex Karcher - [Function Proxies adds Mock APIs to the Portal](https://blogs.msdn.microsoft.com/appserviceteam/2017/09/14/function-proxies-adds-mock-apis-to-the-portal/)
 * Toon Vanhoutte - [Azure Function Proxies - Part 1: Represent heterogenous service operations into a single API](https://www.codit.eu/blog/2017/09/27/azure-function-proxies-part-1-represent-heterogenous-service-operations-into-a-single-api/)
 
 ## How-Tos - Precompiled Functions
 
-* Jason Roberts - [Creating Precompiled Azure Functions with Visual Studio 2017](http://dontcodetired.com/blog/post/Creating-Precompiled-Azure-Functions-with-Visual-Studio-2017)
-* Jason Roberts - [Create Precompiled Azure Functions With Azure Event Grid Triggers](http://dontcodetired.com/blog/post/Create-Precompiled-Azure-Functions-With-Azure-Event-Grid-Triggers)
+* Jason Roberts
+    * [Creating Precompiled Azure Functions with Visual Studio 2017](http://dontcodetired.com/blog/post/Creating-Precompiled-Azure-Functions-with-Visual-Studio-2017)
+    * [Create Precompiled Azure Functions With Azure Event Grid Triggers](http://dontcodetired.com/blog/post/Create-Precompiled-Azure-Functions-With-Azure-Event-Grid-Triggers)
 * Andreas Helland - [Precompiling your Azure Functions](https://contos.io/precompiling-your-azure-functions-2335bd1def1d#.b8tdfrjs4)
 * Geert van der Cruijsen - [Building, testing and deploying precompiled Azure Functions](https://mobilefirstcloudfirst.net/2017/01/building-testing-deploying-precompiled-azure-functions/)
 * Donna Malayeri [Publishing a .NET class library as a Function App](https://blogs.msdn.microsoft.com/appserviceteam/2017/03/16/publishing-a-net-class-library-as-a-function-app/)
@@ -173,15 +177,19 @@
 * [Official Docs](https://docs.microsoft.com/en-us/azure/azure-functions/durable-functions-overview)
 * Tamir Dresher - [Creating distributed workflows with Azure Durable Functions](https://blogs.msdn.microsoft.com/mvpawardprogram/2017/08/29/azure-durable-functions/)
 * Chris Pietschmann - [Scaling Azure Functions with Durable Functions](https://buildazure.com/2017/08/15/scaling-azure-functions-with-durable-functions/)
-* Kamil Mrzygłód - [Durable Functions - basic concepts and justification](http://blog.codenova.pl/post/durable-functions-durable-task-framework-basics)
-* Kamil Mrzygłód - [Durable Functions - Durable Task Framework basics](http://blog.codenova.pl/post/durable-functions-durable-task-framework-basics1)
+* Kamil Mrzygłód 
+    * [Durable Functions - basic concepts and justification](http://blog.codenova.pl/post/durable-functions-durable-task-framework-basics)
+    * [Durable Functions - Durable Task Framework basics](http://blog.codenova.pl/post/durable-functions-durable-task-framework-basics1)
+    * [Accessing an orchestration history in Durable Functions](http://blog.codenova.pl/post/accessing-an-orchestration-history-in-durable-functions)
+    * [Starting fun with Durable Functions](http://blog.codenova.pl/post/starting-fun-with-durable-functions)
 * Mikhail Shilkov - [Custom Autoscaling with Durable Functions](https://mikhail.io/2017/07/custom-autoscaling-with-durable-functions/)
-* Kamil Mrzygłód - [Accessing an orchestration history in Durable Functions](http://blog.codenova.pl/post/accessing-an-orchestration-history-in-durable-functions)
 * Simon Bisson - [What’s new in Azure Functions: durable states](https://www.infoworld.com/article/3237105/application-development/whats-new-in-azure-functions-durable-states.html)
-* Kanio - [Running Azure Durable Functions in VS Code](https://azurekan.wordpress.com/2017/11/13/running-azure-durable-functions-in-vs-code/)
-* Kanio - [Azure Durable Functions](https://azurekan.wordpress.com/2017/11/13/azure-durable-functions/)
-* Marc Duiker - [Azure Durable Functions - Stateful function orchestrations Part 1](https://blog.marcduiker.nl/2017/11/05/durable-azure-functions-stateful-orchestrations), [Part 2](https://blog.marcduiker.nl/2017/11/07/durable-azure-functions-stateful-orchestrations-part2.html)
-* Kamil Mrzygłód - [Starting fun with Durable Functions](http://blog.codenova.pl/post/starting-fun-with-durable-functions)
+* Kanio
+    * [Running Azure Durable Functions in VS Code](https://azurekan.wordpress.com/2017/11/13/running-azure-durable-functions-in-vs-code/)
+    * [Azure Durable Functions](https://azurekan.wordpress.com/2017/11/13/azure-durable-functions/)
+* Marc Duiker
+    * [Azure Durable Functions - Stateful function orchestrations Part 1](https://blog.marcduiker.nl/2017/11/05/durable-azure-functions-stateful-orchestrations)
+    * [Part 2](https://blog.marcduiker.nl/2017/11/07/durable-azure-functions-stateful-orchestrations-part2.html)
 
 ## How-Tos - Auth
 
@@ -196,11 +204,12 @@
 
 * Adrian Hall - [Create and debug Azure Functions Locally](https://shellmonger.com/2016/10/31/creating-and-debugging-azure-functions-locally/)
 * Justin Yoo - [Unit Testing Locally with ScriptCS](https://blog.kloud.com.au/2016/09/05/testing-azure-functions-in-emulated-environment-with-scriptcs/) using [ScriptCS.AzureFunctions Nuget package](https://www.nuget.org/packages/ScriptCs.AzureFunctions)
-* Mark Heath - [Enabling CORS for local testing](http://markheath.net/post/enable-cors-local-test-azure-functions)
+* Mark Heath 
+    * [Enabling CORS for local testing](http://markheath.net/post/enable-cors-local-test-azure-functions)
+    * [Local Debugging with the Azure Functions CLI](http://markheath.net/post/local-debugging-azure-functions-cli)
 * Shayne Boyer - [Testing Azure Functions with Postman and Swagger](https://tattoocoder.com/testing-azure-functions-with-postman-and-swagger/)
 * Ben Morris - [Writing unit tests for Azure Functions using C#](http://www.ben-morris.com/writing-unit-tests-for-azure-functions-using-c/)
 * [How to use Azure Managed Service Identity (public preview) in App Service and Azure Functions](https://docs.microsoft.com/en-gb/azure/app-service/app-service-managed-service-identity)
-* Mark Heath - [Local Debugging with the Azure Functions CLI](http://markheath.net/post/local-debugging-azure-functions-cli)
 
 ## How-Tos - CosmosDb
 
@@ -223,10 +232,15 @@
 
 * Nir Mashkowski - [Announcing the preview of Java support for Azure Functions](https://azure.microsoft.com/en-us/blog/announcing-the-preview-of-java-support-for-azure-functions/)
 
+## How-Tos Queues
+
+* Mathew Charles 
+    * [Trigger a function on a ServiceBus Topic Subscription](http://stackoverflow.com/a/36722329)
+    * [Controlling concurrent queue processors](http://stackoverflow.com/a/40096267)
+* Maxime Rouiller - [Decoupling with Azure Functions bindings and Storage Queues triggers](https://blog.decayingcode.com/post/decoupling-with-azure-functions-bindings-and-storage-queues-triggers/)
+
 ## How-Tos - Misc
 
-* Mathew Charles - [Trigger a function on a ServiceBus Topic Subscription](http://stackoverflow.com/a/36722329)
-* Mathew Charles - [Controlling concurrent queue processors](http://stackoverflow.com/a/40096267)
 * David Ebbo - [Access a Classic Storage Account from an Azure Function](http://stackoverflow.com/a/37365811)
 * Fabio Cavalcante - [Use a private NuGet repository](http://stackoverflow.com/a/39536289)
 * Jason Roberts - [Calling Azure Functions from Microsoft Flow](http://dontcodetired.com/blog/post/Serverless-Computing-and-Workflows-with-Azure-Functions-and-Microsoft-Flow)
@@ -235,7 +249,6 @@
 * Donna Malayeri - [Combining .funproj with Web App Project](https://github.com/lindydonna/FunctionsClassLibrary)
 * John Papa - [Configuring Azure Functions Intellisense via JSON Schemas](https://johnpapa.net/configuring-azure-functions-intellisense-via-json-schemas/)
 * Chris Pietschmann - [Extend Execution Timeout Past 5 Minutes](https://buildazure.com/2017/08/17/azure-functions-extend-execution-timeout-past-5-minutes/)
-* Maxime Rouiller - [Decoupling with Azure Functions bindings and Storage Queues triggers](https://blog.decayingcode.com/post/decoupling-with-azure-functions-bindings-and-storage-queues-triggers/)
 * Daniel Hindrikes - [Azure functions for single page websites](http://danielhindrikes.se/cloud/azure/azure-functions-for-single-page-websites/)
 * Paul Batum - [Processing 100,000 Events Per Second on Azure Functions](https://blogs.msdn.microsoft.com/appserviceteam/2017/09/19/processing-100000-events-per-second-on-azure-functions/)
 * Glenna - [Microsoft Graph Bindings for Azure Functions](https://blogs.msdn.microsoft.com/appserviceteam/2017/09/25/my-intern-project-microsoft-graph-bindings-for-azure-functions/)
@@ -260,14 +273,15 @@
 * James Montemagno - [NanoServices for Mobile Apps with Azure Functions](https://blog.xamarin.com/nano-services-for-mobile-apps-with-azure-functions/) (blob trigger, mobile table output)
 * Steve Lee - [Using reactive streams on serverless with cyclejs, xstream and Azure Functions](http://opendirective.net/blog/2016/10/exploring-reactive-streams-with-serverless-xstream-cyclejs-and-azure-functions/?platform=hootsuite) (reactive programming, javascript)
 * Jeff Branch (Channel 9) - [Transcribing Audio to Text with Azure Functions and Cognitive Services](https://channel9.msdn.com/Blogs/MTC-After-Hours/Transcribing-Audio-to-Text-With-Azure-Functions-and-Cognitive-Services) (10 min video C#, DocumentDB out, cognitive services, blob storage)
-* Mark Heath - [Handling Payment Webhooks with Azure Functions](http://markheath.net/post/payment-webhooks-azure-functions) (C#, webhooks, queues)
-* Mark Heath - [Sending Randomly Scheduled Tweets with Azure Functions](http://markheath.net/post/randomly-scheduled-tweets-azure-functions) (C#, timer)
+* Mark Heath 
+    * [Handling Payment Webhooks with Azure Functions](http://markheath.net/post/payment-webhooks-azure-functions) (C#, webhooks, queues)
+    * [Sending Randomly Scheduled Tweets with Azure Functions](http://markheath.net/post/randomly-scheduled-tweets-azure-functions) (C#, timer)
+    * [Rapid API Development with Azure Functions](http://markheath.net/post/rapid-api-development-with-azure-functions)
 * Armin Reiter - [Generating iCal files from meetup API](https://codehollow.com/2016/11/working-with-azure-functions-part-2-c) (HTTP Trigger, NuGet)
 * James Chambers - [How to Resize Images Uploaded to Blob Storage with Azure Functions](http://jameschambers.com/2016/11/Resizing-Images-Using-Azure-Functions/) (C#, Blob Storage, Using NuGet)
 * Jason Roberts - [Screen Scraping as a Service](http://dontcodetired.com/blog/post/Screen-Scraping-As-A-Service-with-Azure-Functions-in-5-Mins) (C#, HTTP trigger, NuGet)
 * Mattias Karlsson - [Automate GitHub Pull Requests Validation](https://hackernoon.com/github-statuses-made-easy-with-faas-fd9236a41925#.s1b5cova1)
 * Loic Sterckx - [Backup your OneDrive at rocket speed!](https://loicsterckx.wordpress.com/2017/02/17/azure-functions-backup-your-onedrive-at-rocket-speed/)
-* Mark Heath - [Rapid API Development with Azure Functions](http://markheath.net/post/rapid-api-development-with-azure-functions)
 * Michael Washington - [Convert PDF Images to PNG Files using Azure Functions](http://lightswitchhelpwebsite.com/Blog/tabid/61/EntryId/3303/Convert-PDF-files-to-PNG-Images-using-Azure-Functions.aspx)
 * Mikhail Shilkov - [Azure Functions as a Facade for Azure Monitoring](http://mikhail.io/2017/03/azure-functions-as-facade-for-azure-monitoring/)
 * Ryan Miller - Alexa On Azure [Part 1](http://intranoggin.com/Blog/February-2017/Alexa-on-Azure-Part-1-Creating-the-Function.aspx), [Part 2](http://intranoggin.com/Blog/February-2017/Alexa-on-Azure-Part-2%E2%80%93Registering-Your-Function.aspx), [Part 3](http://intranoggin.com/Blog/February-2017/Alexa-on-Azure-Part-3-Adding-Slots.aspx), [Part 4](http://intranoggin.com/Blog/March-2017/Alexa-on-Azure-Part-4-%E2%80%93-New-Utterances.aspx), [Part 5](http://intranoggin.com/Blog/March-2017/Alexa-on-Azure-Part-5-Staging-Environment.aspx), [Part 6](http://intranoggin.com/Blog/March-2017/Alexa-on-Azure-Part-6-Functions-Release-Managem.aspx), [Part 7](http://intranoggin.com/Blog/March-2017/Alexa-on-Azure-Part-7%E2%80%93Keep-it-Alive.aspx)
@@ -280,4 +294,6 @@
 * [Microsoft Technical Case Studies using Azure Functions](https://microsoft.github.io/techcasestudies/#technology=Azure%20Functions)
 * Alex Billson - [A Simple, Serverless API using Azure Tables & Functions](https://hackernoon.com/a-simple-serverless-api-using-azure-tables-functions-bd7669b4b8cf)
 * [Automate resizing uploaded images using Event Grid](https://docs.microsoft.com/en-us/azure/event-grid/resize-images-on-storage-blob-upload-event)
-* Sarah Drasner - [Exploring Data with Serverless and Vue: Automatically Update GitHub Files With Serverless Functions](https://css-tricks.com/exploring-data-with-serverless-and-vue-part-i), [Part 2](https://css-tricks.com/exploring-data-with-serverless-and-vue-part-2/)
+* Sarah Drasner 
+    * [Exploring Data with Serverless and Vue: Automatically Update GitHub Files With Serverless Functions](https://css-tricks.com/exploring-data-with-serverless-and-vue-part-i)
+    * [Part 2](https://css-tricks.com/exploring-data-with-serverless-and-vue-part-2/)
