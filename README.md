@@ -14,6 +14,7 @@
 * [Azure/azure-webjobs-sdk](https://github.com/azure/azure-webjobs-sdk)
 * [Azure/azure-webjobs-sdk-extensions](https://github.com/Azure/azure-webjobs-sdk-extensions)
 * [Azure/azure-functions-cli (Command Line Interface)](https://github.com/azure/azure-functions-cli)
+* [Azure/azure-functions-durable-extension (Durable Functions Extension)](https://github.com/Azure/azure-functions-durable-extension)
 * [ProjectKudu/AzureFunctionsPortal](https://github.com/projectkudu/AzureFunctionsPortal)
 
 ## Asking Questions and Feature requests
@@ -34,16 +35,7 @@
 
 ## Azure Functions Team
 
-* Chris Anderson - [Twitter](https://twitter.com/crandycodes)
-* Donna Malayeri - [Twitter](https://twitter.com/lindydonna)
-* Yochay Kiriaty - [Twitter](https://twitter.com/yochayk)
-* Chris Gillum - [Twitter](https://twitter.com/cgillum) - [Blog](http://cgillum.tech/)
-* Mathew Charles - [Twitter](https://twitter.com/mathew_charles)
-* Adrian Hall - [Twitter](https://twitter.com/FizzyInTheHall) - [Blog](https://shellmonger.com/)
-* Matthew Henderson - [Twitter](https://twitter.com/mattchenderson)
-* Ling Toh - [Twitter](https://twitter.com/ling_toh)
-* Cory Fowler - [Twitter](https://twitter.com/cfowlerMSFT) - [GitHub](https://github.com/syntaxc4)
-* Colby Tresness - [Twitter](https://twitter.com/ColbyTresness)
+* [Azure Functions Team on Twitter](https://twitter.com/AzureFunctions/lists/azure-functions-team)
 
 ## Useful information
 
@@ -53,17 +45,27 @@
 ## Videos
 
 * [Azure Functions YouTube Channel](https://www.youtube.com/channel/UCtUYj6As_XFkOooUFnsJbYg)
+
+### 2017
+* Jeremy Likness at Connect 2017 - [Azure: Bring your app to the cloud with serverless Azure Functions](https://channel9.msdn.com/Events/Connect/2017/E102)
+* Chris Anderson at Serverlessconfg 2017 - [Advanced design patterns in action](https://acloud.guru/series/serverlessconf/view/advanced-design-patterns-in-action)
 * Chris Anderson at Build 2017 - [Azure Functions](https://channel9.msdn.com/Events/Build/2017/C9L05)
 * Cecil Philip at .NET Conf 2017 - [Go Serverless with Azure Functions and C#](https://channel9.msdn.com/Events/dotnetConf/2017/T223)
-* Chris Anderson at Ignite 2016 - [Go Serverless for the enterprise with Azure Functions](https://www.youtube.com/watch?v=8x5sBBUP6pM)
+* Cory Fowler - [How to Function](https://www.youtube.com/playlist?list=PLJv91fiNGrCAiVrzJIk9aUu4Lsd3QFrKe)
+* Chris Gillum on On .NET - [Serverless workflows with Durable Functions](https://www.youtube.com/watch?v=P8Ixr1a1cCE)
+* Chris Gillum on Azure Friday - [Durable Functions in Azure Functions](https://channel9.msdn.com/Shows/Azure-Friday/Durable-Functions-in-Azure-Functions)
+
+### 2016
 * Chris Anderson at ServerlessConf London 2016 - [The Making of Azure Functions](https://www.youtube.com/watch?v=yJ9KnTw1kyc)
 * Yochay Kiriaty at ServerlessConf London 2016 - [Real World Serverless Applications with Azure Functions](https://www.youtube.com/watch?v=Uu5bDYWhVtM)
 * Yochay Kiriaty and Chris Anderson at ServerlessConf London 2016 - [Devops for Serverless Applications](https://www.youtube.com/watch?v=TlHXzZ16Z3Q)
+* Chris Anderson at Ignite 2016 - [Go Serverless for the enterprise with Azure Functions](https://www.youtube.com/watch?v=8x5sBBUP6pM)
 * Chris Anderson on Azure Friday Oct 2016 - [Azure Functions Integration](https://channel9.msdn.com/Shows/Azure-Friday/Azure-functions-integration?WT.mc_id=DX_MVP4025064)
 * Chris Anderson on Azure Friday Oct 2016 - [Triggering with Azure Functions](https://channel9.msdn.com/Shows/Azure-Friday/Triggering-with-Azure-Functions?WT.mc_id=DX_MVP4025064)
 * Matthew Henderson at Build 2016 - [Azure Functions under the Hood](https://www.youtube.com/watch?v=uiqc0iWwAzw)
 * Monsters Weekly Nov 2016 - [Episode 78 - Azure Functions with Chris Anderson](http://aspnetmonsters.com/2016/11/monsters-weekly%5Cep78/)
-* Cory Fowler - [How to Function](https://www.youtube.com/playlist?list=PLJv91fiNGrCAiVrzJIk9aUu4Lsd3QFrKe)
+
+### Pluralsight Courses
 * Mark Heath - [Azure Functions Fundamentals Pluralsight Course](https://app.pluralsight.com/library/courses/azure-functions-fundamentals/table-of-contents)
 * Mark Heath - [Building Serverless Applications in Azure Pluralsight Course](https://www.pluralsight.com/courses/azure-serverless-applications)
 * Jason Roberts - [Azure Function Triggers Quickstart Pluralsight Course](https://www.pluralsight.com/courses/azure-function-triggers-quick-start)
@@ -85,6 +87,7 @@
 * [Common Use Cases for Azure Functions](http://functionlibrary.azurewebsites.net/)
 * [Samples and Demos for Presentations](https://github.com/Azure/Azure-Functions/wiki/Samples-and-content)
 * [Injectable, Composable, Testable TypeScript Azure Functions](https://github.com/jakkaj/EnterpriseAzureFunctions)
+* [Sample Stripe Handler](https://github.com/sdras/sample-stripe-handler)
 
 ## How-Tos - Deployment
 
@@ -107,6 +110,7 @@
 * Krzysztof Cieslak - [Using Paket with Azure Functions](http://kcieslak.io/Using-Paket-with-Azure-Functions)
 * Greg Shackles - [Creating Slack Slash Commands with Azure Functions](https://gregshackles.com/creating-slack-slash-commands-with-azure-functions/)
 * Mathias Brandewinder - Creating an Azure Function in F# from the ground up  [Part 1](http://brandewinder.com/2017/02/11/fsharp-azure-function-from-the-ground-up-part-1/) [Part 2](http://brandewinder.com/2017/03/06/fsharp-azure-function-from-the-ground-up-part-2/)
+* Mikhail Shilkov - [Precompiled Azure Functions in F#](https://mikhail.io/2017/12/precompiled-azure-functions-in-fsharp/)
 
 ## How-Tos - PowerShell
 
@@ -145,6 +149,7 @@
 ## How-Tos - Precompiled Functions
 
 * Jason Roberts - [Creating Precompiled Azure Functions with Visual Studio 2017](http://dontcodetired.com/blog/post/Creating-Precompiled-Azure-Functions-with-Visual-Studio-2017)
+* Jason Roberts - [Create Precompiled Azure Functions With Azure Event Grid Triggers](http://dontcodetired.com/blog/post/Create-Precompiled-Azure-Functions-With-Azure-Event-Grid-Triggers)
 * Andreas Helland - [Precompiling your Azure Functions](https://contos.io/precompiling-your-azure-functions-2335bd1def1d#.b8tdfrjs4)
 * Geert van der Cruijsen - [Building, testing and deploying precompiled Azure Functions](https://mobilefirstcloudfirst.net/2017/01/building-testing-deploying-precompiled-azure-functions/)
 * Donna Malayeri [Publishing a .NET class library as a Function App](https://blogs.msdn.microsoft.com/appserviceteam/2017/03/16/publishing-a-net-class-library-as-a-function-app/)
@@ -152,6 +157,7 @@
 
 ## How-Tos - Durable Functions
 
+* [Official Docs](https://docs.microsoft.com/en-us/azure/azure-functions/durable-functions-overview)
 * Tamir Dresher - [Creating distributed workflows with Azure Durable Functions](https://blogs.msdn.microsoft.com/mvpawardprogram/2017/08/29/azure-durable-functions/)
 * Chris Pietschmann - [Scaling Azure Functions with Durable Functions](https://buildazure.com/2017/08/15/scaling-azure-functions-with-durable-functions/)
 * Kamil Mrzygłód - [Durable Functions - basic concepts and justification](http://blog.codenova.pl/post/durable-functions-durable-task-framework-basics)
@@ -173,11 +179,15 @@
 * Ben Morris - [Writing unit tests for Azure Functions using C#](http://www.ben-morris.com/writing-unit-tests-for-azure-functions-using-c/)
 * [How to use Azure Managed Service Identity (public preview) in App Service and Azure Functions](https://docs.microsoft.com/en-gb/azure/app-service/app-service-managed-service-identity)
 
+## CosmosDb Integration
+
+* Sudhir - [Azure CosmosDB in Banking Sector](https://blogs.msdn.microsoft.com/biblog/2018/01/02/azure-cosmosdb-in-banking-sector/)
+* Brady Gaster [Querying Azure Cosmos DB's Graph API using an Azure Function](http://www.bradygaster.com/posts/azure-cosmosdb-with-functions)
+
 ## How-Tos - Data Access
 
 * Anthony Chu - [Updating and Deleting Table Storage Entities with Azure Functions (C# and JavaScript)](http://anthonychu.ca/post/azure-functions-update-delete-table-storage/)
 * Raphael Londner [Using Azure Functions with MongoDB](https://www.mongodb.com/blog/post/microsoft-azure-functions-tutorial)
-* Brady Gaster [Querying Azure Cosmos DB's Graph API using an Azure Function](http://www.bradygaster.com/posts/azure-cosmosdb-with-functions)
 * Rimma Nehme - [CosmosDB bindings for Azure Functions](https://azure.microsoft.com/en-us/blog/azure-cosmosdb-database-for-serverless-era/)
 
 
@@ -201,6 +211,10 @@
 * Donna Malayeri - [Develop Azure Functions on Any Platform](https://blogs.msdn.microsoft.com/appserviceteam/2017/09/25/develop-azure-functions-on-any-platform/)
 * Frank Boucher - [How to know when an Azure Function is running in a Staging slot](http://www.frankysnotes.com/2017/09/how-to-know-when-azure-function-is.html)
 
+## Howtos - Docker
+
+* Juan P. Dantur - [Azure Functions on a Docker Container](https://medium.com/@juanpdantur/azure-functions-on-a-docker-container-7e76872c40cf)
+* Shayne Boyer - [Running the Azure Functions runtime in containers on Kubernetes and more](https://tattoocoder.com/functions-runtime-kubernetes/)
 
 ## Real World Use Cases
 
@@ -227,3 +241,6 @@
 * Christos Matskas - [Monitor Azure Web Application backups with Azure Functions](https://cmatskas.com/monitor-azure-web-application-backups-with-azure-functions/)
 * Srikantan Sankaran - [Using Azure Functions, Cosmos DB and Powerapps to build, deploy and consume Serverless Apps](https://blogs.msdn.microsoft.com/srikantan/2017/07/22/using-azure-functions-cosmos-db-and-powerapps-to-build-deploy-and-consume-serverless-apps/)
 * Boris Wilhelms - [Build a photo gallery with Azure Functions](https://blog.wille-zone.de/post/build-a-photo-gallery-with-azure-functions/?utm_content=buffer415e5&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+* Jeff Hollan - [Serverless and Bitcoin — creating price watchers dynamically](https://hackernoon.com/serverless-and-bitcoin-creating-price-watchers-dynamically-beea36ef194e)
+* [Microsoft Technical Case Studies using Azure Functions](https://microsoft.github.io/techcasestudies/#technology=Azure%20Functions)
+* Alex Billson - [A Simple, Serverless API using Azure Tables & Functions](https://hackernoon.com/a-simple-serverless-api-using-azure-tables-functions-bd7669b4b8cf)
