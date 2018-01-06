@@ -61,6 +61,7 @@
 * Chris Gillum on On .NET - [Serverless workflows with Durable Functions](https://www.youtube.com/watch?v=P8Ixr1a1cCE)
 * Chris Gillum on Azure Friday - [Durable Functions in Azure Functions](https://channel9.msdn.com/Shows/Azure-Friday/Durable-Functions-in-Azure-Functions)
 * Matthew Henderson on Azure Friday - [Navigating the Microsoft Graph with Azure Functions](https://channel9.msdn.com/Shows/Azure-Friday/Navigating-the-Microsoft-Graph-with-Azure-Functions)
+* Marc Duiker on YouTube - [Durable Functions Playlist](https://www.youtube.com/playlist?list=PLoSzmz8jSD1cP3nW7lpk9sIw3cvJnSA_g)
 
 ### 2016
 * Chris Anderson at ServerlessConf London 2016 - [The Making of Azure Functions](https://www.youtube.com/watch?v=yJ9KnTw1kyc)
