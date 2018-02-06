@@ -8,12 +8,12 @@
 ## Azure Functions on GitHub
 
 * [Azure Functions Releases](https://github.com/Azure/azure-webjobs-sdk-script/releases)
-* [Azure/azure-webjobs-sdk-script (Azure Functions Runtime)](https://github.com/Azure/azure-webjobs-sdk-script)
-* [Azure/azure-webjobs-templates (Azure Functions templates)](https://github.com/Azure/azure-webjobs-sdk-templates)
+* [Azure/azure-functions-host (Azure Functions Runtime)](https://github.com/Azure/azure-functions-host)
+* [Azure/azure-functions-templates](https://github.com/Azure/azure-functions-templates)
 * [Azure/azure-functions (Documentation)](https://github.com/Azure/azure-functions)
 * [Azure/azure-webjobs-sdk](https://github.com/azure/azure-webjobs-sdk)
 * [Azure/azure-webjobs-sdk-extensions](https://github.com/Azure/azure-webjobs-sdk-extensions)
-* [Azure/azure-functions-cli (Command Line Interface)](https://github.com/azure/azure-functions-cli)
+* [Azure/azure-functions-core-tools (Command Line Tools)](https://github.com/azure/azure-functions-core-tools)
 * [Azure/azure-functions-durable-extension (Durable Functions Extension)](https://github.com/Azure/azure-functions-durable-extension)
 * [ProjectKudu/AzureFunctionsPortal](https://github.com/projectkudu/AzureFunctionsPortal)
 
