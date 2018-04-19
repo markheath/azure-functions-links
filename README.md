@@ -105,7 +105,7 @@
 * [Session Success Analyzer](https://github.com/joshdcar/session-success-gauge-azure-functions)
 * [Azure Functions Photo Mosaic Generator](https://github.com/Azure-Samples/functions-dotnet-photo-mosaic)
 
-## How-Tos - Deployment
+## Deployment
 
 * Benjamin Perkins - Apr 2018 - [Deploy an Azure Function created from Visual Studio](https://blogs.msdn.microsoft.com/benjaminperkins/2018/04/05/deploy-an-azure-function-created-from-visual-studio/)
 * Eric Williams - Feb 2018 - [ARM Templates: Deploying Azure Functions with Application Insights](https://www.motowilliams.com/arm-templates-functions-with-application-insights)
@@ -207,13 +207,13 @@
 * Kamil Mrzygłód - Jul 2017 - [Durable Functions - Durable Task Framework basics](http://blog.codenova.pl/post/durable-functions-durable-task-framework-basics1)
 * Mikhail Shilkov - Jul 2017 - [Custom Autoscaling with Durable Functions](https://mikhail.io/2017/07/custom-autoscaling-with-durable-functions/)
 
-## How-Tos - Auth
+## Auth
 
-* Steve Lee - [Using Serverless Azure Functions with Auth0 and Google APIs](https://auth0.com/blog/using-serverless-azure-functions-with-auth0-and-google-apis/)
-* Jason Roberts - [HTTP Function Authorization with Function Keys](http://dontcodetired.com/blog/post/Azure-HTTP-Function-Authorization-with-Function-Keys)
-* Stephen Cleary - [Azure Functions + Auth0](https://github.com/StephenClearyExamples/FunctionsAuth0)
-* Boris Wilhelms - [Secure Azure Functions with JWT access tokens](https://blog.wille-zone.de/post/secure-azure-functions-with-jwt-token/)
-* Ali Mazaheri - [Securing Azure Functions calls to Dynamics 365 using Azure AD!](https://blogs.msdn.microsoft.com/alimaz/2017/10/13/securing-azure-functions-calls-to-dynamics-365-secured-by-azure-ad/)
+* Boris Wilhelms - Oct 2017 - [Secure Azure Functions with JWT access tokens](https://blog.wille-zone.de/post/secure-azure-functions-with-jwt-token/)
+* Ali Mazaheri - Oct 2017 - [Securing Azure Functions calls to Dynamics 365 using Azure AD!](https://blogs.msdn.microsoft.com/alimaz/2017/10/13/securing-azure-functions-calls-to-dynamics-365-secured-by-azure-ad/)
+* Stephen Cleary - Sep 2017 - [Azure Functions + Auth0](https://github.com/StephenClearyExamples/FunctionsAuth0)
+* Steve Lee - Mar 2017 - [Using Serverless Azure Functions with Auth0 and Google APIs](https://auth0.com/blog/using-serverless-azure-functions-with-auth0-and-google-apis/)
+* Jason Roberts - Nov 2016 - [HTTP Function Authorization with Function Keys](http://dontcodetired.com/blog/post/Azure-HTTP-Function-Authorization-with-Function-Keys)
 * Mark Heath - [Securing an Azure Functions App with EasyAuth and AD B2C](http://markheath.net/post/secure-azure-functions-app-easy-auth-adb2c)
 
 ## How-Tos - Local Testing
@@ -227,17 +227,23 @@
 * Ben Morris - [Writing unit tests for Azure Functions using C#](http://www.ben-morris.com/writing-unit-tests-for-azure-functions-using-c/)
 * [How to use Azure Managed Service Identity (public preview) in App Service and Azure Functions](https://docs.microsoft.com/en-gb/azure/app-service/app-service-managed-service-identity)
 
-## How-Tos - CosmosDb
+## CosmosDb
 
-* Sudhir - [Azure CosmosDB in Banking Sector](https://blogs.msdn.microsoft.com/biblog/2018/01/02/azure-cosmosdb-in-banking-sector/)
-* Brady Gaster [Querying Azure Cosmos DB's Graph API using an Azure Function](http://www.bradygaster.com/posts/azure-cosmosdb-with-functions)
-* [Create an Azure Functions HTTP trigger with an Azure Cosmos DB input binding](https://docs.microsoft.com/en-us/azure/cosmos-db/tutorial-functions-http-trigger)
+* Official Docs - [Create an Azure Functions HTTP trigger with an Azure Cosmos DB input binding](https://docs.microsoft.com/en-us/azure/cosmos-db/tutorial-functions-http-trigger)
+* Official Docs - [Create a function triggered by Azure Cosmos DB](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-cosmos-db-triggered-function?utm_content=buffer13aed)
+* Matías Quaranta - Apr 2018 - [Azure Cosmos DB + Functions Cookbook — multi trigger](https://medium.com/@Ealsur/azure-cosmos-db-functions-cookbook-multi-trigger-f8938673de57)
+* Matías Quaranta - Jan 2018 - [Azure Cosmos DB + Functions Cookbook — output collector](https://medium.com/@Ealsur/azure-cosmos-db-functions-cookbook-output-collector-fbcdd663280d)
+* Matías Quaranta - Jan 2018 - [Azure Cosmos DB + Functions Cookbook— static client](https://medium.com/@Ealsur/azure-cosmos-db-functions-cookbook-static-client-874072aef28e)
+* Julie Lerman - Jan 2018 - [Data Points - Creating Azure Functions to Interact with Cosmos DB](https://msdn.microsoft.com/magazine/mt814991?f=255&MSPPError=-2147217396)
+* Sudhir - Jan 2018 - [Azure CosmosDB in Banking Sector](https://blogs.msdn.microsoft.com/biblog/2018/01/02/azure-cosmosdb-in-banking-sector/)
+* Rimma Nehme - Sep 2017 - [CosmosDB bindings for Azure Functions](https://azure.microsoft.com/en-us/blog/azure-cosmosdb-database-for-serverless-era/)
+* Brady Gaster - Aug 2017 - [Querying Azure Cosmos DB's Graph API using an Azure Function](http://www.bradygaster.com/posts/azure-cosmosdb-with-functions)
+
 
 ## How-Tos - Data Access
 
 * Anthony Chu - [Updating and Deleting Table Storage Entities with Azure Functions (C# and JavaScript)](http://anthonychu.ca/post/azure-functions-update-delete-table-storage/)
 * Raphael Londner [Using Azure Functions with MongoDB](https://www.mongodb.com/blog/post/microsoft-azure-functions-tutorial)
-* Rimma Nehme - [CosmosDB bindings for Azure Functions](https://azure.microsoft.com/en-us/blog/azure-cosmosdb-database-for-serverless-era/)
 
 ## How-Tos - Key Vault
 
@@ -288,6 +294,7 @@
 
 ## Real World Use Cases
 
+* Shayne Boyer - Jan 2018 - [Monitoring issues on Stack Overflow with serverless, CosmosDB and Teams](https://tattoocoder.com/monitoring-issues-on-stackoverflow-with-serverless-cosmosdb-and-teams/)
 * Jeremy Likness - [Build a Serverless Link Shortener with Analytics](https://blog.jeremylikness.com/build-a-serverless-link-shortener-with-analytics-faster-than-finishing-your-latte-8c094bb1df2c)
 * Troy Hunt - [Azure Functions in Practice](https://www.troyhunt.com/azure-functions-in-practice/) - Calling cloudflare (Queue Trigger, C#)
 * François Boucher - [How I use Azure Logic App, API App and Function App](http://www.frankysnotes.com/2016/10/how-i-use-azure-app-api-app-and.html) (OneDrive, Blobs, LogicApp, C# Webhook)
