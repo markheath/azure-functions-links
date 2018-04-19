@@ -107,6 +107,7 @@
 * [Azure Functions Photo Mosaic Generator](https://github.com/Azure-Samples/functions-dotnet-photo-mosaic)
 * [CoderCards - trading card generator](https://github.com/Azure-Samples/functions-dotnet-codercards)
 * [Tug of War with Azure Functions (nodeJs)](https://github.com/joescars/TugOfWar-FunctionsDemo)
+* [Azure Functions OpenALPR - License Plate Reader](https://github.com/anthonychu/azure-functions-openalpr)
 
 ## Deployment
 
@@ -149,11 +150,12 @@
 * Armin Reiter - Nov 2016 - [Using PowerShell to read RSS feed and write to Table Storage](https://codehollow.com/2016/11/working-azure-functions-part-1-powershell/)
 * Alexandre Verkinderen - Oct 2016 - [Retrieve Azure AAD user information with Azure Functions and publish it into PowerBI](http://www.mscloud.be/retrieve-azure-aad-user-information-with-azure-functions-and-publish-it-into-powerbi/)
 
-## How-Tos - Logging and Monitoring
+## Logging and Monitoring
 
-* Mikael Krief - [Azure Functions – Integrating monitoring with Application Insights](https://blogs.msdn.microsoft.com/visualstudioalmrangers/2017/10/10/azure-function-integrating-monitoring-with-application-insights/)
-* [Monitor Azure Functions with Application Insights](https://docs.microsoft.com/en-us/azure/azure-functions/functions-monitoring)
-* Mark Heath - [View Azure Functions Error Logs](http://markheath.net/post/three-ways-view-error-logs-azure-functions)
+* Official Docs - [Monitor Azure Functions with Application Insights](https://docs.microsoft.com/en-us/azure/azure-functions/functions-monitoring)
+* Assaf Neufeld - Feb 2018 - [Monitoring and Scaling Azure Functions](https://4pp1n51ght5.com/2018/02/15/monitoring-and-scaling-azure-functions/)
+* Mikael Krief - Oct 2017 - [Azure Functions – Integrating monitoring with Application Insights](https://blogs.msdn.microsoft.com/visualstudioalmrangers/2017/10/10/azure-function-integrating-monitoring-with-application-insights/)
+* Mark Heath - Nov 2016 - [View Azure Functions Error Logs](https://markheath.net/post/three-ways-view-error-logs-azure-functions)
 
 ## How-Tos - SendGrid
 
@@ -213,6 +215,7 @@
 ## Auth
 
 * Mark Heath - Mar 2018 - [Managing Azure Functions Keys](https://markheath.net/post/managing-azure-function-keys)
+* Vardhaman Deshpande - Feb 2018 - [SharePoint Framework: Calling AAD secured Azure Function on behalf of a user](https://www.vrdmn.com/2018/02/sharepoint-framework-calling-aad.html)
 * Matthew Soucoup - Jan 2018 - [Adding Azure AD B2C Authentication to Azure Functions](https://codemilltech.com/adding-azure-ad-b2c-authentication-to-azure-functions/)
 * Boris Wilhelms - Oct 2017 - [Secure Azure Functions with JWT access tokens](https://blog.wille-zone.de/post/secure-azure-functions-with-jwt-token/)
 * Ali Mazaheri - Oct 2017 - [Securing Azure Functions calls to Dynamics 365 using Azure AD!](https://blogs.msdn.microsoft.com/alimaz/2017/10/13/securing-azure-functions-calls-to-dynamics-365-secured-by-azure-ad/)
@@ -258,12 +261,12 @@
 
 * Nir Mashkowski - [Announcing the preview of Java support for Azure Functions](https://azure.microsoft.com/en-us/blog/announcing-the-preview-of-java-support-for-azure-functions/)
 
-## How-Tos Queues
+## Queues / Messaging
 
-* Mathew Charles 
-    * [Trigger a function on a ServiceBus Topic Subscription](http://stackoverflow.com/a/36722329)
-    * [Controlling concurrent queue processors](http://stackoverflow.com/a/40096267)
-* Maxime Rouiller - [Decoupling with Azure Functions bindings and Storage Queues triggers](https://blog.decayingcode.com/post/decoupling-with-azure-functions-bindings-and-storage-queues-triggers/)
+* Jeff Holan - Feb 2018 - [In order event processing with Azure Functions](https://medium.com/@jeffhollan/in-order-event-processing-with-azure-functions-bb661eb55428)
+* Maxime Rouiller - Aug 2017 - [Decoupling with Azure Functions bindings and Storage Queues triggers](https://blog.decayingcode.com/post/decoupling-with-azure-functions-bindings-and-storage-queues-triggers/)
+* Mathew Charles - Oct 2016 - [Controlling concurrent queue processors](http://stackoverflow.com/a/40096267)
+* Mathew Charles - Apr 2016 - [Trigger a function on a ServiceBus Topic Subscription](http://stackoverflow.com/a/36722329)
 
 ## Microsoft Graph
 
@@ -271,27 +274,36 @@
 * Tsuyoshi Ushio - Feb 2018 - [Configuring Microsoft Graph bindings for Azure Functions with B2C](https://medium.com/@tsuyoshiushio/configuring-microsoft-graph-bindings-for-azure-functions-with-b2c-60fe0b63e81a)
 * Glenna - Sep 2017 - [Microsoft Graph Bindings for Azure Functions](https://blogs.msdn.microsoft.com/appserviceteam/2017/09/25/my-intern-project-microsoft-graph-bindings-for-azure-functions/)
 
+## Performance
 
-## How-Tos - Misc
+* James - Mar 2018 - [Azure Functions – Significant Improvements in HTTP Trigger Scaling](https://www.azurefromthetrenches.com/azure-functions-significant-improvements-in-http-trigger-scaling/)
+* Colby Tresness - Feb 2018 - [Understanding Serverless Cold Start(https://blogs.msdn.microsoft.com/appserviceteam/2018/02/07/understanding-serverless-cold-start/)
+* Karim Vaes - Jan 2018 - [Serverless on demand scaling: pushing the pedal when you need it](https://kvaes.wordpress.com/2018/01/03/serverless-on-demand-scaling-pushing-the-pedal-when-you-need-it/)
+* Douglas Ware - Jan 2018 - [Some real performance numbers from some real Azure Functions](http://www.instantquick.com/index.php/some-real-performance-numbers-from-some-real-azure-functions)
+* Paul Batum - Sep 2017 - [Processing 100,000 Events Per Second on Azure Functions](https://blogs.msdn.microsoft.com/appserviceteam/2017/09/19/processing-100000-events-per-second-on-azure-functions/)
 
-* David Ebbo - [Access a Classic Storage Account from an Azure Function](http://stackoverflow.com/a/37365811)
-* Fabio Cavalcante - [Use a private NuGet repository](http://stackoverflow.com/a/39536289)
-* Jason Roberts - [Calling Azure Functions from Microsoft Flow](http://dontcodetired.com/blog/post/Serverless-Computing-and-Workflows-with-Azure-Functions-and-Microsoft-Flow)
-* James Chambers - [How to Organize Types in Your Scripts](http://jameschambers.com/2016/11/How-to-organize-types-in-your-scripts/)
-* Austen Collins - [Azure Functions Serverless Framework Plugin](https://serverless.com/blog/azure-functions-and-possibility/)
-* Donna Malayeri - [Combining .funproj with Web App Project](https://github.com/lindydonna/FunctionsClassLibrary)
-* John Papa - [Configuring Azure Functions Intellisense via JSON Schemas](https://johnpapa.net/configuring-azure-functions-intellisense-via-json-schemas/)
-* Chris Pietschmann - [Extend Execution Timeout Past 5 Minutes](https://buildazure.com/2017/08/17/azure-functions-extend-execution-timeout-past-5-minutes/)
-* Daniel Hindrikes - [Azure functions for single page websites](http://danielhindrikes.se/cloud/azure/azure-functions-for-single-page-websites/)
-* Paul Batum - [Processing 100,000 Events Per Second on Azure Functions](https://blogs.msdn.microsoft.com/appserviceteam/2017/09/19/processing-100000-events-per-second-on-azure-functions/)
-* Frank Boucher - [How to know when an Azure Function is running in a Staging slot](http://www.frankysnotes.com/2017/09/how-to-know-when-azure-function-is.html)
-* Mattias Lögdberg - [Azure Functions npm install via VSTS](http://mlogdberg.com/azurefunctions/vsts-npm-install)
+## Misc
+
+* Christos Matskas - Apr 2018 - [Using HTTPS with Azure Functions in local development](https://cmatskas.com/using-https-with-azure-functions-in-local-development/)
+* Jason Roberts - Mar 2018 - [Dynamic Binding in Azure Functions with Imperative Runtime Bindings](http://dontcodetired.com/blog/post/Dynamic-Binding-in-Azure-Functions-with-Imperative-Runtime-Bindings)
+* Jeremy Likness - Jan 2018 - [Azure Storage for Serverless .NET Apps in Minutes](https://blogs.msdn.microsoft.com/webdev/2018/01/25/azure-storage-for-serverless-net-apps-in-minutes)
+* Chris Anderson - Nov 2017 - [Function Filters](https://github.com/Azure/azure-webjobs-sdk/wiki/Function-Filters)
+* Mattias Lögdberg - Nov 2017 - [Azure Functions npm install via VSTS](http://mlogdberg.com/azurefunctions/vsts-npm-install)
+* Frank Boucher - Sep 2017 - [How to know when an Azure Function is running in a Staging slot](http://www.frankysnotes.com/2017/09/how-to-know-when-azure-function-is.html)
+* Daniel Hindrikes - Sep 2017 - [Azure functions for single page websites](https://danielhindrikes.se/index.php/2017/09/14/azure-functions-for-single-page-websites/)
+* Chris Pietschmann - Aug 2017 - [Extend Execution Timeout Past 5 Minutes](https://buildazure.com/2017/08/17/azure-functions-extend-execution-timeout-past-5-minutes/)
+* Donna Malayeri - Apr 2017 - [Combining .funproj with Web App Project](https://github.com/lindydonna/FunctionsClassLibrary)
+* John Papa - Mar 2017 - [Configuring Azure Functions Intellisense via JSON Schemas](https://johnpapa.net/configuring-azure-functions-intellisense-via-json-schemas/)
+* Austen Collins - Feb 2017 - [Azure Functions Serverless Framework Plugin](https://serverless.com/blog/azure-functions-and-possibility/)
+* James Chambers - Nov 2016 [How to Organize Types in Your Scripts](http://jameschambers.com/2016/11/How-to-organize-types-in-your-scripts/)
+* Jason Roberts - Nov 2016 - [Calling Azure Functions from Microsoft Flow](http://dontcodetired.com/blog/post/Serverless-Computing-and-Workflows-with-Azure-Functions-and-Microsoft-Flow)
+* Fabio Cavalcante - Sep 2016 - [Use a private NuGet repository](http://stackoverflow.com/a/39536289)
+* David Ebbo - May 2016 - [Access a Classic Storage Account from an Azure Function](http://stackoverflow.com/a/37365811)
 
 ## Docker / Containers / Kubernetes
 
 * Dimitris-Ilias Gkanatsios - Apr 2018 - [Manage Azure Container Instances using Azure Functions and Event Grid](https://github.com/dgkanatsios/AzureContainerInstancesManagement)
 * Anders Liu - Apr 2018 - [Extend Azure Function with ACI container](https://github.com/yangl900/azure-aci-samples/tree/master/function-with-container)
-* Burke Holland - Feb 2018 - [How To Build A Notification That You Won’t Hate](https://hackernoon.com/how-to-build-a-notification-that-you-wont-hate-62bfaec722f1)
 * Thorsten Hans - Jan 2018 - [Deploy Azure Functions to Kubernetes and scale them automatically](https://thorsten-hans.com/deploy-azure-functions-to-kubernetes-and-scale-them-automatically-8c9f44209bb)
 * Carlos Mendible - Jan 2018 - [Run a Durable Azure Function in a Container](https://carlos.mendible.com/2018/01/14/run-a-durable-azure-function-in-a-container/?WT.mc_id=link-twitter-jeliknes)
 * Carlos Mendible - Dec 2017 - [Run a Precompiled .NET Core Azure Function in a Container](https://carlos.mendible.com/2017/12/28/run-a-precomplied-net-core-azure-function-in-a-container/)
@@ -309,11 +321,20 @@
 
 * Francis Cote - Apr 2018 - [Serverless Use Case: Build a calendar feed from scrapped HTML schedules](https://dev.to/thatfrankdev/serverless-use-case-build-a-calendar-feed-form-scrapped-html-schedules-1em9)
 * Patrick van Kleef - Mar 2018 - [Use the power of Azure Functions and Cognitive Services to collect Geolocation information](https://www.patrickvankleef.com/2018/03/28/collect-data-with-azure-functions-and-cognitive-services/)
+* Burke Holland - Feb 2018 - [How To Build A Notification That You Won’t Hate](https://hackernoon.com/how-to-build-a-notification-that-you-wont-hate-62bfaec722f1)
 * Shayne Boyer - Jan 2018 - [Monitoring issues on Stack Overflow with serverless, CosmosDB and Teams](https://tattoocoder.com/monitoring-issues-on-stackoverflow-with-serverless-cosmosdb-and-teams/)
 * James - Jan 2018 - [Serverless Blog – Christmas 2017 Project](https://www.azurefromthetrenches.com/serverless-blog-christmas-2017-project/)
 * Sarah Williams - Jan 2018 - [Saving Trees with Free RSVP's](https://www.yellowbrickcode.co.uk/saving-trees-with-free-rsvps/)
+* Jeff Hollan - Dec 2017 - [Serverless and Bitcoin — creating price watchers dynamically](https://hackernoon.com/serverless-and-bitcoin-creating-price-watchers-dynamically-beea36ef194e)
+* Ben Chartrand - Dec 2017 - [Wolf Tracker: Vue.js + Azure Functions + more for a Secure, Cheap, Highly Scalable SPA!](https://liftcodeplay.com/2017/12/20/wolf-tracker-vue-js-azure-functions-more-for-a-secure-cheap-highly-scalable-spa)
+* Alex Billson - Dec 2017 - [A Simple, Serverless API using Azure Tables & Functions](https://hackernoon.com/a-simple-serverless-api-using-azure-tables-functions-bd7669b4b8cf)
+* Sarah Drasner - Oct 2017 - [Exploring Data with Serverless and Vue: Automatically Update GitHub Files With Serverless Functions](https://css-tricks.com/exploring-data-with-serverless-and-vue-part-i) [Part 2](https://css-tricks.com/exploring-data-with-serverless-and-vue-part-2/)
+* Oct 2017 - [Automate resizing uploaded images using Event Grid](https://docs.microsoft.com/en-us/azure/event-grid/resize-images-on-storage-blob-upload-event)
 * Jeremy Likness - Sep 2017 - [Build a Serverless Link Shortener with Analytics](https://blog.jeremylikness.com/build-a-serverless-link-shortener-with-analytics-faster-than-finishing-your-latte-8c094bb1df2c)
+* Boris Wilhelms - Sep 2017 - [Build a photo gallery with Azure Functions](https://blog.wille-zone.de/post/build-a-photo-gallery-with-azure-functions/?utm_content=buffer415e5)
 * Srikantan Sankaran - Jul 2017 - [Using Azure Functions, Cosmos DB and Powerapps to build, deploy and consume Serverless Apps](https://blogs.msdn.microsoft.com/srikantan/2017/07/22/using-azure-functions-cosmos-db-and-powerapps-to-build-deploy-and-consume-serverless-apps/)
+* Doug Finke - May 2017 - [Use PowerShell in Azure Functions to perform a scheduled clean-up task](https://dfinke.github.io/2017/Use-PowerShell-in-Azure-Functions-to-perform-a-scheduled-clean-up-task/)
+* Christos Matskas - Apr 2017 - [Monitor Azure Web Application backups with Azure Functions](https://cmatskas.com/monitor-azure-web-application-backups-with-azure-functions/)
 * Mikhail Shilkov - Mar 2017 - [Azure Functions as a Facade for Azure Monitoring](http://mikhail.io/2017/03/azure-functions-as-facade-for-azure-monitoring/)
 * Mark Heath - Feb 2017 - [Rapid API Development with Azure Functions](https://markheath.net/post/rapid-api-development-with-azure-functions)
 * Mattias Karlsson - Feb 2017 - [Automate GitHub Pull Requests Validation](https://hackernoon.com/github-statuses-made-easy-with-faas-fd9236a41925#.s1b5cova1)
@@ -330,14 +351,5 @@
 * Mark Heath - Oct 2016 - [Sending Randomly Scheduled Tweets with Azure Functions](https://markheath.net/post/randomly-scheduled-tweets-azure-functions)
 * Troy Hunt - Sep 2016 - [Azure Functions in Practice](https://www.troyhunt.com/azure-functions-in-practice/) - Calling cloudflare (Queue Trigger, C#)
 * James Montemagno - Aug 2016 - [NanoServices for Mobile Apps with Azure Functions](https://blog.xamarin.com/nano-services-for-mobile-apps-with-azure-functions/)
-* Doug Finke - [Use PowerShell in Azure Functions to perform a scheduled clean-up task](https://dfinke.github.io/2017/Use-PowerShell-in-Azure-Functions-to-perform-a-scheduled-clean-up-task/)
-* [Azure Functions Use Case Library](http://functionlibrary.azurewebsites.net/)
-* Christos Matskas - [Monitor Azure Web Application backups with Azure Functions](https://cmatskas.com/monitor-azure-web-application-backups-with-azure-functions/)
-* Boris Wilhelms - [Build a photo gallery with Azure Functions](https://blog.wille-zone.de/post/build-a-photo-gallery-with-azure-functions/?utm_content=buffer415e5&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
-* Jeff Hollan - [Serverless and Bitcoin — creating price watchers dynamically](https://hackernoon.com/serverless-and-bitcoin-creating-price-watchers-dynamically-beea36ef194e)
 * [Microsoft Technical Case Studies using Azure Functions](https://microsoft.github.io/techcasestudies/#technology=Azure%20Functions)
-* Alex Billson - [A Simple, Serverless API using Azure Tables & Functions](https://hackernoon.com/a-simple-serverless-api-using-azure-tables-functions-bd7669b4b8cf)
-* [Automate resizing uploaded images using Event Grid](https://docs.microsoft.com/en-us/azure/event-grid/resize-images-on-storage-blob-upload-event)
-* Sarah Drasner 
-    * [Exploring Data with Serverless and Vue: Automatically Update GitHub Files With Serverless Functions](https://css-tricks.com/exploring-data-with-serverless-and-vue-part-i)
-    * [Part 2](https://css-tricks.com/exploring-data-with-serverless-and-vue-part-2/)
+
