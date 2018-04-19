@@ -87,6 +87,7 @@
 * Mark Heath - [Building Serverless Applications in Azure Pluralsight Course](https://www.pluralsight.com/courses/azure-serverless-applications)
 * Jason Roberts - [Azure Function Triggers Quickstart Pluralsight Course](https://www.pluralsight.com/courses/azure-function-triggers-quick-start)
 * Jason Roberts - [Writing and Testing Precompiled Azure Functions in Visual Studio 2017](https://www.pluralsight.com/courses/azure-functions-visual-studio)
+* Jason Roberts - [Testing Precompiled Azure Functions: Deep Dive](https://www.pluralsight.com/library/courses/azure-functions-testing-precompiled-deep-dive)
 
 ## Podcast Episodes
 
@@ -161,15 +162,15 @@
 * Mikael Krief - Oct 2017 - [Azure Functions – Integrating monitoring with Application Insights](https://blogs.msdn.microsoft.com/visualstudioalmrangers/2017/10/10/azure-function-integrating-monitoring-with-application-insights/)
 * Mark Heath - Nov 2016 - [View Azure Functions Error Logs](https://markheath.net/post/three-ways-view-error-logs-azure-functions)
 
-## How-Tos - SendGrid
+## SendGrid
 
-* Mark Heath - [Sending Emails with SendGrid and Azure Functions](http://markheath.net/post/sending-emails-sendgrid-azure-functions)
-* Rene Modery - [Using Azure Functions to receive daily Website Updates via Email](http://modery.net/using-azure-functions-to-receive-daily-website-updates-via-email/)
+* Mark Heath - Jan 2017 - [Sending Emails with SendGrid and Azure Functions](https://markheath.net/post/sending-emails-sendgrid-azure-functions)
+* Rene Modery - Oct 2016 - [Using Azure Functions to receive daily Website Updates via Email](http://modery.net/using-azure-functions-to-receive-daily-website-updates-via-email/)
 
-## How-Tos - Twilio
+## Twilio
 
-* Jason Roberts - [Sending a Regular SMS with Azure Functions and Twilio](http://dontcodetired.com/blog/post/Sending-a-Regular-SMS-with-Azure-Functions-and-Twilio)
-* Brent Schooley - [Send Daily SMS Reminders Using C#, Azure Functions and Twilio](https://twilioinc.wpengine.com/2017/01/how-to-send-daily-sms-reminders-using-c-azure-functions-and-twilio.html)
+* Brent Schooley - Jan 2017 - [Send Daily SMS Reminders Using C#, Azure Functions and Twilio](https://twilioinc.wpengine.com/2017/01/how-to-send-daily-sms-reminders-using-c-azure-functions-and-twilio.html)
+* Jason Roberts - Oct 2016 - [Sending a Regular SMS with Azure Functions and Twilio](http://dontcodetired.com/blog/post/Sending-a-Regular-SMS-with-Azure-Functions-and-Twilio)
 
 ## Proxies
 
@@ -186,13 +187,12 @@
 
 ## How-Tos - Precompiled Functions
 
-* Jason Roberts
-    * [Creating Precompiled Azure Functions with Visual Studio 2017](http://dontcodetired.com/blog/post/Creating-Precompiled-Azure-Functions-with-Visual-Studio-2017)
-    * [Create Precompiled Azure Functions With Azure Event Grid Triggers](http://dontcodetired.com/blog/post/Create-Precompiled-Azure-Functions-With-Azure-Event-Grid-Triggers)
-* Andreas Helland - [Precompiling your Azure Functions](https://contos.io/precompiling-your-azure-functions-2335bd1def1d#.b8tdfrjs4)
-* Geert van der Cruijsen - [Building, testing and deploying precompiled Azure Functions](https://mobilefirstcloudfirst.net/2017/01/building-testing-deploying-precompiled-azure-functions/)
-* Donna Malayeri [Publishing a .NET class library as a Function App](https://blogs.msdn.microsoft.com/appserviceteam/2017/03/16/publishing-a-net-class-library-as-a-function-app/)
-* Justin Yoo [Precompiled Azure Functions Revisited](https://blog.kloud.com.au/2017/05/03/precompiled-azure-functions-revisited/)
+* Jason Roberts - Dec 2017 - [Create Precompiled Azure Functions With Azure Event Grid Triggers](http://dontcodetired.com/blog/post/Create-Precompiled-Azure-Functions-With-Azure-Event-Grid-Triggers)
+* Jason Roberts - Aug 2017 - [Creating Precompiled Azure Functions with Visual Studio 2017](http://dontcodetired.com/blog/post/Creating-Precompiled-Azure-Functions-with-Visual-Studio-2017)
+* Justin Yoo - May 2017 - [Precompiled Azure Functions Revisited](https://blog.kloud.com.au/2017/05/03/precompiled-azure-functions-revisited/)
+* Donna Malayeri - Mar 2017 - [Publishing a .NET class library as a Function App](https://blogs.msdn.microsoft.com/appserviceteam/2017/03/16/publishing-a-net-class-library-as-a-function-app/)
+* Andreas Helland - Jan 2017 - [Precompiling your Azure Functions](https://contos.io/precompiling-your-azure-functions-2335bd1def1d#.b8tdfrjs4)
+* Geert van der Cruijsen - Jan 2017 - [Building, testing and deploying precompiled Azure Functions](https://mobilefirstcloudfirst.net/2017/01/building-testing-deploying-precompiled-azure-functions/)
 
 ## Durable Functions
 
@@ -228,16 +228,15 @@
 * Steve Lee - Mar 2017 - [Using Serverless Azure Functions with Auth0 and Google APIs](https://auth0.com/blog/using-serverless-azure-functions-with-auth0-and-google-apis/)
 * Jason Roberts - Nov 2016 - [HTTP Function Authorization with Function Keys](http://dontcodetired.com/blog/post/Azure-HTTP-Function-Authorization-with-Function-Keys)
 
-## How-Tos - Local Testing
+## Local Testing
 
-* Adrian Hall - [Create and debug Azure Functions Locally](https://shellmonger.com/2016/10/31/creating-and-debugging-azure-functions-locally/)
-* Justin Yoo - [Unit Testing Locally with ScriptCS](https://blog.kloud.com.au/2016/09/05/testing-azure-functions-in-emulated-environment-with-scriptcs/) using [ScriptCS.AzureFunctions Nuget package](https://www.nuget.org/packages/ScriptCs.AzureFunctions)
-* Mark Heath 
-    * [Enabling CORS for local testing](http://markheath.net/post/enable-cors-local-test-azure-functions)
-    * [Local Debugging with the Azure Functions CLI](http://markheath.net/post/local-debugging-azure-functions-cli)
-* Shayne Boyer - [Testing Azure Functions with Postman and Swagger](https://tattoocoder.com/testing-azure-functions-with-postman-and-swagger/)
-* Ben Morris - [Writing unit tests for Azure Functions using C#](http://www.ben-morris.com/writing-unit-tests-for-azure-functions-using-c/)
-* [How to use Azure Managed Service Identity (public preview) in App Service and Azure Functions](https://docs.microsoft.com/en-gb/azure/app-service/app-service-managed-service-identity)
+* Official Docs - [How to use Azure Managed Service Identity (public preview) in App Service and Azure Functions](https://docs.microsoft.com/en-gb/azure/app-service/app-service-managed-service-identity)
+* Mark Heath - Sep 2017 - [Local Debugging with the Azure Functions CLI](https://markheath.net/post/local-debugging-azure-functions-cli)
+* Ben Morris - Jul 2017 - [Writing unit tests for Azure Functions using C#](http://www.ben-morris.com/writing-unit-tests-for-azure-functions-using-c/)
+* Mark Heath - Mar 2017 - [Enabling CORS for local testing](https://markheath.net/post/enable-cors-local-test-azure-functions)
+* Shayne Boyer - Mar 2017 - [Testing Azure Functions with Postman and Swagger](https://tattoocoder.com/testing-azure-functions-with-postman-and-swagger/)
+* Adrian Hall - Oct 2016 - [Create and debug Azure Functions Locally](https://shellmonger.com/2016/10/31/creating-and-debugging-azure-functions-locally/)
+* Justin Yoo - Sep 2016 - [Unit Testing Locally with ScriptCS](https://blog.kloud.com.au/2016/09/05/testing-azure-functions-in-emulated-environment-with-scriptcs/) using [ScriptCS.AzureFunctions Nuget package](https://www.nuget.org/packages/ScriptCs.AzureFunctions)
 
 ## CosmosDb
 
@@ -256,14 +255,14 @@
 * Anthony Chu - [Updating and Deleting Table Storage Entities with Azure Functions (C# and JavaScript)](http://anthonychu.ca/post/azure-functions-update-delete-table-storage/)
 * Raphael Londner [Using Azure Functions with MongoDB](https://www.mongodb.com/blog/post/microsoft-azure-functions-tutorial)
 
-## How-Tos - Key Vault
+## Key Vault
 
-* Jeff Hollan - [Getting Key Vault Secrets in Azure Functions](https://medium.com/statuscode/getting-key-vault-secrets-in-azure-functions-37620fd20a0b)
-* Rahul Nath - [Azure Key Vault From Azure Functions](http://www.rahulpnath.com/blog/azure-key-vault-from-azure-functions/)
+* Jeff Hollan - Nov 2017 - [Getting Key Vault Secrets in Azure Functions](https://medium.com/statuscode/getting-key-vault-secrets-in-azure-functions-37620fd20a0b)
+* Rahul Nath - May 2017 - [Azure Key Vault From Azure Functions](http://www.rahulpnath.com/blog/azure-key-vault-from-azure-functions/)
 
-## How-Tos - Java
+## Java
 
-* Nir Mashkowski - [Announcing the preview of Java support for Azure Functions](https://azure.microsoft.com/en-us/blog/announcing-the-preview-of-java-support-for-azure-functions/)
+* Nir Mashkowski - Oct 2017 - [Announcing the preview of Java support for Azure Functions](https://azure.microsoft.com/en-us/blog/announcing-the-preview-of-java-support-for-azure-functions/)
 
 ## Queues / Messaging
 
@@ -282,7 +281,7 @@
 ## Performance
 
 * James - Mar 2018 - [Azure Functions – Significant Improvements in HTTP Trigger Scaling](https://www.azurefromthetrenches.com/azure-functions-significant-improvements-in-http-trigger-scaling/)
-* Colby Tresness - Feb 2018 - [Understanding Serverless Cold Start(https://blogs.msdn.microsoft.com/appserviceteam/2018/02/07/understanding-serverless-cold-start/)
+* Colby Tresness - Feb 2018 - [Understanding Serverless Cold Start](https://blogs.msdn.microsoft.com/appserviceteam/2018/02/07/understanding-serverless-cold-start/)
 * Karim Vaes - Jan 2018 - [Serverless on demand scaling: pushing the pedal when you need it](https://kvaes.wordpress.com/2018/01/03/serverless-on-demand-scaling-pushing-the-pedal-when-you-need-it/)
 * Douglas Ware - Jan 2018 - [Some real performance numbers from some real Azure Functions](http://www.instantquick.com/index.php/some-real-performance-numbers-from-some-real-azure-functions)
 * Paul Batum - Sep 2017 - [Processing 100,000 Events Per Second on Azure Functions](https://blogs.msdn.microsoft.com/appserviceteam/2017/09/19/processing-100000-events-per-second-on-azure-functions/)
@@ -309,7 +308,6 @@
 * James Chambers - Nov 2016 [How to Organize Types in Your Scripts](http://jameschambers.com/2016/11/How-to-organize-types-in-your-scripts/)
 * Jason Roberts - Nov 2016 - [Calling Azure Functions from Microsoft Flow](http://dontcodetired.com/blog/post/Serverless-Computing-and-Workflows-with-Azure-Functions-and-Microsoft-Flow)
 * Fabio Cavalcante - Sep 2016 - [Use a private NuGet repository](http://stackoverflow.com/a/39536289)
-* David Ebbo - May 2016 - [Access a Classic Storage Account from an Azure Function](http://stackoverflow.com/a/37365811)
 
 ## Docker / Containers / Kubernetes
 
