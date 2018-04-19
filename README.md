@@ -39,10 +39,13 @@
 
 * [Azure Functions Team on Twitter](https://twitter.com/AzureFunctions/lists/azure-functions-team)
 
-## Useful information
+## Useful information / Big Picture
 
 * [Consumption Plan Cost Billing FAQ](https://github.com/Azure/Azure-Functions/wiki/Consumption-Plan-Cost-Billing-FAQ)
 * [Best Practices for Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-best-practices)
+* Free e-book: [Azure Serverless Computing Cookbook](https://azure.microsoft.com/en-us/resources/azure-serverless-computing-cookbook/en-us/)
+* Mark Heath - Mar 2018 - [Azure Functions Choices](https://markheath.net/post/azure-functions-choices)
+* Jeffrey Palermo and Justin Self - Feb 2018 - [Digging into Azure Functions: It’s Time to Take Them Seriously](http://www.codemag.com/article/1711071?utm_source=twitter&utm_medium=social-owned&utm_campaign=sm-articles)
 
 ## Videos
 
@@ -60,6 +63,7 @@
 * Eduardo Laureano at Connect 2017 - [What's new in Azure Functions](https://channel9.msdn.com/Events/Connect/2017/T113)
 * Alex Karcher at Connect 2017 - [Azure Functions Proxies: What's new](https://channel9.msdn.com/Events/Connect/2017/T114)
 * Chris Anderson at Serverlessconf 2017 - [Advanced design patterns in action](https://acloud.guru/series/serverlessconf/view/advanced-design-patterns-in-action)
+* Donna Malayeri at Serverlessconf 2017 - [Managing the serverless application lifecycle](https://acloud.guru/series/serverlessconf/view/serverless-application-lifecycle)
 * Chris Anderson at Build 2017 - [Azure Functions](https://channel9.msdn.com/Events/Build/2017/C9L05)
 * Cecil Philip at .NET Conf 2017 - [Go Serverless with Azure Functions and C#](https://channel9.msdn.com/Events/dotnetConf/2017/T223)
 * Cory Fowler - [How to Function](https://www.youtube.com/playlist?list=PLJv91fiNGrCAiVrzJIk9aUu4Lsd3QFrKe)
@@ -263,6 +267,7 @@
 
 ## Queues / Messaging
 
+* Jeff Holan - Mar 2018 - [Reliable Event Processing in Azure Functions](https://hackernoon.com/reliable-event-processing-in-azure-functions-37054dc2d0fc)
 * Jeff Holan - Feb 2018 - [In order event processing with Azure Functions](https://medium.com/@jeffhollan/in-order-event-processing-with-azure-functions-bb661eb55428)
 * Maxime Rouiller - Aug 2017 - [Decoupling with Azure Functions bindings and Storage Queues triggers](https://blog.decayingcode.com/post/decoupling-with-azure-functions-bindings-and-storage-queues-triggers/)
 * Mathew Charles - Oct 2016 - [Controlling concurrent queue processors](http://stackoverflow.com/a/40096267)
@@ -284,11 +289,17 @@
 
 ## Misc
 
+* Justin Yoo - Apr 2018 - [Dependency Injections on Azure Functions V2](https://blog.mexia.com.au/dependency-injections-on-azure-functions-v2)
 * Christos Matskas - Apr 2018 - [Using HTTPS with Azure Functions in local development](https://cmatskas.com/using-https-with-azure-functions-in-local-development/)
+* Official Docs - Apr 2018 - [Assembly Resolution in Azure Functions](https://github.com/Azure/azure-functions-host/wiki/Assembly-Resolution-in-Azure-Functions)
+* Official Docs - Apr 2018 - [Using the templates directly via dotnet new](https://github.com/Azure/azure-functions-templates/wiki/Using-the-templates-directly-via-dotnet-new)
 * Jason Roberts - Mar 2018 - [Dynamic Binding in Azure Functions with Imperative Runtime Bindings](http://dontcodetired.com/blog/post/Dynamic-Binding-in-Azure-Functions-with-Imperative-Runtime-Bindings)
+* Steve Busby - Jan 2018 - [Manage and Auto-scale your IoT solution with a predictable IoT Cloud](https://azure.microsoft.com/en-us/blog/iot-hub-dotnet-autoscale/)
 * Jeremy Likness - Jan 2018 - [Azure Storage for Serverless .NET Apps in Minutes](https://blogs.msdn.microsoft.com/webdev/2018/01/25/azure-storage-for-serverless-net-apps-in-minutes)
+* Andrew Westgarth - Dec 2017 - [Announcing Azure Functions Runtime preview 2](https://blogs.msdn.microsoft.com/appserviceteam/2017/12/05/announcing-azure-functions-runtime-preview-2)
 * Chris Anderson - Nov 2017 - [Function Filters](https://github.com/Azure/azure-webjobs-sdk/wiki/Function-Filters)
 * Mattias Lögdberg - Nov 2017 - [Azure Functions npm install via VSTS](http://mlogdberg.com/azurefunctions/vsts-npm-install)
+* yu_ka1984 - Oct 2017 - [SingletonAttribute and Mode property of Azure Functions](https://medium.com/@yuka1984/azure-functions-%E3%81%AE-singletonattribute%E3%81%A8mode%E3%83%97%E3%83%AD%E3%83%91%E3%83%86%E3%82%A3-bb728062198e)
 * Frank Boucher - Sep 2017 - [How to know when an Azure Function is running in a Staging slot](http://www.frankysnotes.com/2017/09/how-to-know-when-azure-function-is.html)
 * Daniel Hindrikes - Sep 2017 - [Azure functions for single page websites](https://danielhindrikes.se/index.php/2017/09/14/azure-functions-for-single-page-websites/)
 * Chris Pietschmann - Aug 2017 - [Extend Execution Timeout Past 5 Minutes](https://buildazure.com/2017/08/17/azure-functions-extend-execution-timeout-past-5-minutes/)
