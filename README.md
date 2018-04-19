@@ -48,6 +48,11 @@
 
 * [Azure Functions YouTube Channel](https://www.youtube.com/channel/UCtUYj6As_XFkOooUFnsJbYg)
 
+### 2018
+
+* Mikhail Shilkov at F# eXchange 2018 - [Azure F#unctions](https://skillsmatter.com/skillscasts/11347-azure-f-sharpunctions)
+* Chris Gillum on On.NET - [Debugging and Diagnostics of Durable Functions](https://www.youtube.com/watch?v=uML1eY1tykI&feature=youtu.be)
+
 ### 2017
 * Jeremy Likness at Connect 2017 - [Azure: Bring your app to the cloud with serverless Azure Functions](https://channel9.msdn.com/Events/Connect/2017/E102)
 * Jeremy Likness on Visual Studio Toolbox - [Azure Functions: Less-Server and More Code](https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Azure-Functions-Less-Server-and-More-Code)
@@ -116,7 +121,6 @@
 
 ## F# 
 
-* Mikhail Shilkov - Apr 2018 - [Skills Matter - Azure F#unctions](https://skillsmatter.com/skillscasts/11347-azure-f-sharpunctions)
 * Mike Sigsworth - Apr 2018 - [Building Azure Functions With F# Script and Visual Studio Code](https://discardchanges.com/post/building-azure-functions-with-fsharp-and-vscode/1-setup/) [Part 2](https://discardchanges.com/post/building-azure-functions-with-fsharp-and-vscode/2-create-function-app/) [Part 3](https://discardchanges.com/post/building-azure-functions-with-fsharp-and-vscode/3-running-locally/) [Part 4](https://discardchanges.com/post/building-azure-functions-with-fsharp-and-vscode/4-deploy-to-azure/)
 * Mikhail Shilkov - Feb 2018 - [Azure Durable Functions in F#](https://mikhail.io/2018/02/azure-durable-functions-in-fsharp/)
 * Mikhail Shilkov - Jan 2018 - [Tic-Tac-Toe with F#, Azure Functions, HATEOAS and Property-Based Testing](https://mikhail.io/2018/01/tictactoe-with-fsharp-azurefunctions-hateoas-and-property-based-testing/)
@@ -176,24 +180,28 @@
 * Donna Malayeri [Publishing a .NET class library as a Function App](https://blogs.msdn.microsoft.com/appserviceteam/2017/03/16/publishing-a-net-class-library-as-a-function-app/)
 * Justin Yoo [Precompiled Azure Functions Revisited](https://blog.kloud.com.au/2017/05/03/precompiled-azure-functions-revisited/)
 
-## How-Tos - Durable Functions
+## Durable Functions
 
 * [Official Docs](https://docs.microsoft.com/en-us/azure/azure-functions/durable-functions-overview)
-* Tamir Dresher - [Creating distributed workflows with Azure Durable Functions](https://blogs.msdn.microsoft.com/mvpawardprogram/2017/08/29/azure-durable-functions/)
-* Chris Pietschmann - [Scaling Azure Functions with Durable Functions](https://buildazure.com/2017/08/15/scaling-azure-functions-with-durable-functions/)
-* Kamil Mrzygłód 
-    * [Durable Functions - basic concepts and justification](http://blog.codenova.pl/post/durable-functions-durable-task-framework-basics)
-    * [Durable Functions - Durable Task Framework basics](http://blog.codenova.pl/post/durable-functions-durable-task-framework-basics1)
-    * [Accessing an orchestration history in Durable Functions](http://blog.codenova.pl/post/accessing-an-orchestration-history-in-durable-functions)
-    * [Starting fun with Durable Functions](http://blog.codenova.pl/post/starting-fun-with-durable-functions)
-* Mikhail Shilkov - [Custom Autoscaling with Durable Functions](https://mikhail.io/2017/07/custom-autoscaling-with-durable-functions/)
-* Simon Bisson - [What’s new in Azure Functions: durable states](https://www.infoworld.com/article/3237105/application-development/whats-new-in-azure-functions-durable-states.html)
-* Kanio
-    * [Running Azure Durable Functions in VS Code](https://azurekan.wordpress.com/2017/11/13/running-azure-durable-functions-in-vs-code/)
-    * [Azure Durable Functions](https://azurekan.wordpress.com/2017/11/13/azure-durable-functions/)
-* Marc Duiker
-    * [Azure Durable Functions - Stateful function orchestrations Part 1](https://blog.marcduiker.nl/2017/11/05/durable-azure-functions-stateful-orchestrations)
-    * [Part 2](https://blog.marcduiker.nl/2017/11/07/durable-azure-functions-stateful-orchestrations-part2.html)
+
+* Tsuyoshi Ushio - Apr 2018 - [Safe Blue Green Deployment with Durable Functions](https://medium.com/@tsuyoshiushio/safe-blue-green-deployment-with-durable-functions-905a1cda0450)
+* Paco de la Cruz - Apr 2018 - [Azure Durable Functions Pattern: Approval Workflow with SendGrid](https://blog.mexia.com.au/azure-durable-functions-approval-workflow-with-sendgrid)
+* Jaliya Udagedara - Apr 2018 - [Durable Functions in Azure Functions for Function Chaining](http://jaliyaudagedara.blogspot.co.uk/2018/04/durable-functions-in-azure-functions.html?spref=tw)
+* Tsuyoshi Ushio - Mar 2018 - [Writing Unit Test for Azure / Durable Functions](https://medium.com/@tsuyoshiushio/writing-unit-test-for-azure-durable-functions-80f2af07c65e)
+* Sebastian Achatz - Mar 2018 - [MapReduce with Durable Azure Functions](http://www.scaling-to-the-sky.com/2018/03/27/mapreduce-with-durable-azure-functions/)
+* Mark Heath - Feb 2018 - [The Case for Durable Workflows](https://markheath.net/post/the-case-for-durable-workflows)
+* Luke Puplett - Jan 2018 - [Quick Notes — Azure Durable Functions](https://medium.com/lukepuplett/quick-notes-azure-durable-functions-1dff60f4f4ee)
+* Simon Bisson - Nov 2017 - [What’s new in Azure Functions: durable states](https://www.infoworld.com/article/3237105/application-development/whats-new-in-azure-functions-durable-states.html)
+* Kamil Mrzygłód - Nov 2017 [Accessing an orchestration history in Durable Functions](http://blog.codenova.pl/post/accessing-an-orchestration-history-in-durable-functions)
+* Kamil Mrzygłód - Nov 2017 - [Starting fun with Durable Functions](http://blog.codenova.pl/post/starting-fun-with-durable-functions)
+* Kanio - Nov 2017 - [Running Azure Durable Functions in VS Code](https://azurekan.wordpress.com/2017/11/13/running-azure-durable-functions-in-vs-code/)
+* Kanio - Nov 2017 - [Azure Durable Functions](https://azurekan.wordpress.com/2017/11/13/azure-durable-functions/)
+* Marc Duiker - Nov 2017 - [Azure Durable Functions - Stateful function orchestrations Part 1](https://blog.marcduiker.nl/2017/11/05/durable-azure-functions-stateful-orchestrations) [Part 2](https://blog.marcduiker.nl/2017/11/07/durable-azure-functions-stateful-orchestrations-part2.html)
+* Tamir Dresher - Aug 2017 - [Creating distributed workflows with Azure Durable Functions](https://blogs.msdn.microsoft.com/mvpawardprogram/2017/08/29/azure-durable-functions/)
+* Chris Pietschmann - Aug 2017 - [Scaling Azure Functions with Durable Functions](https://buildazure.com/2017/08/15/scaling-azure-functions-with-durable-functions/)
+* Kamil Mrzygłód - Jul 2017 - [Durable Functions - basic concepts and justification](http://blog.codenova.pl/post/durable-functions-durable-task-framework-basics)
+* Kamil Mrzygłód - Jul 2017 - [Durable Functions - Durable Task Framework basics](http://blog.codenova.pl/post/durable-functions-durable-task-framework-basics1)
+* Mikhail Shilkov - Jul 2017 - [Custom Autoscaling with Durable Functions](https://mikhail.io/2017/07/custom-autoscaling-with-durable-functions/)
 
 ## How-Tos - Auth
 
