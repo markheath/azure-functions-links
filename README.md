@@ -183,7 +183,6 @@
 ## Durable Functions
 
 * [Official Docs](https://docs.microsoft.com/en-us/azure/azure-functions/durable-functions-overview)
-
 * Tsuyoshi Ushio - Apr 2018 - [Safe Blue Green Deployment with Durable Functions](https://medium.com/@tsuyoshiushio/safe-blue-green-deployment-with-durable-functions-905a1cda0450)
 * Paco de la Cruz - Apr 2018 - [Azure Durable Functions Pattern: Approval Workflow with SendGrid](https://blog.mexia.com.au/azure-durable-functions-approval-workflow-with-sendgrid)
 * Jaliya Udagedara - Apr 2018 - [Durable Functions in Azure Functions for Function Chaining](http://jaliyaudagedara.blogspot.co.uk/2018/04/durable-functions-in-azure-functions.html?spref=tw)
@@ -267,10 +266,16 @@
 * Frank Boucher - [How to know when an Azure Function is running in a Staging slot](http://www.frankysnotes.com/2017/09/how-to-know-when-azure-function-is.html)
 * Mattias Lögdberg - [Azure Functions npm install via VSTS](http://mlogdberg.com/azurefunctions/vsts-npm-install)
 
-## How-Tos - Docker
+## Docker / Containers / Kubernetes
 
-* Juan P. Dantur - [Azure Functions on a Docker Container](https://medium.com/@juanpdantur/azure-functions-on-a-docker-container-7e76872c40cf)
-* Shayne Boyer - [Running the Azure Functions runtime in containers on Kubernetes and more](https://tattoocoder.com/functions-runtime-kubernetes/)
+* Dimitris-Ilias Gkanatsios - Apr 2018 - [Manage Azure Container Instances using Azure Functions and Event Grid](https://github.com/dgkanatsios/AzureContainerInstancesManagement)
+* Anders Liu - Apr 2018 - [Extend Azure Function with ACI container](https://github.com/yangl900/azure-aci-samples/tree/master/function-with-container)
+* Thorsten Hans - Jan 2018 - [Deploy Azure Functions to Kubernetes and scale them automatically](https://thorsten-hans.com/deploy-azure-functions-to-kubernetes-and-scale-them-automatically-8c9f44209bb)
+* Carlos Mendible - Jan 2018 - [Run a Durable Azure Function in a Container](https://carlos.mendible.com/2018/01/14/run-a-durable-azure-function-in-a-container/?WT.mc_id=link-twitter-jeliknes)
+* Carlos Mendible - Dec 2017 - [Run a Precompiled .NET Core Azure Function in a Container](https://carlos.mendible.com/2017/12/28/run-a-precomplied-net-core-azure-function-in-a-container/)
+* Juan P. Dantur - Dec 2017 - [Azure Functions on a Docker Container](https://medium.com/@juanpdantur/azure-functions-on-a-docker-container-7e76872c40cf)
+* Shayne Boyer - Dec 2017 - [Running the Azure Functions runtime in containers on Kubernetes and more](https://tattoocoder.com/functions-runtime-kubernetes/)
+* Christos Matskas - Dec 2017 - [Running Azure Functions anywhere with the power of containers](https://cmatskas.com/running-azure-functions-anywhere-with-the-power-of-containers/)
 
 ## How-Tos - Functions on Linux
 
