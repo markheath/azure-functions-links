@@ -114,16 +114,19 @@
 * Christos Matskas - [Introduction to Azure Functions Deployment Slots](https://cmatskas.com/introduction-azure-functions-deployment-slots/)
 * Nick Walker - [Zip Push Deployment for Web Apps, Functions and WebJobs](https://blogs.msdn.microsoft.com/appserviceteam/2017/10/16/zip-push-deployment-for-web-apps-functions-and-webjobs/)
 
-## How-Tos - F# 
+## F# 
 
-* Greg Shackles
-    * [Get Started with Azure Functions and F#](http://gregshackles.com/getting-started-with-azure-functions-and-f/)
-    * [Creating Slack Slash Commands with Azure Functions](https://gregshackles.com/creating-slack-slash-commands-with-azure-functions/)
-* Mark Heath - [Binding to Blobs in Azure Functions with F#](http://markheath.net/post/using-blobs-in-azure-functions-with-fsharp)
-* Tamizhvendan S [Use Sauve and F# with Azure Functions](http://blog.tamizhvendan.in/blog/2016/09/19/scale-up-azure-functions-in-f-number-using-suave/)
-* Krzysztof Cieslak - [Using Paket with Azure Functions](http://kcieslak.io/Using-Paket-with-Azure-Functions)
-* Mathias Brandewinder - Creating an Azure Function in F# from the ground up  [Part 1](http://brandewinder.com/2017/02/11/fsharp-azure-function-from-the-ground-up-part-1/) [Part 2](http://brandewinder.com/2017/03/06/fsharp-azure-function-from-the-ground-up-part-2/)
-* Mikhail Shilkov - [Precompiled Azure Functions in F#](https://mikhail.io/2017/12/precompiled-azure-functions-in-fsharp/)
+* Mikhail Shilkov - Apr 2018 - [Skills Matter - Azure F#unctions](https://skillsmatter.com/skillscasts/11347-azure-f-sharpunctions)
+* Mike Sigsworth - Apr 2018 - [Building Azure Functions With F# Script and Visual Studio Code](https://discardchanges.com/post/building-azure-functions-with-fsharp-and-vscode/1-setup/) [Part 2](https://discardchanges.com/post/building-azure-functions-with-fsharp-and-vscode/2-create-function-app/) [Part 3](https://discardchanges.com/post/building-azure-functions-with-fsharp-and-vscode/3-running-locally/) [Part 4](https://discardchanges.com/post/building-azure-functions-with-fsharp-and-vscode/4-deploy-to-azure/)
+* Mikhail Shilkov - Feb 2018 - [Azure Durable Functions in F#](https://mikhail.io/2018/02/azure-durable-functions-in-fsharp/)
+* Mikhail Shilkov - Jan 2018 - [Tic-Tac-Toe with F#, Azure Functions, HATEOAS and Property-Based Testing](https://mikhail.io/2018/01/tictactoe-with-fsharp-azurefunctions-hateoas-and-property-based-testing/)
+* Mikhail Shilkov - Dec 2017 - [Precompiled Azure Functions in F#](https://mikhail.io/2017/12/precompiled-azure-functions-in-fsharp/)
+* Mathias Brandewinder - Feb 2017 - Creating an Azure Function in F# from the ground up  [Part 1](http://brandewinder.com/2017/02/11/fsharp-azure-function-from-the-ground-up-part-1/) [Part 2](http://brandewinder.com/2017/03/06/fsharp-azure-function-from-the-ground-up-part-2/)
+* Mark Heath - Nov 2016 - [Binding to Blobs in Azure Functions with F#](http://markheath.net/post/using-blobs-in-azure-functions-with-fsharp)
+* Krzysztof Cieslak - Nov 2016 - [Using Paket with Azure Functions](http://kcieslak.io/Using-Paket-with-Azure-Functions)
+* Greg Shackles - Sep 2016 - [Get Started with Azure Functions and F#](http://gregshackles.com/getting-started-with-azure-functions-and-f/)
+* Greg Shackles - Sep 2016 - [Creating Slack Slash Commands with Azure Functions](https://gregshackles.com/creating-slack-slash-commands-with-azure-functions/)
+* Tamizhvendan S - Sep 2016 - [Use Sauve and F# with Azure Functions](http://blog.tamizhvendan.in/blog/2016/09/19/scale-up-azure-functions-in-f-number-using-suave/)
 
 ## How-Tos - PowerShell
 
