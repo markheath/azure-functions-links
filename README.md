@@ -107,17 +107,22 @@
 
 ## How-Tos - Deployment
 
-* James Chambers - [How to Deploy Azure Functions from GitHub](http://jameschambers.com/2016/11/deploy-functions-from-github/)
-* Mathew Charles - [Customize Deployment Process](http://stackoverflow.com/a/40532400/7532)
-* Adrian Hall - [Deploying Azure Functions Programatically](https://shellmonger.com/2016/12/02/deploying-azure-functions-automatically/)
-* Christos Matskas - [DevOps with Azure Functions](https://cmatskas.com/devops-with-azure-functions-a-holistic-approach/)
-* Ian Alderman - [Deploying Azure Functions via ARM Template](http://mythoughtlab.azurewebsites.net/azure/deploying-your-azure-function-via-arm-template/)
-* Justin Yoo - [Azure Functions Deployment Strategies](https://blog.kloud.com.au/2016/09/04/azure-functions-deployment-strategies/)
-* Mark Heath - [Deploy Azure Functions with Kudu and PowerShell](http://markheath.net/post/deploy-azure-functions-kudu-powershell)
-* Peter Toonen - [Continuous Delivery of Azure Functions with TFS](https://toonen.io/2017/02/24/continuous-delivery-of-azure-functions-with-tfs/)
-* Mattias Karlson - [Delivering Functions with Cake](https://hackernoon.com/delivering-functions-with-cake-4b269c50f817#.129qqqwmj)
-* Christos Matskas - [Introduction to Azure Functions Deployment Slots](https://cmatskas.com/introduction-azure-functions-deployment-slots/)
-* Nick Walker - [Zip Push Deployment for Web Apps, Functions and WebJobs](https://blogs.msdn.microsoft.com/appserviceteam/2017/10/16/zip-push-deployment-for-web-apps-functions-and-webjobs/)
+* Benjamin Perkins - Apr 2018 - [Deploy an Azure Function created from Visual Studio](https://blogs.msdn.microsoft.com/benjaminperkins/2018/04/05/deploy-an-azure-function-created-from-visual-studio/)
+* Eric Williams - Feb 2018 - [ARM Templates: Deploying Azure Functions with Application Insights](https://www.motowilliams.com/arm-templates-functions-with-application-insights)
+* Mattias Karlsson - Feb 2018 - [“Run-From-Zip” with Cake Kudu Client](https://hackernoon.com/run-from-zip-with-cake-kudu-client-5c063cd72b37)
+* Anthony Chu - Feb 2018 - [Using VSTS to Deploy to Azure Functions and App Service with Run-From-Zip](https://anthonychu.ca/post/vsts-deploy-app-service-azure-functions-run-from-zip/)
+* David Ebbo - Feb 2018 - [Run-From-Zip: a new way to deploy your Azure Web Apps and Function Apps](https://github.com/Azure/app-service-announcements/issues/84)
+* Nick Walker - Oct 2017 - [Zip Push Deployment for Web Apps, Functions and WebJobs](https://blogs.msdn.microsoft.com/appserviceteam/2017/10/16/zip-push-deployment-for-web-apps-functions-and-webjobs/)
+* Christos Matskas - May 2017 - [Introduction to Azure Functions Deployment Slots](https://cmatskas.com/introduction-azure-functions-deployment-slots/)
+* Mattias Karlson - Mar 2017 - [Delivering Functions with Cake](https://hackernoon.com/delivering-functions-with-cake-4b269c50f817#.129qqqwmj)
+* Mark Heath - Feb 2017 - [Deploy Azure Functions with Kudu and PowerShell](https://markheath.net/post/deploy-azure-functions-kudu-powershell)
+* Peter Toonen - Feb 2017 - [Continuous Delivery of Azure Functions with TFS](https://toonen.io/2017/02/24/continuous-delivery-of-azure-functions-with-tfs/)
+* Christos Matskas - Jan 2017 - [DevOps with Azure Functions](https://cmatskas.com/devops-with-azure-functions-a-holistic-approach/)
+* Adrian Hall - Dec 2016 - [Deploying Azure Functions Programatically](https://shellmonger.com/2016/12/02/deploying-azure-functions-automatically/)
+* Ian Alderman - Dec 2016 - [Deploying Azure Functions via ARM Template](http://mythoughtlab.azurewebsites.net/azure/deploying-your-azure-function-via-arm-template/)
+* James Chambers - Nov 2016 - [How to Deploy Azure Functions from GitHub](http://jameschambers.com/2016/11/deploy-functions-from-github/)
+* Mathew Charles - Nov 2016 - [Customize Deployment Process](http://stackoverflow.com/a/40532400/7532)
+* Justin Yoo - Sep 2016 -[Azure Functions Deployment Strategies](https://blog.kloud.com.au/2016/09/04/azure-functions-deployment-strategies/)
 
 ## F# 
 
