@@ -231,6 +231,7 @@
 ## Local Testing
 
 * Official Docs - [How to use Azure Managed Service Identity (public preview) in App Service and Azure Functions](https://docs.microsoft.com/en-gb/azure/app-service/app-service-managed-service-identity)
+* Christos Matskas - Apr 2018 - [Using HTTPS with Azure Functions in local development](https://cmatskas.com/using-https-with-azure-functions-in-local-development/)
 * Mark Heath - Sep 2017 - [Local Debugging with the Azure Functions CLI](https://markheath.net/post/local-debugging-azure-functions-cli)
 * Ben Morris - Jul 2017 - [Writing unit tests for Azure Functions using C#](http://www.ben-morris.com/writing-unit-tests-for-azure-functions-using-c/)
 * Mark Heath - Mar 2017 - [Enabling CORS for local testing](https://markheath.net/post/enable-cors-local-test-azure-functions)
@@ -250,10 +251,11 @@
 * Rimma Nehme - Sep 2017 - [CosmosDB bindings for Azure Functions](https://azure.microsoft.com/en-us/blog/azure-cosmosdb-database-for-serverless-era/)
 * Brady Gaster - Aug 2017 - [Querying Azure Cosmos DB's Graph API using an Azure Function](http://www.bradygaster.com/posts/azure-cosmosdb-with-functions)
 
-## How-Tos - Data Access
+## Data Access
 
-* Anthony Chu - [Updating and Deleting Table Storage Entities with Azure Functions (C# and JavaScript)](http://anthonychu.ca/post/azure-functions-update-delete-table-storage/)
-* Raphael Londner [Using Azure Functions with MongoDB](https://www.mongodb.com/blog/post/microsoft-azure-functions-tutorial)
+* Official Docs - [Use Azure Functions to connect to an Azure SQL Database](https://docs.microsoft.com/en-us/azure/azure-functions/functions-scenario-database-table-cleanup)
+* Anthony Chu - Feb 2017 - [Updating and Deleting Table Storage Entities with Azure Functions (C# and JavaScript)](http://anthonychu.ca/post/azure-functions-update-delete-table-storage/)
+* Raphael Londner - Aug 2017 - [Using Azure Functions with MongoDB](https://www.mongodb.com/blog/post/microsoft-azure-functions-tutorial)
 
 ## Key Vault
 
@@ -286,10 +288,16 @@
 * Douglas Ware - Jan 2018 - [Some real performance numbers from some real Azure Functions](http://www.instantquick.com/index.php/some-real-performance-numbers-from-some-real-azure-functions)
 * Paul Batum - Sep 2017 - [Processing 100,000 Events Per Second on Azure Functions](https://blogs.msdn.microsoft.com/appserviceteam/2017/09/19/processing-100000-events-per-second-on-azure-functions/)
 
-## Misc
+## Dependency Injection
 
 * Justin Yoo - Apr 2018 - [Dependency Injections on Azure Functions V2](https://blog.mexia.com.au/dependency-injections-on-azure-functions-v2)
-* Christos Matskas - Apr 2018 - [Using HTTPS with Azure Functions in local development](https://cmatskas.com/using-https-with-azure-functions-in-local-development/)
+* Jon McGuire - Apr 2018 -[Service Locator for Azure Functions V2](https://mcguirev10.com/2018/04/03/service-locator-azure-functions-v2.html)
+* Jon McGuire - Feb 2018 - [Reusable Dependency Injection for Azure Function Apps](https://mcguirev10.com/2018/02/01/reusable-dependency-injection-azure-function.html)
+* Holger Leichsenring - Jan 2018 - [Azure Function Dependency Injection with AutoFac: Autofac on Functions](http://codingsoul.de/2018/01/19/azure-function-dependency-injection-with-autofac/)
+* Boris Wilhelms - Oct 2017 - [Proper Dependency injection in Azure Functions on function level with scoped services!](https://blog.wille-zone.de/post/azure-functions-proper-dependency-injection/)
+
+## Misc
+
 * Official Docs - Apr 2018 - [Assembly Resolution in Azure Functions](https://github.com/Azure/azure-functions-host/wiki/Assembly-Resolution-in-Azure-Functions)
 * Official Docs - Apr 2018 - [Using the templates directly via dotnet new](https://github.com/Azure/azure-functions-templates/wiki/Using-the-templates-directly-via-dotnet-new)
 * Jason Roberts - Mar 2018 - [Dynamic Binding in Azure Functions with Imperative Runtime Bindings](http://dontcodetired.com/blog/post/Dynamic-Binding-in-Azure-Functions-with-Imperative-Runtime-Bindings)
