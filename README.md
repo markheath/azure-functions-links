@@ -2,8 +2,7 @@
 
 ## Official Docs
 
-* [Azure Functions Documentation](https://azure.microsoft.com/en-us/documentation/services/functions/)
-* [All MSDN Azure Functions Docs](https://azure.microsoft.com/en-us/documentation/articles/?product=functions)
+* [Azure Functions Documentation](https://docs.microsoft.com/en-us/azure/azure-functions/)
 
 ## Azure Functions on GitHub
 
@@ -83,9 +82,10 @@
 * Monsters Weekly Nov 2016 - [Episode 78 - Azure Functions with Chris Anderson](http://aspnetmonsters.com/2016/11/monsters-weekly%5Cep78/)
 
 ### Pluralsight Courses
-* Mark Heath - [Azure Functions Fundamentals Pluralsight Course](https://app.pluralsight.com/library/courses/azure-functions-fundamentals/table-of-contents)
-* Mark Heath - [Building Serverless Applications in Azure Pluralsight Course](https://www.pluralsight.com/courses/azure-serverless-applications)
-* Jason Roberts - [Azure Function Triggers Quickstart Pluralsight Course](https://www.pluralsight.com/courses/azure-function-triggers-quick-start)
+* Mark Heath - [Azure Functions Fundamentals](https://app.pluralsight.com/library/courses/azure-functions-fundamentals/table-of-contents)
+* Mark Heath - [Building Serverless Applications in Azure](https://www.pluralsight.com/courses/azure-serverless-applications)
+* Mark Heath - [Azure Durable Functions Fundamentals](https://www.pluralsight.com/courses/azure-durable-functions-fundamentals)
+* Jason Roberts - [Azure Function Triggers Quickstart](https://www.pluralsight.com/courses/azure-function-triggers-quick-start)
 * Jason Roberts - [Writing and Testing Precompiled Azure Functions in Visual Studio 2017](https://www.pluralsight.com/courses/azure-functions-visual-studio)
 * Jason Roberts - [Testing Precompiled Azure Functions: Deep Dive](https://www.pluralsight.com/library/courses/azure-functions-testing-precompiled-deep-dive)
 
