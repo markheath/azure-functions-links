@@ -14,7 +14,7 @@
 * [Azure/azure-webjobs-sdk-extensions](https://github.com/Azure/azure-webjobs-sdk-extensions)
 * [Azure/azure-functions-core-tools (Command Line Tools)](https://github.com/azure/azure-functions-core-tools)
 * [Azure/azure-functions-durable-extension (Durable Functions Extension)](https://github.com/Azure/azure-functions-durable-extension)
-* [ProjectKudu/AzureFunctionsPortal](https://github.com/projectkudu/AzureFunctionsPortal)
+* [Azure/azure-functions-ux (Portal UI)](https://github.com/Azure/azure-functions-ux)
 
 ## Asking Questions and Feature requests
 
@@ -24,15 +24,17 @@
 
 ## Tools
 
-* [Azure Functions CLI](https://www.npmjs.com/package/azure-functions-core-tools)
-* [Visual Studio 2015 Tooling](https://blogs.msdn.microsoft.com/webdev/2016/12/01/visual-studio-tools-for-azure-functions/)
-* [Visual Studio 2017 Tooling](https://docs.microsoft.com/en-us/azure/azure-functions/functions-develop-vs) ([announcement Aug 2017](https://blogs.msdn.microsoft.com/appserviceteam/2017/08/14/azure-functions-tools-released-for-visual-studio-2017-update-3/)) ([improvements Nov 2017](https://blogs.msdn.microsoft.com/webdev/2017/11/15/improvements-to-azure-functions-in-visual-studio/))
+* [Azure Functions Core Tools](https://www.npmjs.com/package/azure-functions-core-tools)
+* [Visual Studio Tooling](https://docs.microsoft.com/en-us/azure/azure-functions/functions-develop-vs)
 * [Azure Functions Pack Utility for Node.js Functions](https://www.npmjs.com/package/azure-functions-pack)
 * [Azure Functions Runtime Preview](https://azure.microsoft.com/en-gb/blog/introducing-azure-functions-runtime-preview/)
 * [Azure Function Graphic Visualiser](https://github.com/jakkaj/funcgraph)
 * [Azure Functions VS Code Extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions)
-* [VS Code Extension with Azure Function Intellisense](https://johnpapa.net/vs-code-extension-with-azure-function-intellisense/)
-* [Develop Azure Functions on Any Platform](https://blogs.msdn.microsoft.com/appserviceteam/2017/09/25/develop-azure-functions-on-any-platform/)
+
+## Azure Functions Runtime Docker Images
+* [mcr.microsoft.com/azure-functions/dotnet (.NET)](https://hub.docker.com/_/microsoft-azure-functions-dotnet)
+* [mcr.microsoft.com/azure-functions/node (Node)](https://hub.docker.com/_/microsoft-azure-functions-node)
+* [mcr.microsoft.com/azure-functions/python (Python)](https://hub.docker.com/_/microsoft-azure-functions-python)
 
 ## Azure Functions Team
 
