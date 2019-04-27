@@ -47,13 +47,24 @@
 * Free e-book: [Azure Serverless Computing Cookbook](https://azure.microsoft.com/en-us/resources/azure-serverless-computing-cookbook/en-us/)
 * Mark Heath - Mar 2018 - [Azure Functions Choices](https://markheath.net/post/azure-functions-choices)
 * Jeffrey Palermo and Justin Self - Feb 2018 - [Digging into Azure Functions: It’s Time to Take Them Seriously](http://www.codemag.com/article/1711071?utm_source=twitter&utm_medium=social-owned&utm_campaign=sm-articles)
+* [Azure Functions Premium Plan](https://azure.microsoft.com/en-us/blog/announcing-the-azure-functions-premium-plan-for-enterprise-serverless-workloads/)
+* [Azure Serverless Computing Cookbook - free eBook](https://azure.microsoft.com/mediahandler/files/resourcefiles/azure-serverless-computing-cookbook/Azure_Serverless_Computing_Cookbook.pdf)
 
 ## Videos
 
 * [Azure Functions YouTube Channel](https://www.youtube.com/channel/UCtUYj6As_XFkOooUFnsJbYg)
 
+### 2019
+
+Paco de la Cruz at Global Integration Bootcamp 2019 [Durable Functions - Serverless and Stateful Orchestrations on Azure](https://www.youtube.com/watch?v=vWkzBt23YaE)
+Jeff Hollan [Five things about Azure Functions](https://channel9.msdn.com/Shows/5-Things/Five-Things-About-Azure-Functions)
+Sergey Zavoloka at Amsterdam Serverless Computing Meetup [Azure Durable Functions - Complexity Behind Simplicity](https://www.youtube.com/watch?v=IChIAHi70jg)
+
+
 ### 2018
 
+* Eduardo Laureano & Fabio Cavalcante at Ignite 2018 [Azure Functions Internals](https://myignite.techcommunity.microsoft.com/sessions/65889)
+* Simone Cotin at DevReach Conference 2018 - [Build Scalable APIs using Serverless](https://www.youtube.com/watch?v=4GF23wdWscU)
 * Mikhail Shilkov at F# eXchange 2018 - [Azure F#unctions](https://skillsmatter.com/skillscasts/11347-azure-f-sharpunctions)
 * Chris Gillum on On.NET - [Debugging and Diagnostics of Durable Functions](https://www.youtube.com/watch?v=uML1eY1tykI&feature=youtu.be)
 
@@ -93,6 +104,9 @@
 
 ## Podcast Episodes
 
+* Cloud Simplfied Apr 2019 [Solving real customer problems with Durable Azure functions](https://www.youtube.com/watch?v=oS0pCDvH3ZA)
+* Jeff Hollan Microsoft Mechanics Apr 2019 [Hybrid enterprise serverless in Microsoft Azure](https://www.youtube.com/watch?v=37fvRO9DhnQ&feature=youtu.be)
+* Lars Klint & Anthony Chu - [The Future of Azure Functions and Containers](https://acloud.guru/series/azure-chats/view/101-anthony-chu)
 * [Function Junction](https://www.youtube.com/channel/UCd6gCsSCtvU6qafadAZU_cQ) (Azure Functions Podcast) - Eric Fleming & Simon Timms
 * Microsoft Cloud Show Oct 2017 [Ignite 2017: Azure Functions with Donna Malayeri](http://www.microsoftcloudshow.com/podcast/Episodes/217-ignite-2017-azure-functions-with-donna-malayeri)
 * Yochay Kiriaty - [.NET Rocks Episode 1443](http://www.dotnetrocks.com/default.aspx?ShowNum=1443)
@@ -115,6 +129,9 @@
 * [CoderCards - trading card generator](https://github.com/Azure-Samples/functions-dotnet-codercards)
 * [Tug of War with Azure Functions (nodeJs)](https://github.com/joescars/TugOfWar-FunctionsDemo)
 * [Azure Functions OpenALPR - License Plate Reader](https://github.com/anthonychu/azure-functions-openalpr)
+* [CaptionR - Serverless real-time captioning and translation](https://github.com/anthonychu/captionr)
+* [Securing an Azure Function REST API with Azure Active Directory](https://github.com/rickvdbosch/SAFwAD)
+* [Backup Cosmos DB with Azure Functions](https://github.com/MikaBerglund/Backup-CosmosDB-with-Azure-Functions)
 
 ## Deployment
 
@@ -150,6 +167,8 @@
 
 ## PowerShell
 
+* SecureInfra - Feb 2019 - [Going Serverless with Azure Functions & Powershell: SendGrid](https://secureinfra.blog/2019/02/26/azure-functions/)
+* Olli Jääskeläinen - May 2018 - [Simple PowerShell logging solution for Azure Functions](http://blogopaxio.azurewebsites.net/simple-powershell-logging-solution-for-azure-functions/)
 * Stefan Stranger - Feb 2017 - [Using PowerShell Modules in Azure Functions](https://blogs.msdn.microsoft.com/powershell/2017/02/24/using-powershell-modules-in-azure-functions/)
 * Darren Robinson - Jan 2017 - [Simultaneously Start/Stop all Azure Resource Manager VMs in a Resource Group](https://blog.kloud.com.au/2017/01/06/how-to-create-an-azure-function-app-to-simultaneously-startstop-all-virtual-machines-in-a-resource-group/)
 * David O'Brien - Nov 2016 - [Hey Slack, where’s my flight?](https://blogs.msdn.microsoft.com/mvpawardprogram/2016/11/08/hey-slack-wheres-my-flight/)
@@ -189,16 +208,24 @@
 
 ## How-Tos - Precompiled Functions
 
-* Jason Roberts - Dec 2017 - [Create Precompiled Azure Functions With Azure Event Grid Triggers](http://dontcodetired.com/blog/post/Create-Precompiled-Azure-Functions-With-Azure-Event-Grid-Triggers)
+
 * Jason Roberts - Aug 2017 - [Creating Precompiled Azure Functions with Visual Studio 2017](http://dontcodetired.com/blog/post/Creating-Precompiled-Azure-Functions-with-Visual-Studio-2017)
 * Justin Yoo - May 2017 - [Precompiled Azure Functions Revisited](https://blog.kloud.com.au/2017/05/03/precompiled-azure-functions-revisited/)
 * Donna Malayeri - Mar 2017 - [Publishing a .NET class library as a Function App](https://blogs.msdn.microsoft.com/appserviceteam/2017/03/16/publishing-a-net-class-library-as-a-function-app/)
 * Andreas Helland - Jan 2017 - [Precompiling your Azure Functions](https://contos.io/precompiling-your-azure-functions-2335bd1def1d#.b8tdfrjs4)
 * Geert van der Cruijsen - Jan 2017 - [Building, testing and deploying precompiled Azure Functions](https://mobilefirstcloudfirst.net/2017/01/building-testing-deploying-precompiled-azure-functions/)
 
+## Event Grid
+
+* Jason Roberts - Mar 2019 - [Testing EventGridTrigger Azure Functions Locally (Without Using ngrok)](http://dontcodetired.com/blog/post/Testing-EventGridTrigger-Azure-Functions-Locally-(Without-Using-ngrok)?WT.mc_id=link-twitter-jeliknes)
+* Jason Roberts - Dec 2017 - [Create Precompiled Azure Functions With Azure Event Grid Triggers](http://dontcodetired.com/blog/post/Create-Precompiled-Azure-Functions-With-Azure-Event-Grid-Triggers)
+* Oct 2017 - [Automate resizing uploaded images using Event Grid](https://docs.microsoft.com/en-us/azure/event-grid/resize-images-on-storage-blob-upload-event)
+
 ## Durable Functions
 
 * [Official Docs](https://docs.microsoft.com/en-us/azure/azure-functions/durable-functions-overview)
+* Mark Heath - Mar 2019 - [Awaiting Multiple External Events with Durable Functions](https://markheath.net/post/durable-functions-multiple-external-events)
+* Russell Gove - Feb 2019 - [Using Azure Durable Functions to implement SharePoint Reuseable Workflows](https://yetanothersharepointblog.wordpress.com/2019/02/17/using-azure-durable-functions-to-implement-sharepoint-workflows/)
 * Tsuyoshi Ushio - Apr 2018 - [Safe Blue Green Deployment with Durable Functions](https://medium.com/@tsuyoshiushio/safe-blue-green-deployment-with-durable-functions-905a1cda0450)
 * Paco de la Cruz - Apr 2018 - [Azure Durable Functions Pattern: Approval Workflow with SendGrid](https://blog.mexia.com.au/azure-durable-functions-approval-workflow-with-sendgrid)
 * Jaliya Udagedara - Apr 2018 - [Durable Functions in Azure Functions for Function Chaining](http://jaliyaudagedara.blogspot.co.uk/2018/04/durable-functions-in-azure-functions.html?spref=tw)
@@ -241,7 +268,7 @@
 * Adrian Hall - Oct 2016 - [Create and debug Azure Functions Locally](https://shellmonger.com/2016/10/31/creating-and-debugging-azure-functions-locally/)
 * Justin Yoo - Sep 2016 - [Unit Testing Locally with ScriptCS](https://blog.kloud.com.au/2016/09/05/testing-azure-functions-in-emulated-environment-with-scriptcs/) using [ScriptCS.AzureFunctions Nuget package](https://www.nuget.org/packages/ScriptCs.AzureFunctions)
 
-## CosmosDb
+## Cosmos DB
 
 * Official Docs - [Create an Azure Functions HTTP trigger with an Azure Cosmos DB input binding](https://docs.microsoft.com/en-us/azure/cosmos-db/tutorial-functions-http-trigger)
 * Official Docs - [Create a function triggered by Azure Cosmos DB](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-cosmos-db-triggered-function?utm_content=buffer13aed)
@@ -284,6 +311,7 @@
 
 ## Performance
 
+* Mikhail Shilkov - Mar 2019- [Reducing Cold Start Duration in Azure Functions](https://mikhail.io/2019/03/reducing-azure-functions-cold-start-time/)
 * James - Mar 2018 - [Azure Functions – Significant Improvements in HTTP Trigger Scaling](https://www.azurefromthetrenches.com/azure-functions-significant-improvements-in-http-trigger-scaling/)
 * Colby Tresness - Feb 2018 - [Understanding Serverless Cold Start](https://blogs.msdn.microsoft.com/appserviceteam/2018/02/07/understanding-serverless-cold-start/)
 * Karim Vaes - Jan 2018 - [Serverless on demand scaling: pushing the pedal when you need it](https://kvaes.wordpress.com/2018/01/03/serverless-on-demand-scaling-pushing-the-pedal-when-you-need-it/)
@@ -298,8 +326,17 @@
 * Holger Leichsenring - Jan 2018 - [Azure Function Dependency Injection with AutoFac: Autofac on Functions](http://codingsoul.de/2018/01/19/azure-function-dependency-injection-with-autofac/)
 * Boris Wilhelms - Oct 2017 - [Proper Dependency injection in Azure Functions on function level with scoped services!](https://blog.wille-zone.de/post/azure-functions-proper-dependency-injection/)
 
+## HTTP-Triggered Functions
+
+* Damien Bod - Mar 2019 - [Running Local Azure Functions in Visual Studio with HTTPS](https://damienbod.com/2019/03/14/running-local-azure-functions-in-visual-studio-with-https/)
+* Rasmus Tolstrup Christensen - Mar 2019 - [Multipart data with Azure Functions HttpTriggers](https://blog.rasmustc.com/multipart-data-with-azure-functions-httptriggers/)
+
 ## Misc
 
+* Laurie Atkinson - Apr 2019 [Angular How-to: Hide Logic from Users by Moving it out of the Browser and into Azure Functions](https://devblogs.microsoft.com/premier-developer/angular-how-to-hide-logic-from-users-by-moving-it-out-of-the-browser-and-into-azure-functions/?_lrsc=72d1032f-c8fb-46a2-9926-2746d96f1d5b)
+* Ravi Vyas - Mar 2019 - [Getting Started with Azure Functions and their extensions Superpower](https://hackernoon.com/getting-started-with-azure-functions-and-their-extensions-superpower-b4bc1bb29865)
+* Saman Ahmadi - Mar 2019 - [Azure Functions Hosting Options and Best Practices](https://samanax.com/2019/03/25/azfnhosting/)
+* Jeremy Likness - Feb 2019 - [Migrating Azure Functions from v1 (.NET) to v2 (.NET Core/Standard)](https://blog.jeremylikness.com/migrating-azure-functions-from-v1-net-to-v2-net-standard-b2d724f9faf)
 * Official Docs - Apr 2018 - [Assembly Resolution in Azure Functions](https://github.com/Azure/azure-functions-host/wiki/Assembly-Resolution-in-Azure-Functions)
 * Official Docs - Apr 2018 - [Using the templates directly via dotnet new](https://github.com/Azure/azure-functions-templates/wiki/Using-the-templates-directly-via-dotnet-new)
 * Jason Roberts - Mar 2018 - [Dynamic Binding in Azure Functions with Imperative Runtime Bindings](http://dontcodetired.com/blog/post/Dynamic-Binding-in-Azure-Functions-with-Imperative-Runtime-Bindings)
@@ -321,6 +358,8 @@
 
 ## Docker / Containers / Kubernetes
 
+* Nicolás Regina - Apr 2019 - [Wanna learn about Azure Functions + Docker?](https://medium.com/@nicolsregina/wanna-learn-about-azure-functions-docker-47351e7b98eb)
+* Peter Rombouts - Apr 2019 - [Scanning Blob storage for viruses with Azure Functions and Docker](https://peterrombouts.nl/2019/04/15/scanning-blob-storage-for-viruses-with-azure-functions-and-docker/)
 * Dimitris-Ilias Gkanatsios - Apr 2018 - [Manage Azure Container Instances using Azure Functions and Event Grid](https://github.com/dgkanatsios/AzureContainerInstancesManagement)
 * Anders Liu - Apr 2018 - [Extend Azure Function with ACI container](https://github.com/yangl900/azure-aci-samples/tree/master/function-with-container)
 * Thorsten Hans - Jan 2018 - [Deploy Azure Functions to Kubernetes and scale them automatically](https://thorsten-hans.com/deploy-azure-functions-to-kubernetes-and-scale-them-automatically-8c9f44209bb)
@@ -336,8 +375,17 @@
 * Julian Atanasoae - Jan 2018 - [How to install custom dependencies on Azure Functions on Linux](https://blogs.msdn.microsoft.com/julianatanasoae/2018/01/14/how-to-install-custom-dependencies-on-azure-functions-on-linux/)
 * Daria Grigoriu - Nov 2017 - [Anouncing Functions on Linux preview](https://blogs.msdn.microsoft.com/appserviceteam/2017/11/15/functions-on-linux-preview/)
 
+## SignalR
+
+* Jason Roberts - Mar 2019 - [Using the Azure SignalR Service Bindings in Azure Functions to Create Real-time Serverless Applications](http://dontcodetired.com/blog/post/Using-the-Azure-SignalR-Service-Bindings-in-Azure-Functions-to-Create-Real-time-Serverless-Applications)
+* Apr 2019 - [Quickstart: Create a chat room with Azure Functions and SignalR Service using JavaScript](https://docs.microsoft.com/en-us/azure/azure-signalr/signalr-quickstart-azure-functions-javascript)
+
 ## Real World Use Cases
 
+* Anthony Chu - Mar 2019 - [Real-time Speech-to-Text and Translation with Cognitive Services, Azure Functions, and SignalR Service](https://anthonychu.ca/post/realtime-captioning-translation-cognitive-services-signalr-azure-functions/)
+* Marc Duiker - Mar 2019 - [Creating the Azure Functions Updates Twitterbot](https://blog.marcduiker.nl/2019/03/03/creating-azure-functions-updates-twitterbot.html)
+* James - Bike Reminders - A breakdown of a real Azure application(https://www.azurefromthetrenches.com/bike-reminders-a-breakdown-of-a-real-azure-application-part-1/)
+* Josh King - Feb 2019 - [Moving My Automatic Blog Archive Tweets to Azure Functions](https://toastit.dev/2019/02/24/blog-archive-to-azure-function/)
 * Francis Cote - Apr 2018 - [Serverless Use Case: Build a calendar feed from scrapped HTML schedules](https://dev.to/thatfrankdev/serverless-use-case-build-a-calendar-feed-form-scrapped-html-schedules-1em9)
 * Patrick van Kleef - Mar 2018 - [Use the power of Azure Functions and Cognitive Services to collect Geolocation information](https://www.patrickvankleef.com/2018/03/28/collect-data-with-azure-functions-and-cognitive-services/)
 * Burke Holland - Feb 2018 - [How To Build A Notification That You Won’t Hate](https://hackernoon.com/how-to-build-a-notification-that-you-wont-hate-62bfaec722f1)
@@ -348,12 +396,12 @@
 * Ben Chartrand - Dec 2017 - [Wolf Tracker: Vue.js + Azure Functions + more for a Secure, Cheap, Highly Scalable SPA!](https://liftcodeplay.com/2017/12/20/wolf-tracker-vue-js-azure-functions-more-for-a-secure-cheap-highly-scalable-spa)
 * Alex Billson - Dec 2017 - [A Simple, Serverless API using Azure Tables & Functions](https://hackernoon.com/a-simple-serverless-api-using-azure-tables-functions-bd7669b4b8cf)
 * Sarah Drasner - Oct 2017 - [Exploring Data with Serverless and Vue: Automatically Update GitHub Files With Serverless Functions](https://css-tricks.com/exploring-data-with-serverless-and-vue-part-i) [Part 2](https://css-tricks.com/exploring-data-with-serverless-and-vue-part-2/)
-* Oct 2017 - [Automate resizing uploaded images using Event Grid](https://docs.microsoft.com/en-us/azure/event-grid/resize-images-on-storage-blob-upload-event)
 * Jeremy Likness - Sep 2017 - [Build a Serverless Link Shortener with Analytics](https://blog.jeremylikness.com/build-a-serverless-link-shortener-with-analytics-faster-than-finishing-your-latte-8c094bb1df2c)
 * Boris Wilhelms - Sep 2017 - [Build a photo gallery with Azure Functions](https://blog.wille-zone.de/post/build-a-photo-gallery-with-azure-functions/?utm_content=buffer415e5)
 * Srikantan Sankaran - Jul 2017 - [Using Azure Functions, Cosmos DB and Powerapps to build, deploy and consume Serverless Apps](https://blogs.msdn.microsoft.com/srikantan/2017/07/22/using-azure-functions-cosmos-db-and-powerapps-to-build-deploy-and-consume-serverless-apps/)
 * Doug Finke - May 2017 - [Use PowerShell in Azure Functions to perform a scheduled clean-up task](https://dfinke.github.io/2017/Use-PowerShell-in-Azure-Functions-to-perform-a-scheduled-clean-up-task/)
 * Christos Matskas - Apr 2017 - [Monitor Azure Web Application backups with Azure Functions](https://cmatskas.com/monitor-azure-web-application-backups-with-azure-functions/)
+* Jussi Roine - Mar 2017 - [Building a Location Beacon Using Microsoft Flow, Power BI, and Azure Functions](https://www.petri.com/building-location-beacon-using-microsoft-flow-power-bi-azure-functions)
 * Mikhail Shilkov - Mar 2017 - [Azure Functions as a Facade for Azure Monitoring](http://mikhail.io/2017/03/azure-functions-as-facade-for-azure-monitoring/)
 * Mark Heath - Feb 2017 - [Rapid API Development with Azure Functions](https://markheath.net/post/rapid-api-development-with-azure-functions)
 * Mattias Karlsson - Feb 2017 - [Automate GitHub Pull Requests Validation](https://hackernoon.com/github-statuses-made-easy-with-faas-fd9236a41925#.s1b5cova1)
