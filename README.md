@@ -152,7 +152,7 @@ Sergey Zavoloka at Amsterdam Serverless Computing Meetup [Azure Durable Function
 * Mathew Charles - Nov 2016 - [Customize Deployment Process](http://stackoverflow.com/a/40532400/7532)
 * Justin Yoo - Sep 2016 -[Azure Functions Deployment Strategies](https://blog.kloud.com.au/2016/09/04/azure-functions-deployment-strategies/)
 
-## F# 
+## F#
 
 * Mike Sigsworth - Apr 2018 - [Building Azure Functions With F# Script and Visual Studio Code](https://discardchanges.com/post/building-azure-functions-with-fsharp-and-vscode/1-setup/) [Part 2](https://discardchanges.com/post/building-azure-functions-with-fsharp-and-vscode/2-create-function-app/) [Part 3](https://discardchanges.com/post/building-azure-functions-with-fsharp-and-vscode/3-running-locally/) [Part 4](https://discardchanges.com/post/building-azure-functions-with-fsharp-and-vscode/4-deploy-to-azure/)
 * Mikhail Shilkov - Feb 2018 - [Azure Durable Functions in F#](https://mikhail.io/2018/02/azure-durable-functions-in-fsharp/)
@@ -399,7 +399,7 @@ Sergey Zavoloka at Amsterdam Serverless Computing Meetup [Azure Durable Function
 * Jeremy Likness - Sep 2017 - [Build a Serverless Link Shortener with Analytics](https://blog.jeremylikness.com/build-a-serverless-link-shortener-with-analytics-faster-than-finishing-your-latte-8c094bb1df2c)
 * Boris Wilhelms - Sep 2017 - [Build a photo gallery with Azure Functions](https://blog.wille-zone.de/post/build-a-photo-gallery-with-azure-functions/?utm_content=buffer415e5)
 * Srikantan Sankaran - Jul 2017 - [Using Azure Functions, Cosmos DB and Powerapps to build, deploy and consume Serverless Apps](https://blogs.msdn.microsoft.com/srikantan/2017/07/22/using-azure-functions-cosmos-db-and-powerapps-to-build-deploy-and-consume-serverless-apps/)
-* Doug Finke - May 2017 - [Use PowerShell in Azure Functions to perform a scheduled clean-up task](https://dfinke.github.io/2017/Use-PowerShell-in-Azure-Functions-to-perform-a-scheduled-clean-up-task/)
+* Doug Finke - May 2017 - [Use PowerShell in Azure Functions to perform a scheduled clean-up task](https://dfinke.github.io/powershell,%20azure,%20functions/2017/05/01/Use-PowerShell-in-Azure-Functions-to-perform-a-scheduled-clean-up-task.html)
 * Christos Matskas - Apr 2017 - [Monitor Azure Web Application backups with Azure Functions](https://cmatskas.com/monitor-azure-web-application-backups-with-azure-functions/)
 * Jussi Roine - Mar 2017 - [Building a Location Beacon Using Microsoft Flow, Power BI, and Azure Functions](https://www.petri.com/building-location-beacon-using-microsoft-flow-power-bi-azure-functions)
 * Mikhail Shilkov - Mar 2017 - [Azure Functions as a Facade for Azure Monitoring](http://mikhail.io/2017/03/azure-functions-as-facade-for-azure-monitoring/)
